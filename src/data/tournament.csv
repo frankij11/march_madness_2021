@@ -1,0 +1,2252 @@
+Year,Round,Seed,Team,Score,Seed_1,Team_1,Score_1,Favorite,Seed_diff,Spread,Winner,Upset
+2019,National Championship,1,Virginia,85,3,Texas Tech,77,TEAM_2,2,8,TEAM_1,True
+2019,Final Four,1,Virginia,63,4,Auburn,62,TEAM_2,3,1,TEAM_1,True
+2019,Final Four,2,Michigan State,51,3,Texas Tech,61,TEAM_2,1,-10,TEAM_2,False
+2019,Elite Eight,1,Gonzaga,69,3,Texas Tech,75,TEAM_2,2,-6,TEAM_2,False
+2019,Elite Eight,1,Virginia,80,3,Purdue,75,TEAM_2,2,5,TEAM_1,True
+2019,Elite Eight,1,Duke,67,2,Michigan State,68,TEAM_2,1,-1,TEAM_2,False
+2019,Elite Eight,5,Auburn,77,2,Kentucky,71,TEAM_1,-3,6,TEAM_1,False
+2019,Sweet 16,3,Purdue,99,2,Tennessee,94,TEAM_1,-1,5,TEAM_1,False
+2019,Sweet 16,1,Gonzaga,72,4,Florida State,58,TEAM_2,3,14,TEAM_1,True
+2019,Sweet 16,3,Texas Tech,63,2,Michigan,44,TEAM_1,-1,19,TEAM_1,False
+2019,Sweet 16,3,LSU,63,2,Michigan State,80,TEAM_1,-1,-17,TEAM_2,True
+2019,Sweet 16,1,North Carolina,80,5,Auburn,97,TEAM_2,4,-17,TEAM_2,False
+2019,Sweet 16,1,Duke,75,4,Virginia Tech,73,TEAM_2,3,2,TEAM_1,True
+2019,Sweet 16,1,Virginia,53,12,Oregon,49,TEAM_2,11,4,TEAM_1,True
+2019,Sweet 16,3,Houston,58,2,Kentucky,62,TEAM_1,-1,-4,TEAM_2,True
+2019,Second Round,3,LSU,69,6,Maryland,67,TEAM_2,3,2,TEAM_1,True
+2019,Second Round,10,Minnesota,50,2,Michigan State,70,TEAM_1,-8,-20,TEAM_2,True
+2019,Second Round,12,Murray St.,62,4,Florida State,90,TEAM_1,-8,-28,TEAM_2,True
+2019,Second Round,5,Auburn,89,4,Kansas,75,TEAM_1,-1,14,TEAM_1,False
+2019,Second Round,2,Michigan,64,10,Florida,49,TEAM_2,8,15,TEAM_1,True
+2019,Second Round,7,Wofford,56,2,Kentucky,62,TEAM_1,-5,-6,TEAM_2,True
+2019,Second Round,3,Purdue,87,6,Villanova,61,TEAM_2,3,26,TEAM_1,True
+2019,Second Round,1,Gonzaga,83,9,Baylor,71,TEAM_2,8,12,TEAM_1,True
+2019,Second Round,10,Iowa,77,2,Tennessee,83,TEAM_1,-8,-6,TEAM_2,True
+2019,Second Round,1,North Carolina,81,9,Washington,59,TEAM_2,8,22,TEAM_1,True
+2019,Second Round,1,Duke,77,9,Central Florida,76,TEAM_2,8,1,TEAM_1,True
+2019,Second Round,3,Texas Tech,78,6,Buffalo,58,TEAM_2,3,20,TEAM_1,True
+2019,Second Round,4,Virginia Tech,67,12,Liberty,58,TEAM_2,8,9,TEAM_1,True
+2019,Second Round,1,Virginia,63,9,Oklahoma,51,TEAM_2,8,12,TEAM_1,True
+2019,Second Round,3,Houston,74,11,Ohio State,59,TEAM_2,8,15,TEAM_1,True
+2019,Second Round,13,UC Irvine,73,12,Oregon,54,TEAM_1,-1,19,TEAM_1,False
+2019,First Round,8,Virginia Commonwealth,58,9,Central Florida,73,TEAM_2,1,-15,TEAM_2,False
+2019,First Round,5,Mississippi State,76,12,Liberty,80,TEAM_2,7,-4,TEAM_2,False
+2019,First Round,4,Virginia Tech,66,13,St. Louis,52,TEAM_2,9,14,TEAM_1,True
+2019,First Round,3,LSU,79,14,Yale,74,TEAM_2,11,5,TEAM_1,True
+2019,First Round,1,Virginia,71,16,Gardner-Webb,56,TEAM_2,15,15,TEAM_1,True
+2019,First Round,7,Louisville,76,10,Minnesota,86,TEAM_2,3,-10,TEAM_2,False
+2019,First Round,2,Michigan State,76,15,Bradley,65,TEAM_2,13,11,TEAM_1,True
+2019,First Round,8,Mississippi,72,9,Oklahoma,95,TEAM_2,1,-23,TEAM_2,False
+2019,First Round,1,North Carolina,88,16,Iona,73,TEAM_2,15,15,TEAM_1,True
+2019,First Round,8,Utah State,61,9,Washington,78,TEAM_2,1,-17,TEAM_2,False
+2019,First Round,5,Wisconsin,54,12,Oregon,72,TEAM_2,7,-18,TEAM_2,False
+2019,First Round,5,Auburn,78,12,New Mexico State,77,TEAM_2,7,1,TEAM_1,True
+2019,First Round,4,Kansas,87,13,Northeastern,53,TEAM_2,9,34,TEAM_1,True
+2019,First Round,6,Iowa State,59,11,Ohio State,62,TEAM_2,5,-3,TEAM_2,False
+2019,First Round,4,Kansas State,64,13,UC Irvine,70,TEAM_2,9,-6,TEAM_2,False
+2019,First Round,3,Houston,84,14,Georgia State,55,TEAM_2,11,29,TEAM_1,True
+2019,First Round,7,Wofford,84,10,Seton Hall,68,TEAM_2,3,16,TEAM_1,True
+2019,First Round,2,Kentucky,79,15,Abilene Christian,44,TEAM_2,13,35,TEAM_1,True
+2019,First Round,6,Villanova,61,11,St. Mary's (Cal.),57,TEAM_2,5,4,TEAM_1,True
+2019,First Round,3,Purdue,61,14,Old Dominion,48,TEAM_2,11,13,TEAM_1,True
+2019,First Round,7,Cincinnati,72,10,Iowa,79,TEAM_2,3,-7,TEAM_2,False
+2019,First Round,2,Tennessee,77,15,Colgate,70,TEAM_2,13,7,TEAM_1,True
+2019,First Round,2,Michigan,74,15,Montana,55,TEAM_2,13,19,TEAM_1,True
+2019,First Round,7,Nevada,61,10,Florida,70,TEAM_2,3,-9,TEAM_2,False
+2019,First Round,8,Syracuse,69,9,Baylor,78,TEAM_2,1,-9,TEAM_2,False
+2019,First Round,3,Texas Tech,72,14,Northern Kentucky,57,TEAM_2,11,15,TEAM_1,True
+2019,First Round,5,Marquette,64,12,Murray St.,83,TEAM_2,7,-19,TEAM_2,False
+2019,First Round,4,Florida State,76,13,Vermont,69,TEAM_2,9,7,TEAM_1,True
+2019,First Round,1,Gonzaga,87,16,Fairleigh Dickinson,49,TEAM_2,15,38,TEAM_1,True
+2019,First Round,11,Belmont,77,6,Maryland,79,TEAM_1,-5,-2,TEAM_2,True
+2019,First Round,1,Duke,85,16,North Dakota State,62,TEAM_2,15,23,TEAM_1,True
+2019,First Round,6,Buffalo,91,11,Arizona State,74,TEAM_2,5,17,TEAM_1,True
+2019,Play-In,16,Fairleigh Dickinson,82,16,Prairie View,76,EQUAL,0,6,TEAM_1,True
+2019,Play-In,11,Belmont,81,11,Temple,70,EQUAL,0,11,TEAM_1,True
+2019,Play-In,16,North Carolina Central,74,16,North Dakota State,78,EQUAL,0,-4,TEAM_2,True
+2019,Play-In,11,Arizona State,74,11,St. John's,65,EQUAL,0,9,TEAM_1,True
+2018,National Championship,1,Villanova,79,3,Michigan,62,TEAM_2,2,17,TEAM_1,True
+2018,Final Four,11,Loyola (Ill.),57,3,Michigan,69,TEAM_1,-8,-12,TEAM_2,True
+2018,Final Four,1,Villanova,95,1,Kansas,79,EQUAL,0,16,TEAM_1,True
+2018,Elite Eight,1,Villanova,71,3,Texas Tech,59,TEAM_2,2,12,TEAM_1,True
+2018,Elite Eight,1,Kansas,85,2,Duke,81,TEAM_2,1,4,TEAM_1,True
+2018,Elite Eight,9,Kansas State,62,11,Loyola (Ill.),78,TEAM_2,2,-16,TEAM_2,False
+2018,Elite Eight,9,Florida State,54,3,Michigan,58,TEAM_1,-6,-4,TEAM_2,True
+2018,Sweet 16,11,Loyola (Ill.),69,7,Nevada,68,TEAM_1,-4,1,TEAM_1,False
+2018,Sweet 16,9,Kansas State,61,5,Kentucky,58,TEAM_1,-4,3,TEAM_1,False
+2018,Sweet 16,3,Michigan,99,7,Texas A&M,72,TEAM_2,4,27,TEAM_1,True
+2018,Sweet 16,9,Florida State,75,4,Gonzaga,60,TEAM_1,-5,15,TEAM_1,False
+2018,Sweet 16,1,Kansas,80,5,Clemson,76,TEAM_2,4,4,TEAM_1,True
+2018,Sweet 16,11,Syracuse,65,2,Duke,69,TEAM_1,-9,-4,TEAM_2,True
+2018,Sweet 16,1,Villanova,90,5,West Virginia,78,TEAM_2,4,12,TEAM_1,True
+2018,Sweet 16,3,Texas Tech,78,2,Purdue,65,TEAM_1,-1,13,TEAM_1,False
+2018,Second Round,11,Loyola (Ill.),63,3,Tennessee,62,TEAM_1,-8,1,TEAM_1,False
+2018,Second Round,5,Ohio State,84,4,Gonzaga,90,TEAM_1,-1,-6,TEAM_2,True
+2018,Second Round,1,Kansas,83,8,Seton Hall,79,TEAM_2,7,4,TEAM_1,True
+2018,Second Round,7,Rhode Island,62,2,Duke,87,TEAM_1,-5,-25,TEAM_2,True
+2018,Second Round,5,Kentucky,95,13,Buffalo,75,TEAM_2,8,20,TEAM_1,True
+2018,Second Round,6,Houston,63,3,Michigan,64,TEAM_1,-3,-1,TEAM_2,True
+2018,Second Round,1,Villanova,81,9,Alabama,58,TEAM_2,8,23,TEAM_1,True
+2018,Second Round,6,Florida,66,3,Texas Tech,69,TEAM_1,-3,-3,TEAM_2,True
+2018,Second Round,10,Butler,73,2,Purdue,76,TEAM_1,-8,-3,TEAM_2,True
+2018,Second Round,11,Syracuse,55,3,Michigan State,53,TEAM_1,-8,2,TEAM_1,False
+2018,Second Round,7,Texas A&M,86,2,North Carolina,65,TEAM_1,-5,21,TEAM_1,False
+2018,Second Round,7,Nevada,75,2,Cincinnati,73,TEAM_1,-5,2,TEAM_1,False
+2018,Second Round,5,Clemson,84,4,Auburn,53,TEAM_1,-1,31,TEAM_1,False
+2018,Second Round,16,Maryland-Baltimore County,43,9,Kansas State,50,TEAM_1,-7,-7,TEAM_2,True
+2018,Second Round,9,Florida State,75,1,Xavier,70,TEAM_1,-8,5,TEAM_1,False
+2018,Second Round,13,Marshall,71,5,West Virginia,94,TEAM_1,-8,-23,TEAM_2,True
+2018,First Round,1,Virginia,54,16,Maryland-Baltimore County,74,TEAM_2,15,-20,TEAM_2,False
+2018,First Round,8,Creighton,59,9,Kansas State,69,TEAM_2,1,-10,TEAM_2,False
+2018,First Round,5,Kentucky,78,12,Davidson,73,TEAM_2,7,5,TEAM_1,True
+2018,First Round,4,Arizona,68,13,Buffalo,89,TEAM_2,9,-21,TEAM_2,False
+2018,First Round,6,Miami (Fla.),62,11,Loyola (Ill.),64,TEAM_2,5,-2,TEAM_2,False
+2018,First Round,3,Tennessee,73,14,Wright State,47,TEAM_2,11,26,TEAM_1,True
+2018,First Round,7,Nevada,87,10,Texas,83,TEAM_2,3,4,TEAM_1,True
+2018,First Round,2,Cincinnati,68,15,Georgia State,53,TEAM_2,13,15,TEAM_1,True
+2018,First Round,1,Xavier,102,16,Texas Southern,83,TEAM_2,15,19,TEAM_1,True
+2018,First Round,8,Missouri,54,9,Florida State,67,TEAM_2,1,-13,TEAM_2,False
+2018,First Round,5,Ohio State,81,12,South Dakota State,73,TEAM_2,7,8,TEAM_1,True
+2018,First Round,4,Gonzaga,68,13,UNC Greensboro,64,TEAM_2,9,4,TEAM_1,True
+2018,First Round,6,Houston,67,11,San Diego State,65,TEAM_2,5,2,TEAM_1,True
+2018,First Round,3,Michigan,61,14,Montana,47,TEAM_2,11,14,TEAM_1,True
+2018,First Round,7,Texas A&M,73,10,Providence,69,TEAM_2,3,4,TEAM_1,True
+2018,First Round,2,North Carolina,84,15,Lipscomb,66,TEAM_2,13,18,TEAM_1,True
+2018,First Round,1,Villanova,87,16,Radford,61,TEAM_2,15,26,TEAM_1,True
+2018,First Round,8,Virginia Tech,83,9,Alabama,86,TEAM_2,1,-3,TEAM_2,False
+2018,First Round,5,West Virginia,85,12,Murray St.,68,TEAM_2,7,17,TEAM_1,True
+2018,First Round,4,Wichita State,75,13,Marshall,81,TEAM_2,9,-6,TEAM_2,False
+2018,First Round,6,Florida,77,11,St. Bonaventure,62,TEAM_2,5,15,TEAM_1,True
+2018,First Round,3,Texas Tech,70,14,Stephen F. Austin,60,TEAM_2,11,10,TEAM_1,True
+2018,First Round,7,Arkansas,62,10,Butler,79,TEAM_2,3,-17,TEAM_2,False
+2018,First Round,2,Purdue,74,15,Cal State Fullerton,48,TEAM_2,13,26,TEAM_1,True
+2018,First Round,1,Kansas,76,16,Penn,60,TEAM_2,15,16,TEAM_1,True
+2018,First Round,8,Seton Hall,94,9,North Carolina State,83,TEAM_2,1,11,TEAM_1,True
+2018,First Round,5,Clemson,79,12,New Mexico State,68,TEAM_2,7,11,TEAM_1,True
+2018,First Round,4,Auburn,62,13,College of Charleston,58,TEAM_2,9,4,TEAM_1,True
+2018,First Round,6,TCU,57,11,Syracuse,52,TEAM_2,5,5,TEAM_1,True
+2018,First Round,3,Michigan State,82,14,Bucknell,78,TEAM_2,11,4,TEAM_1,True
+2018,First Round,7,Rhode Island,83,10,Oklahoma,78,TEAM_2,3,5,TEAM_1,True
+2018,First Round,2,Duke,89,15,Iona,67,TEAM_2,13,22,TEAM_1,True
+2018,Play-In,16,North Carolina Central,46,16,Texas Southern,64,EQUAL,0,-18,TEAM_2,True
+2018,Play-In,16,Long Island,61,16,Radford,71,EQUAL,0,-10,TEAM_2,True
+2018,Play-In,11,St. Bonaventure,65,11,UCLA,58,EQUAL,0,7,TEAM_1,True
+2018,Play-In,11,Arizona State,56,11,Syracuse,60,EQUAL,0,-4,TEAM_2,True
+2017,National Championship,1,Gonzaga,65,1,North Carolina,71,EQUAL,0,-6,TEAM_2,True
+2017,Final Four,7,South Carolina,73,1,Gonzaga,77,TEAM_1,-6,-4,TEAM_2,True
+2017,Final Four,3,Oregon,76,1,North Carolina,77,TEAM_1,-2,-1,TEAM_2,True
+2017,Elite Eight,1,Gonzaga,83,11,Xavier,59,TEAM_2,10,24,TEAM_1,True
+2017,Elite Eight,1,Kansas,60,3,Oregon,74,TEAM_2,2,-14,TEAM_2,False
+2017,Elite Eight,4,Florida,70,7,South Carolina,77,TEAM_2,3,-7,TEAM_2,False
+2017,Elite Eight,1,North Carolina,75,2,Kentucky,73,TEAM_2,1,2,TEAM_1,True
+2017,Sweet 16,8,Wisconsin,83,4,Florida,84,TEAM_1,-4,-1,TEAM_2,True
+2017,Sweet 16,3,Baylor,50,7,South Carolina,70,TEAM_2,4,-20,TEAM_2,False
+2017,Sweet 16,1,Kansas,98,4,Purdue,66,TEAM_2,3,32,TEAM_1,True
+2017,Sweet 16,3,Oregon,69,7,Michigan,68,TEAM_2,4,1,TEAM_1,True
+2017,Sweet 16,1,Gonzaga,61,4,West Virginia,58,TEAM_2,3,3,TEAM_1,True
+2017,Sweet 16,11,Xavier,73,2,Arizona,71,TEAM_1,-9,2,TEAM_1,False
+2017,Sweet 16,1,North Carolina,92,4,Butler,80,TEAM_2,3,12,TEAM_1,True
+2017,Sweet 16,3,UCLA,75,2,Kentucky,86,TEAM_1,-1,-11,TEAM_2,True
+2017,Second Round,1,Villanova,62,8,Wisconsin,65,TEAM_2,7,-3,TEAM_2,False
+2017,Second Round,5,Notre Dame,71,4,West Virginia,83,TEAM_1,-1,-12,TEAM_2,True
+2017,Second Round,5,Virginia,39,4,Florida,65,TEAM_1,-1,-26,TEAM_2,True
+2017,Second Round,11,Xavier,91,3,Florida State,66,TEAM_1,-8,25,TEAM_1,False
+2017,Second Round,1,Gonzaga,79,8,Northwestern,73,TEAM_2,7,6,TEAM_1,True
+2017,Second Round,7,St. Mary's (Cal.),60,2,Arizona,69,TEAM_1,-5,-9,TEAM_2,True
+2017,Second Round,5,Iowa State,76,4,Purdue,80,TEAM_1,-1,-4,TEAM_2,True
+2017,Second Round,12,Middle Tennessee State,65,4,Butler,74,TEAM_1,-8,-9,TEAM_2,True
+2017,Second Round,7,Michigan,73,2,Louisville,69,TEAM_1,-5,4,TEAM_1,False
+2017,Second Round,10,Wichita State,62,2,Kentucky,65,TEAM_1,-8,-3,TEAM_2,True
+2017,Second Round,1,Kansas,90,9,Michigan State,70,TEAM_2,8,20,TEAM_1,True
+2017,Second Round,1,North Carolina,72,8,Arkansas,65,TEAM_2,7,7,TEAM_1,True
+2017,Second Round,11,Rhode Island,72,3,Oregon,75,TEAM_1,-8,-3,TEAM_2,True
+2017,Second Round,11,Southern California,78,3,Baylor,82,TEAM_1,-8,-4,TEAM_2,True
+2017,Second Round,7,South Carolina,88,2,Duke,81,TEAM_1,-5,7,TEAM_1,False
+2017,Second Round,6,Cincinnati,67,3,UCLA,79,TEAM_1,-3,-12,TEAM_2,True
+2017,First Round,5,Notre Dame,60,12,Princeton,58,TEAM_2,7,2,TEAM_1,True
+2017,First Round,4,West Virginia,86,13,Bucknell,80,TEAM_2,9,6,TEAM_1,True
+2017,First Round,5,Virginia,76,12,UNC Wilmington,71,TEAM_2,7,5,TEAM_1,True
+2017,First Round,4,Florida,80,13,East Tennessee State,65,TEAM_2,9,15,TEAM_1,True
+2017,First Round,1,Gonzaga,66,16,South Dakota State,46,TEAM_2,15,20,TEAM_1,True
+2017,First Round,8,Northwestern,68,9,Vanderbilt,66,TEAM_2,1,2,TEAM_1,True
+2017,First Round,7,St. Mary's (Cal.),85,10,Virginia Commonwealth,77,TEAM_2,3,8,TEAM_1,True
+2017,First Round,2,Arizona,100,15,North Dakota,82,TEAM_2,13,18,TEAM_1,True
+2017,First Round,5,Iowa State,84,12,Nevada,73,TEAM_2,7,11,TEAM_1,True
+2017,First Round,4,Purdue,80,13,Vermont,70,TEAM_2,9,10,TEAM_1,True
+2017,First Round,5,Minnesota,72,12,Middle Tennessee State,81,TEAM_2,7,-9,TEAM_2,False
+2017,First Round,4,Butler,76,13,Winthrop,64,TEAM_2,9,12,TEAM_1,True
+2017,First Round,1,Villanova,76,16,Mount St. Mary's,56,TEAM_2,15,20,TEAM_1,True
+2017,First Round,8,Wisconsin,84,9,Virginia Tech,74,TEAM_2,1,10,TEAM_1,True
+2017,First Round,6,Maryland,65,11,Xavier,76,TEAM_2,5,-11,TEAM_2,False
+2017,First Round,3,Florida State,86,14,Florida Gulf Coast,80,TEAM_2,11,6,TEAM_1,True
+2017,First Round,6,Southern Methodist,65,11,Southern California,66,TEAM_2,5,-1,TEAM_2,False
+2017,First Round,3,Baylor,91,14,New Mexico State,73,TEAM_2,11,18,TEAM_1,True
+2017,First Round,1,Kansas,100,16,UC Davis,62,TEAM_2,15,38,TEAM_1,True
+2017,First Round,8,Miami (Fla.),58,9,Michigan State,78,TEAM_2,1,-20,TEAM_2,False
+2017,First Round,7,South Carolina,93,10,Marquette,73,TEAM_2,3,20,TEAM_1,True
+2017,First Round,2,Duke,87,15,Troy,65,TEAM_2,13,22,TEAM_1,True
+2017,First Round,1,North Carolina,103,16,Texas Southern,64,TEAM_2,15,39,TEAM_1,True
+2017,First Round,8,Arkansas,77,9,Seton Hall,71,TEAM_2,1,6,TEAM_1,True
+2017,First Round,6,Creighton,72,11,Rhode Island,84,TEAM_2,5,-12,TEAM_2,False
+2017,First Round,3,Oregon,93,14,Iona,77,TEAM_2,11,16,TEAM_1,True
+2017,First Round,6,Cincinnati,75,11,Kansas State,61,TEAM_2,5,14,TEAM_1,True
+2017,First Round,3,UCLA,97,14,Kent State,80,TEAM_2,11,17,TEAM_1,True
+2017,First Round,7,Michigan,92,10,Oklahoma State,91,TEAM_2,3,1,TEAM_1,True
+2017,First Round,2,Louisville,78,15,Jacksonville State,63,TEAM_2,13,15,TEAM_1,True
+2017,First Round,7,Dayton,58,10,Wichita State,64,TEAM_2,3,-6,TEAM_2,False
+2017,First Round,2,Kentucky,79,15,Northern Kentucky,70,TEAM_2,13,9,TEAM_1,True
+2017,Play-In,16,Mount St. Mary's,67,16,New Orleans,66,EQUAL,0,1,TEAM_1,True
+2017,Play-In,11,Kansas State,95,11,Wake Forest,88,EQUAL,0,7,TEAM_1,True
+2017,Play-In,16,North Carolina Central,63,16,UC Davis,67,EQUAL,0,-4,TEAM_2,True
+2017,Play-In,11,Southern California,75,11,Providence,71,EQUAL,0,4,TEAM_1,True
+2016,National Championship,2,Villanova,77,1,North Carolina,74,TEAM_1,-1,3,TEAM_1,False
+2016,Final Four,2,Villanova,95,2,Oklahoma,51,EQUAL,0,44,TEAM_1,True
+2016,Final Four,1,North Carolina,83,10,Syracuse,66,TEAM_2,9,17,TEAM_1,True
+2016,Elite Eight,1,Oregon,68,2,Oklahoma,80,TEAM_2,1,-12,TEAM_2,False
+2016,Elite Eight,1,Kansas,59,2,Villanova,64,TEAM_2,1,-5,TEAM_2,False
+2016,Elite Eight,1,Virginia,62,10,Syracuse,68,TEAM_2,9,-6,TEAM_2,False
+2016,Elite Eight,1,North Carolina,88,6,Notre Dame,74,TEAM_2,5,14,TEAM_1,True
+2016,Sweet 16,1,Oregon,82,4,Duke,68,TEAM_2,3,14,TEAM_1,True
+2016,Sweet 16,3,Texas A&M,63,2,Oklahoma,77,TEAM_1,-1,-14,TEAM_2,True
+2016,Sweet 16,1,Virginia,84,4,Iowa State,71,TEAM_2,3,13,TEAM_1,True
+2016,Sweet 16,11,Gonzaga,60,10,Syracuse,63,TEAM_1,-1,-3,TEAM_2,True
+2016,Sweet 16,1,Kansas,79,5,Maryland,63,TEAM_2,4,16,TEAM_1,True
+2016,Sweet 16,3,Miami (Fla.),69,2,Villanova,92,TEAM_1,-1,-23,TEAM_2,True
+2016,Sweet 16,1,North Carolina,101,5,Indiana,86,TEAM_2,4,15,TEAM_1,True
+2016,Sweet 16,6,Notre Dame,61,7,Wisconsin,56,TEAM_2,1,5,TEAM_1,True
+2016,Second Round,1,Kansas,73,9,Connecticut,61,TEAM_2,8,12,TEAM_1,True
+2016,Second Round,11,Wichita State,57,3,Miami (Fla.),65,TEAM_1,-8,-8,TEAM_2,True
+2016,Second Round,12,Yale,64,4,Duke,71,TEAM_1,-8,-7,TEAM_2,True
+2016,Second Round,1,North Carolina,85,9,Providence,66,TEAM_2,8,19,TEAM_1,True
+2016,Second Round,5,Indiana,73,4,Kentucky,67,TEAM_1,-1,6,TEAM_1,False
+2016,Second Round,1,Virginia,77,9,Butler,69,TEAM_2,8,8,TEAM_1,True
+2016,Second Round,12,Arkansas-Little Rock,61,4,Iowa State,78,TEAM_1,-8,-17,TEAM_2,True
+2016,Second Round,11,Gonzaga,82,3,Utah,59,TEAM_1,-8,23,TEAM_1,False
+2016,Second Round,2,Villanova,87,7,Iowa,68,TEAM_2,5,19,TEAM_1,True
+2016,Second Round,6,Notre Dame,76,14,Stephen F. Austin,75,TEAM_2,8,1,TEAM_1,True
+2016,Second Round,2,Oklahoma,85,10,Virginia Commonwealth,81,TEAM_2,8,4,TEAM_1,True
+2016,Second Round,10,Syracuse,75,15,Middle Tennessee State,50,TEAM_2,5,25,TEAM_1,True
+2016,Second Round,5,Maryland,73,13,Hawaii,60,TEAM_2,8,13,TEAM_1,True
+2016,Second Round,3,Texas A&M,92,11,Northern Iowa,88,TEAM_2,8,4,TEAM_1,True
+2016,Second Round,2,Xavier,63,7,Wisconsin,66,TEAM_2,5,-3,TEAM_2,False
+2016,Second Round,1,Oregon,69,8,St. Joseph's,64,TEAM_2,7,5,TEAM_1,True
+2016,First Round,2,Villanova,86,15,UNC Asheville,56,TEAM_2,13,30,TEAM_1,True
+2016,First Round,7,Iowa,72,10,Temple,70,TEAM_2,3,2,TEAM_1,True
+2016,First Round,3,Miami (Fla.),79,14,Buffalo,72,TEAM_2,11,7,TEAM_1,True
+2016,First Round,4,California,66,13,Hawaii,77,TEAM_2,9,-11,TEAM_2,False
+2016,First Round,5,Maryland,79,12,South Dakota State,74,TEAM_2,7,5,TEAM_1,True
+2016,First Round,8,Colorado,67,9,Connecticut,74,TEAM_2,1,-7,TEAM_2,False
+2016,First Round,1,Kansas,105,16,Austin Peay,79,TEAM_2,15,26,TEAM_1,True
+2016,First Round,2,Oklahoma,82,15,Cal State Bakersfield,68,TEAM_2,13,14,TEAM_1,True
+2016,First Round,7,Oregon State,67,10,Virginia Commonwealth,75,TEAM_2,3,-8,TEAM_2,False
+2016,First Round,3,Texas A&M,92,14,Green Bay,65,TEAM_2,11,27,TEAM_1,True
+2016,First Round,6,Texas,72,11,Northern Iowa,75,TEAM_2,5,-3,TEAM_2,False
+2016,First Round,4,Duke,93,13,UNC Wilmington,85,TEAM_2,9,8,TEAM_1,True
+2016,First Round,12,Yale,79,5,Baylor,75,TEAM_1,-7,4,TEAM_1,False
+2016,First Round,8,St. Joseph's,78,9,Cincinnati,76,TEAM_2,1,2,TEAM_1,True
+2016,First Round,2,Xavier,71,15,Weber State,53,TEAM_2,13,18,TEAM_1,True
+2016,First Round,10,Pittsburgh,43,7,Wisconsin,47,TEAM_1,-3,-4,TEAM_2,True
+2016,First Round,3,West Virginia,56,14,Stephen F. Austin,70,TEAM_2,11,-14,TEAM_2,False
+2016,First Round,4,Kentucky,85,13,Stony Brook,57,TEAM_2,9,28,TEAM_1,True
+2016,First Round,5,Indiana,99,12,Chattanooga,74,TEAM_2,7,25,TEAM_1,True
+2016,First Round,8,Southern California,69,9,Providence,70,TEAM_2,1,-1,TEAM_2,False
+2016,First Round,1,North Carolina,83,16,Florida Gulf Coast,67,TEAM_2,15,16,TEAM_1,True
+2016,First Round,1,Virginia,81,16,Hampton,45,TEAM_2,15,36,TEAM_1,True
+2016,First Round,8,Texas Tech,61,9,Butler,71,TEAM_2,1,-10,TEAM_2,False
+2016,First Round,5,Purdue,83,12,Arkansas-Little Rock,85,TEAM_2,7,-2,TEAM_2,False
+2016,First Round,4,Iowa State,94,13,Iona,81,TEAM_2,9,13,TEAM_1,True
+2016,First Round,6,Seton Hall,52,11,Gonzaga,68,TEAM_2,5,-16,TEAM_2,False
+2016,First Round,3,Utah,80,14,Fresno State,69,TEAM_2,11,11,TEAM_1,True
+2016,First Round,7,Dayton,51,10,Syracuse,70,TEAM_2,3,-19,TEAM_2,False
+2016,First Round,2,Michigan State,81,15,Middle Tennessee State,90,TEAM_2,13,-9,TEAM_2,False
+2016,First Round,6,Arizona,55,11,Wichita State,65,TEAM_2,5,-10,TEAM_2,False
+2016,First Round,1,Oregon,91,16,Holy Cross,52,TEAM_2,15,39,TEAM_1,True
+2016,First Round,6,Notre Dame,70,11,Michigan,63,TEAM_2,5,7,TEAM_1,True
+2016,Play-In,11,Wichita State,70,11,Vanderbilt,50,EQUAL,0,20,TEAM_1,True
+2016,Play-In,16,Fairleigh Dickinson,65,16,Florida Gulf Coast,96,EQUAL,0,-31,TEAM_2,True
+2016,Play-In,16,Holy Cross,59,16,Southern,55,EQUAL,0,4,TEAM_1,True
+2016,Play-In,11,Tulsa,62,11,Michigan,67,EQUAL,0,-5,TEAM_2,True
+2015,National Championship,1,Wisconsin,63,1,Duke,68,EQUAL,0,-5,TEAM_2,True
+2015,Final Four,1,Kentucky,64,1,Wisconsin,71,EQUAL,0,-7,TEAM_2,True
+2015,Final Four,7,Michigan State,61,1,Duke,81,TEAM_1,-6,-20,TEAM_2,True
+2015,Elite Eight,1,Wisconsin,85,2,Arizona,78,TEAM_2,1,7,TEAM_1,True
+2015,Elite Eight,1,Kentucky,68,3,Notre Dame,66,TEAM_2,2,2,TEAM_1,True
+2015,Elite Eight,7,Michigan State,76,4,Louisville,70,TEAM_1,-3,6,TEAM_1,False
+2015,Elite Eight,1,Duke,66,2,Gonzaga,52,TEAM_2,1,14,TEAM_1,True
+2015,Sweet 16,11,UCLA,62,2,Gonzaga,74,TEAM_1,-9,-12,TEAM_2,True
+2015,Sweet 16,1,Kentucky,78,5,West Virginia,39,TEAM_2,4,39,TEAM_1,True
+2015,Sweet 16,6,Xavier,60,2,Arizona,68,TEAM_1,-4,-8,TEAM_2,True
+2015,Sweet 16,8,North Carolina State,65,4,Louisville,75,TEAM_1,-4,-10,TEAM_2,True
+2015,Sweet 16,1,Duke,63,5,Utah,57,TEAM_2,4,6,TEAM_1,True
+2015,Sweet 16,1,Wisconsin,79,4,North Carolina,72,TEAM_2,3,7,TEAM_1,True
+2015,Sweet 16,3,Notre Dame,81,7,Wichita State,70,TEAM_2,4,11,TEAM_1,True
+2015,Sweet 16,3,Oklahoma,58,7,Michigan State,62,TEAM_2,4,-4,TEAM_2,False
+2015,Second Round,6,Butler,64,3,Notre Dame,67,TEAM_1,-3,-3,TEAM_2,True
+2015,Second Round,11,UCLA,92,14,Alabama-Birmingham,75,TEAM_2,3,17,TEAM_1,True
+2015,Second Round,6,Xavier,75,14,Georgia State,67,TEAM_2,8,8,TEAM_1,True
+2015,Second Round,10,Ohio State,58,2,Arizona,73,TEAM_1,-8,-15,TEAM_2,True
+2015,Second Round,1,Villanova,68,8,North Carolina State,71,TEAM_2,7,-3,TEAM_2,False
+2015,Second Round,5,Arkansas,78,4,North Carolina,87,TEAM_1,-1,-9,TEAM_2,True
+2015,Second Round,1,Kentucky,64,8,Cincinnati,51,TEAM_2,7,13,TEAM_1,True
+2015,Second Round,5,Utah,75,4,Georgetown,64,TEAM_1,-1,11,TEAM_1,False
+2015,Second Round,7,Wichita State,78,2,Kansas,65,TEAM_1,-5,13,TEAM_1,False
+2015,Second Round,7,Michigan State,60,2,Virginia,54,TEAM_1,-5,6,TEAM_1,False
+2015,Second Round,5,Northern Iowa,53,4,Louisville,66,TEAM_1,-1,-13,TEAM_2,True
+2015,Second Round,5,West Virginia,69,4,Maryland,59,TEAM_1,-1,10,TEAM_1,False
+2015,Second Round,1,Wisconsin,72,8,Oregon,65,TEAM_2,7,7,TEAM_1,True
+2015,Second Round,1,Duke,68,8,San Diego State,49,TEAM_2,7,19,TEAM_1,True
+2015,Second Round,7,Iowa,68,2,Gonzaga,87,TEAM_1,-5,-19,TEAM_2,True
+2015,Second Round,11,Dayton,66,3,Oklahoma,72,TEAM_1,-8,-6,TEAM_2,True
+2015,First Round,8,Cincinnati,66,9,Purdue,65,TEAM_2,1,1,TEAM_1,True
+2015,First Round,12,Buffalo,62,5,West Virginia,68,TEAM_1,-7,-6,TEAM_2,True
+2015,First Round,4,Maryland,65,13,Valparaiso,62,TEAM_2,9,3,TEAM_1,True
+2015,First Round,6,Butler,56,11,Texas,48,TEAM_2,5,8,TEAM_1,True
+2015,First Round,3,Notre Dame,69,14,Northeastern,65,TEAM_2,11,4,TEAM_1,True
+2015,First Round,7,Wichita State,81,10,Indiana,76,TEAM_2,3,5,TEAM_1,True
+2015,First Round,2,Kansas,75,15,New Mexico State,56,TEAM_2,13,19,TEAM_1,True
+2015,First Round,1,Villanova,93,16,Lafayette,52,TEAM_2,15,41,TEAM_1,True
+2015,First Round,8,North Carolina State,66,9,LSU,65,TEAM_2,1,1,TEAM_1,True
+2015,First Round,5,Northern Iowa,71,12,Wyoming,54,TEAM_2,7,17,TEAM_1,True
+2015,First Round,4,Louisville,57,13,UC Irvine,55,TEAM_2,9,2,TEAM_1,True
+2015,First Round,3,Oklahoma,69,14,Albany (N.Y.),60,TEAM_2,11,9,TEAM_1,True
+2015,First Round,7,Michigan State,70,10,Georgia,63,TEAM_2,3,7,TEAM_1,True
+2015,First Round,2,Virginia,79,15,Belmont,67,TEAM_2,13,12,TEAM_1,True
+2015,First Round,1,Wisconsin,86,16,Coastal Carolina,72,TEAM_2,15,14,TEAM_1,True
+2015,First Round,8,Oregon,79,9,Oklahoma State,73,TEAM_2,1,6,TEAM_1,True
+2015,First Round,4,North Carolina,67,13,Harvard,65,TEAM_2,9,2,TEAM_1,True
+2015,First Round,3,Baylor,56,14,Georgia State,57,TEAM_2,11,-1,TEAM_2,False
+2015,First Round,7,Virginia Commonwealth,72,10,Ohio State,75,TEAM_2,3,-3,TEAM_2,False
+2015,First Round,2,Arizona,93,15,Texas Southern,72,TEAM_2,13,21,TEAM_1,True
+2015,First Round,8,San Diego State,76,9,St. John's,64,TEAM_2,1,12,TEAM_1,True
+2015,First Round,5,Utah,57,12,Stephen F. Austin,50,TEAM_2,7,7,TEAM_1,True
+2015,First Round,4,Georgetown,84,13,Eastern Washington,74,TEAM_2,9,10,TEAM_1,True
+2015,First Round,6,Southern Methodist,59,11,UCLA,60,TEAM_2,5,-1,TEAM_2,False
+2015,First Round,3,Iowa State,59,14,Alabama-Birmingham,60,TEAM_2,11,-1,TEAM_2,False
+2015,First Round,7,Iowa,83,10,Davidson,52,TEAM_2,3,31,TEAM_1,True
+2015,First Round,2,Gonzaga,86,15,North Dakota State,76,TEAM_2,13,10,TEAM_1,True
+2015,First Round,1,Kentucky,79,16,Hampton,56,TEAM_2,15,23,TEAM_1,True
+2015,First Round,6,Xavier,76,11,Mississippi,57,TEAM_2,5,19,TEAM_1,True
+2015,First Round,6,Providence,53,11,Dayton,66,TEAM_2,5,-13,TEAM_2,False
+2015,First Round,1,Duke,85,16,Robert Morris,56,TEAM_2,15,29,TEAM_1,True
+2015,First Round,5,Arkansas,56,12,Wofford,53,TEAM_2,7,3,TEAM_1,True
+2015,Play-In,16,Manhattan,64,16,Hampton,74,EQUAL,0,-10,TEAM_2,True
+2015,Play-In,11,Mississippi,94,11,Brigham Young,90,EQUAL,0,4,TEAM_1,True
+2015,Play-In,16,Robert Morris,81,16,North Florida,77,EQUAL,0,4,TEAM_1,True
+2015,Play-In,11,Dayton,56,11,Boise State,55,EQUAL,0,1,TEAM_1,True
+2014,National Championship,7,Connecticut,60,8,Kentucky,54,TEAM_2,1,6,TEAM_1,True
+2014,Final Four,1,Florida,53,7,Connecticut,63,TEAM_2,6,-10,TEAM_2,False
+2014,Final Four,2,Wisconsin,73,8,Kentucky,74,TEAM_2,6,-1,TEAM_2,False
+2014,Elite Eight,1,Florida,62,11,Dayton,52,TEAM_2,10,10,TEAM_1,True
+2014,Elite Eight,1,Arizona,63,2,Wisconsin,64,TEAM_2,1,-1,TEAM_2,False
+2014,Elite Eight,4,Michigan State,54,7,Connecticut,60,TEAM_2,3,-6,TEAM_2,False
+2014,Elite Eight,8,Kentucky,75,2,Michigan,72,TEAM_1,-6,3,TEAM_1,False
+2014,Sweet 16,1,Florida,79,4,UCLA,68,TEAM_2,3,11,TEAM_1,True
+2014,Sweet 16,8,Kentucky,74,4,Louisville,69,TEAM_1,-4,5,TEAM_1,False
+2014,Sweet 16,11,Tennessee,71,2,Michigan,73,TEAM_1,-9,-2,TEAM_2,True
+2014,Sweet 16,1,Arizona,70,4,San Diego State,64,TEAM_2,3,6,TEAM_1,True
+2014,Sweet 16,11,Dayton,82,10,Stanford,72,TEAM_1,-1,10,TEAM_1,False
+2014,Sweet 16,6,Baylor,52,2,Wisconsin,69,TEAM_1,-4,-17,TEAM_2,True
+2014,Sweet 16,1,Virginia,59,4,Michigan State,61,TEAM_2,3,-2,TEAM_2,False
+2014,Sweet 16,3,Iowa State,76,7,Connecticut,81,TEAM_2,4,-5,TEAM_2,False
+2014,Second Round,11,Dayton,55,3,Syracuse,53,TEAM_1,-8,2,TEAM_1,False
+2014,Second Round,7,Oregon,77,2,Wisconsin,85,TEAM_1,-5,-8,TEAM_2,True
+2014,Second Round,1,Florida,61,9,Pittsburgh,45,TEAM_2,8,16,TEAM_1,True
+2014,Second Round,12,Harvard,73,4,Michigan State,80,TEAM_1,-8,-7,TEAM_2,True
+2014,Second Round,7,Texas,65,2,Michigan,79,TEAM_1,-5,-14,TEAM_2,True
+2014,Second Round,7,Connecticut,77,2,Villanova,65,TEAM_1,-5,12,TEAM_1,False
+2014,Second Round,5,St. Louis,51,4,Louisville,66,TEAM_1,-1,-15,TEAM_2,True
+2014,Second Round,12,North Dakota State,44,4,San Diego State,63,TEAM_1,-8,-19,TEAM_2,True
+2014,Second Round,11,Tennessee,83,14,Mercer,63,TEAM_2,3,20,TEAM_1,True
+2014,Second Round,6,Baylor,85,3,Creighton,55,TEAM_1,-3,30,TEAM_1,False
+2014,Second Round,10,Stanford,60,2,Kansas,57,TEAM_1,-8,3,TEAM_1,False
+2014,Second Round,1,Arizona,84,8,Gonzaga,61,TEAM_2,7,23,TEAM_1,True
+2014,Second Round,1,Virginia,78,8,Memphis,60,TEAM_2,7,18,TEAM_1,True
+2014,Second Round,6,North Carolina,83,3,Iowa State,85,TEAM_1,-3,-2,TEAM_2,True
+2014,Second Round,1,Wichita State,76,8,Kentucky,78,TEAM_2,7,-2,TEAM_2,False
+2014,Second Round,12,Stephen F. Austin,60,4,UCLA,77,TEAM_1,-8,-17,TEAM_2,True
+2014,First Round,1,Florida,67,16,Albany (N.Y.),55,TEAM_2,15,12,TEAM_1,True
+2014,First Round,8,Gonzaga,85,9,Oklahoma State,77,TEAM_2,1,8,TEAM_1,True
+2014,First Round,8,Colorado,48,9,Pittsburgh,77,TEAM_2,1,-29,TEAM_2,False
+2014,First Round,5,Oklahoma,75,12,North Dakota State,80,TEAM_2,7,-5,TEAM_2,False
+2014,First Round,5,Virginia Commonwealth,75,12,Stephen F. Austin,77,TEAM_2,7,-2,TEAM_2,False
+2014,First Round,4,San Diego State,73,13,New Mexico State,69,TEAM_2,9,4,TEAM_1,True
+2014,First Round,4,UCLA,76,13,Tulsa,59,TEAM_2,9,17,TEAM_1,True
+2014,First Round,6,Baylor,74,11,Nebraska,60,TEAM_2,5,14,TEAM_1,True
+2014,First Round,6,Ohio State,59,11,Dayton,60,TEAM_2,5,-1,TEAM_2,False
+2014,First Round,3,Creighton,76,14,Louisiana-Lafayette,66,TEAM_2,11,10,TEAM_1,True
+2014,First Round,3,Syracuse,77,14,Western Michigan,53,TEAM_2,11,24,TEAM_1,True
+2014,First Round,7,Oregon,87,10,Brigham Young,68,TEAM_2,3,19,TEAM_1,True
+2014,First Round,7,New Mexico,53,10,Stanford,58,TEAM_2,3,-5,TEAM_2,False
+2014,First Round,2,Kansas,80,15,Eastern Kentucky,69,TEAM_2,13,11,TEAM_1,True
+2014,First Round,2,Wisconsin,75,15,American,35,TEAM_2,13,40,TEAM_1,True
+2014,First Round,1,Virginia,70,16,Coastal Carolina,59,TEAM_2,15,11,TEAM_1,True
+2014,First Round,8,Memphis,71,9,George Washington,66,TEAM_2,1,5,TEAM_1,True
+2014,First Round,5,Cincinnati,57,12,Harvard,61,TEAM_2,7,-4,TEAM_2,False
+2014,First Round,4,Michigan State,93,13,Delaware,78,TEAM_2,9,15,TEAM_1,True
+2014,First Round,6,North Carolina,79,11,Providence,77,TEAM_2,5,2,TEAM_1,True
+2014,First Round,1,Wichita State,64,16,Cal-Poly,37,TEAM_2,15,27,TEAM_1,True
+2014,First Round,8,Kentucky,56,9,Kansas State,49,TEAM_2,1,7,TEAM_1,True
+2014,First Round,3,Iowa State,93,14,North Carolina Central,75,TEAM_2,11,18,TEAM_1,True
+2014,First Round,5,St. Louis,83,12,North Carolina State,80,TEAM_2,7,3,TEAM_1,True
+2014,First Round,7,Connecticut,89,10,St. Joseph's,81,TEAM_2,3,8,TEAM_1,True
+2014,First Round,2,Villanova,73,15,Milwaukee,53,TEAM_2,13,20,TEAM_1,True
+2014,First Round,4,Louisville,71,13,Manhattan,64,TEAM_2,9,7,TEAM_1,True
+2014,First Round,6,Massachusetts,67,11,Tennessee,86,TEAM_2,5,-19,TEAM_2,False
+2014,First Round,3,Duke,71,14,Mercer,78,TEAM_2,11,-7,TEAM_2,False
+2014,First Round,7,Texas,87,10,Arizona State,85,TEAM_2,3,2,TEAM_1,True
+2014,First Round,2,Michigan,57,15,Wofford,40,TEAM_2,13,17,TEAM_1,True
+2014,First Round,1,Arizona,68,16,Weber State,59,TEAM_2,15,9,TEAM_1,True
+2014,Play-In,16,Albany (N.Y.),71,16,Mount St. Mary's,64,EQUAL,0,7,TEAM_1,True
+2014,Play-In,16,Cal-Poly,81,16,Texas Southern,69,EQUAL,0,12,TEAM_1,True
+2014,Play-In,12,North Carolina State,74,12,Xavier,59,EQUAL,0,15,TEAM_1,True
+2014,Play-In,11,Iowa,65,11,Tennessee,78,EQUAL,0,-13,TEAM_2,True
+2013,National Championship,1,Louisville,82,4,Michigan,76,TEAM_2,3,6,TEAM_1,True
+2013,Final Four,4,Michigan,61,4,Syracuse,56,EQUAL,0,5,TEAM_1,True
+2013,Final Four,1,Louisville,72,9,Wichita State,68,TEAM_2,8,4,TEAM_1,True
+2013,Elite Eight,4,Syracuse,55,3,Marquette,39,TEAM_1,-1,16,TEAM_1,False
+2013,Elite Eight,9,Wichita State,70,2,Ohio State,66,TEAM_1,-7,4,TEAM_1,False
+2013,Elite Eight,1,Louisville,85,2,Duke,63,TEAM_2,1,22,TEAM_1,True
+2013,Elite Eight,4,Michigan,79,3,Florida,59,TEAM_1,-1,20,TEAM_1,False
+2013,Sweet 16,1,Kansas,85,4,Michigan,87,TEAM_2,3,-2,TEAM_2,False
+2013,Sweet 16,3,Michigan State,61,2,Duke,71,TEAM_1,-1,-10,TEAM_2,True
+2013,Sweet 16,1,Louisville,77,12,Oregon,69,TEAM_2,11,8,TEAM_1,True
+2013,Sweet 16,6,Arizona,70,2,Ohio State,73,TEAM_1,-4,-3,TEAM_2,True
+2013,Sweet 16,3,Marquette,71,2,Miami (Fla.),61,TEAM_1,-1,10,TEAM_1,False
+2013,Sweet 16,9,Wichita State,72,13,La Salle,58,TEAM_2,4,14,TEAM_1,True
+2013,Sweet 16,1,Indiana,50,4,Syracuse,61,TEAM_2,3,-11,TEAM_2,False
+2013,Sweet 16,3,Florida,62,15,Florida Gulf Coast,50,TEAM_2,12,12,TEAM_1,True
+2013,Second Round,6,Memphis,48,3,Michigan State,70,TEAM_1,-3,-22,TEAM_2,True
+2013,Second Round,6,Butler,72,3,Marquette,74,TEAM_1,-3,-2,TEAM_2,True
+2013,Second Round,1,Gonzaga,70,9,Wichita State,76,TEAM_2,8,-6,TEAM_2,False
+2013,Second Round,12,Oregon,74,4,St. Louis,57,TEAM_1,-8,17,TEAM_1,False
+2013,Second Round,1,Louisville,82,8,Colorado State,56,TEAM_2,7,26,TEAM_1,True
+2013,Second Round,5,Virginia Commonwealth,53,4,Michigan,78,TEAM_1,-1,-25,TEAM_2,True
+2013,Second Round,6,Arizona,74,14,Harvard,51,TEAM_2,8,23,TEAM_1,True
+2013,Second Round,12,California,60,4,Syracuse,66,TEAM_1,-8,-6,TEAM_2,True
+2013,Second Round,7,Creighton,50,2,Duke,66,TEAM_1,-5,-16,TEAM_2,True
+2013,Second Round,12,Mississippi,74,13,La Salle,76,TEAM_2,1,-2,TEAM_2,False
+2013,Second Round,1,Indiana,58,9,Temple,52,TEAM_2,8,6,TEAM_1,True
+2013,Second Round,7,Illinois,59,2,Miami (Fla.),63,TEAM_1,-5,-4,TEAM_2,True
+2013,Second Round,7,San Diego State,71,15,Florida Gulf Coast,81,TEAM_2,8,-10,TEAM_2,False
+2013,Second Round,10,Iowa State,75,2,Ohio State,78,TEAM_1,-8,-3,TEAM_2,True
+2013,Second Round,1,Kansas,70,8,North Carolina,58,TEAM_2,7,12,TEAM_1,True
+2013,Second Round,11,Minnesota,64,3,Florida,78,TEAM_1,-8,-14,TEAM_2,True
+2013,First Round,1,Louisville,79,16,North Carolina A&T,48,TEAM_2,15,31,TEAM_1,True
+2013,First Round,8,Colorado State,84,9,Missouri,72,TEAM_2,1,12,TEAM_1,True
+2013,First Round,5,Oklahoma State,55,12,Oregon,68,TEAM_2,7,-13,TEAM_2,False
+2013,First Round,4,St. Louis,64,13,New Mexico State,44,TEAM_2,9,20,TEAM_1,True
+2013,First Round,6,Memphis,54,11,St. Mary's (Cal.),52,TEAM_2,5,2,TEAM_1,True
+2013,First Round,3,Michigan State,65,14,Valparaiso,54,TEAM_2,11,11,TEAM_1,True
+2013,First Round,1,Kansas,64,16,Western Kentucky,57,TEAM_2,15,7,TEAM_1,True
+2013,First Round,7,Creighton,67,10,Cincinnati,63,TEAM_2,3,4,TEAM_1,True
+2013,First Round,2,Duke,73,15,Albany (N.Y.),61,TEAM_2,13,12,TEAM_1,True
+2013,First Round,8,North Carolina,78,9,Villanova,71,TEAM_2,1,7,TEAM_1,True
+2013,First Round,5,Virginia Commonwealth,88,12,Akron,42,TEAM_2,7,46,TEAM_1,True
+2013,First Round,4,Michigan,71,13,South Dakota State,56,TEAM_2,9,15,TEAM_1,True
+2013,First Round,6,UCLA,63,11,Minnesota,83,TEAM_2,5,-20,TEAM_2,False
+2013,First Round,3,Florida,79,14,Northwestern State,47,TEAM_2,11,32,TEAM_1,True
+2013,First Round,7,San Diego State,70,10,Oklahoma,55,TEAM_2,3,15,TEAM_1,True
+2013,First Round,2,Georgetown,68,15,Florida Gulf Coast,78,TEAM_2,13,-10,TEAM_2,False
+2013,First Round,1,Gonzaga,64,16,Southern,58,TEAM_2,15,6,TEAM_1,True
+2013,First Round,1,Indiana,83,16,James Madison,62,TEAM_2,15,21,TEAM_1,True
+2013,First Round,8,Pittsburgh,55,9,Wichita State,73,TEAM_2,1,-18,TEAM_2,False
+2013,First Round,8,North Carolina State,72,9,Temple,76,TEAM_2,1,-4,TEAM_2,False
+2013,First Round,5,Wisconsin,46,12,Mississippi,57,TEAM_2,7,-11,TEAM_2,False
+2013,First Round,5,UNLV,61,12,California,64,TEAM_2,7,-3,TEAM_2,False
+2013,First Round,4,Kansas State,61,13,La Salle,63,TEAM_2,9,-2,TEAM_2,False
+2013,First Round,4,Syracuse,81,13,Montana,34,TEAM_2,9,47,TEAM_1,True
+2013,First Round,6,Butler,68,11,Bucknell,56,TEAM_2,5,12,TEAM_1,True
+2013,First Round,3,Marquette,59,14,Davidson,58,TEAM_2,11,1,TEAM_1,True
+2013,First Round,7,Illinois,57,10,Colorado,49,TEAM_2,3,8,TEAM_1,True
+2013,First Round,6,Arizona,81,11,Belmont,64,TEAM_2,5,17,TEAM_1,True
+2013,First Round,2,Miami (Fla.),78,15,Pacific,49,TEAM_2,13,29,TEAM_1,True
+2013,First Round,3,New Mexico,62,14,Harvard,68,TEAM_2,11,-6,TEAM_2,False
+2013,First Round,7,Notre Dame,58,10,Iowa State,76,TEAM_2,3,-18,TEAM_2,False
+2013,First Round,2,Ohio State,95,15,Iona,70,TEAM_2,13,25,TEAM_1,True
+2013,Play-In,16,North Carolina A&T,73,16,Liberty,72,EQUAL,0,1,TEAM_1,True
+2013,Play-In,11,Middle Tennessee State,54,11,St. Mary's (Cal.),67,EQUAL,0,-13,TEAM_2,True
+2013,Play-In,16,Long Island,55,16,James Madison,68,EQUAL,0,-13,TEAM_2,True
+2013,Play-In,13,Boise State,71,13,La Salle,80,EQUAL,0,-9,TEAM_2,True
+2012,National Championship,1,Kentucky,67,2,Kansas,59,TEAM_2,1,8,TEAM_1,True
+2012,Final Four,1,Kentucky,69,4,Louisville,61,TEAM_2,3,8,TEAM_1,True
+2012,Final Four,2,Ohio State,62,2,Kansas,64,EQUAL,0,-2,TEAM_2,True
+2012,Elite Eight,1,Kentucky,82,3,Baylor,70,TEAM_2,2,12,TEAM_1,True
+2012,Elite Eight,1,North Carolina,67,2,Kansas,80,TEAM_2,1,-13,TEAM_2,False
+2012,Elite Eight,4,Louisville,72,7,Florida,68,TEAM_2,3,4,TEAM_1,True
+2012,Elite Eight,1,Syracuse,70,2,Ohio State,77,TEAM_2,1,-7,TEAM_2,False
+2012,Sweet 16,3,Baylor,75,10,Xavier,70,TEAM_2,7,5,TEAM_1,True
+2012,Sweet 16,1,North Carolina,73,13,Ohio,65,TEAM_2,12,8,TEAM_1,True
+2012,Sweet 16,1,Kentucky,102,4,Indiana,90,TEAM_2,3,12,TEAM_1,True
+2012,Sweet 16,11,North Carolina State,57,2,Kansas,60,TEAM_1,-9,-3,TEAM_2,True
+2012,Sweet 16,1,Syracuse,64,4,Wisconsin,63,TEAM_2,3,1,TEAM_1,True
+2012,Sweet 16,1,Michigan State,44,4,Louisville,57,TEAM_2,3,-13,TEAM_2,False
+2012,Sweet 16,6,Cincinnati,66,2,Ohio State,81,TEAM_1,-4,-15,TEAM_2,True
+2012,Sweet 16,3,Marquette,58,7,Florida,68,TEAM_2,4,-10,TEAM_2,False
+2012,Second Round,11,North Carolina State,66,3,Georgetown,63,TEAM_1,-8,3,TEAM_1,False
+2012,Second Round,1,Michigan State,65,9,St. Louis,61,TEAM_2,8,4,TEAM_1,True
+2012,Second Round,1,North Carolina,87,8,Creighton,73,TEAM_2,7,14,TEAM_1,True
+2012,Second Round,7,Florida,84,15,Norfolk State,50,TEAM_2,8,34,TEAM_1,True
+2012,Second Round,12,South Florida,56,13,Ohio,62,TEAM_2,1,-6,TEAM_2,False
+2012,Second Round,10,Purdue,60,2,Kansas,63,TEAM_1,-8,-3,TEAM_2,True
+2012,Second Round,6,Cincinnati,62,3,Florida State,56,TEAM_1,-3,6,TEAM_1,False
+2012,Second Round,10,Xavier,70,15,Lehigh,58,TEAM_2,5,12,TEAM_1,True
+2012,Second Round,1,Syracuse,75,8,Kansas State,59,TEAM_2,7,16,TEAM_1,True
+2012,Second Round,7,Gonzaga,66,2,Ohio State,73,TEAM_1,-5,-7,TEAM_2,True
+2012,Second Round,6,Murray St.,53,3,Marquette,62,TEAM_1,-3,-9,TEAM_2,True
+2012,Second Round,5,Vanderbilt,57,4,Wisconsin,60,TEAM_1,-1,-3,TEAM_2,True
+2012,Second Round,12,Virginia Commonwealth,61,4,Indiana,63,TEAM_1,-8,-2,TEAM_2,True
+2012,Second Round,1,Kentucky,87,8,Iowa State,71,TEAM_2,7,16,TEAM_1,True
+2012,Second Round,11,Colorado,63,3,Baylor,80,TEAM_1,-8,-17,TEAM_2,True
+2012,Second Round,5,New Mexico,56,4,Louisville,59,TEAM_1,-1,-3,TEAM_2,True
+2012,First Round,6,Cincinnati,65,11,Texas,59,TEAM_2,5,6,TEAM_1,True
+2012,First Round,8,Creighton,58,9,Alabama,57,TEAM_2,1,1,TEAM_1,True
+2012,First Round,6,San Diego State,65,11,North Carolina State,79,TEAM_2,5,-14,TEAM_2,False
+2012,First Round,7,Florida,71,10,Virginia,45,TEAM_2,3,26,TEAM_1,True
+2012,First Round,3,Florida State,66,14,St. Bonaventure,63,TEAM_2,11,3,TEAM_1,True
+2012,First Round,3,Georgetown,74,14,Belmont,59,TEAM_2,11,15,TEAM_1,True
+2012,First Round,1,North Carolina,77,16,Vermont,58,TEAM_2,15,19,TEAM_1,True
+2012,First Round,2,Missouri,84,15,Norfolk State,86,TEAM_2,13,-2,TEAM_2,False
+2012,First Round,4,Michigan,60,13,Ohio,65,TEAM_2,9,-5,TEAM_2,False
+2012,First Round,7,St. Mary's (Cal.),69,10,Purdue,72,TEAM_2,3,-3,TEAM_2,False
+2012,First Round,2,Duke,70,15,Lehigh,75,TEAM_2,13,-5,TEAM_2,False
+2012,First Round,1,Michigan State,89,16,Long Island,67,TEAM_2,15,22,TEAM_1,True
+2012,First Round,7,Notre Dame,63,10,Xavier,67,TEAM_2,3,-4,TEAM_2,False
+2012,First Round,2,Kansas,65,15,Detroit,50,TEAM_2,13,15,TEAM_1,True
+2012,First Round,5,Temple,44,12,South Florida,58,TEAM_2,7,-14,TEAM_2,False
+2012,First Round,8,Memphis,54,9,St. Louis,61,TEAM_2,1,-7,TEAM_2,False
+2012,First Round,6,Murray St.,58,11,Colorado State,41,TEAM_2,5,17,TEAM_1,True
+2012,First Round,4,Louisville,69,13,Davidson,62,TEAM_2,9,7,TEAM_1,True
+2012,First Round,8,Kansas State,70,9,Southern Mississippi,64,TEAM_2,1,6,TEAM_1,True
+2012,First Round,4,Wisconsin,73,13,Montana,49,TEAM_2,9,24,TEAM_1,True
+2012,First Round,3,Marquette,88,14,Brigham Young,68,TEAM_2,11,20,TEAM_1,True
+2012,First Round,1,Syracuse,72,16,UNC Asheville,65,TEAM_2,15,7,TEAM_1,True
+2012,First Round,5,New Mexico,75,12,Long Beach State,68,TEAM_2,7,7,TEAM_1,True
+2012,First Round,5,Vanderbilt,79,12,Harvard,70,TEAM_2,7,9,TEAM_1,True
+2012,First Round,1,Kentucky,81,16,Western Kentucky,66,TEAM_2,15,15,TEAM_1,True
+2012,First Round,5,Wichita State,59,12,Virginia Commonwealth,62,TEAM_2,7,-3,TEAM_2,False
+2012,First Round,7,Gonzaga,77,10,West Virginia,54,TEAM_2,3,23,TEAM_1,True
+2012,First Round,2,Ohio State,78,15,Loyola (Md.),59,TEAM_2,13,19,TEAM_1,True
+2012,First Round,8,Iowa State,77,9,Connecticut,64,TEAM_2,1,13,TEAM_1,True
+2012,First Round,4,Indiana,79,13,New Mexico State,66,TEAM_2,9,13,TEAM_1,True
+2012,First Round,6,UNLV,64,11,Colorado,68,TEAM_2,5,-4,TEAM_2,False
+2012,First Round,3,Baylor,68,14,South Dakota State,60,TEAM_2,11,8,TEAM_1,True
+2012,Play-In,16,Lamar,59,16,Vermont,71,EQUAL,0,-12,TEAM_2,True
+2012,Play-In,12,California,54,12,South Florida,65,EQUAL,0,-11,TEAM_2,True
+2012,Play-In,16,Mississippi Valley State,58,16,Western Kentucky,59,EQUAL,0,-1,TEAM_2,True
+2012,Play-In,14,Brigham Young,78,14,Iona,72,EQUAL,0,6,TEAM_1,True
+2011,National Championship,3,Connecticut,53,8,Butler,41,TEAM_2,5,12,TEAM_1,True
+2011,Final Four,11,Virginia Commonwealth,62,8,Butler,70,TEAM_1,-3,-8,TEAM_2,True
+2011,Final Four,4,Kentucky,55,3,Connecticut,56,TEAM_1,-1,-1,TEAM_2,True
+2011,Elite Eight,4,Kentucky,76,2,North Carolina,69,TEAM_1,-2,7,TEAM_1,False
+2011,Elite Eight,1,Kansas,61,11,Virginia Commonwealth,71,TEAM_2,10,-10,TEAM_2,False
+2011,Elite Eight,8,Butler,74,2,Florida,71,TEAM_1,-6,3,TEAM_1,False
+2011,Elite Eight,5,Arizona,63,3,Connecticut,65,TEAM_1,-2,-2,TEAM_2,True
+2011,Sweet 16,1,Kansas,77,12,Richmond,57,TEAM_2,11,20,TEAM_1,True
+2011,Sweet 16,11,Marquette,63,2,North Carolina,81,TEAM_1,-9,-18,TEAM_2,True
+2011,Sweet 16,1,Ohio State,60,4,Kentucky,62,TEAM_2,3,-2,TEAM_2,False
+2011,Sweet 16,11,Virginia Commonwealth,72,10,Florida State,71,TEAM_1,-1,1,TEAM_1,False
+2011,Sweet 16,3,Brigham Young,74,2,Florida,83,TEAM_1,-1,-9,TEAM_2,True
+2011,Sweet 16,3,Connecticut,74,2,San Diego State,67,TEAM_1,-1,7,TEAM_1,False
+2011,Sweet 16,1,Duke,77,5,Arizona,93,TEAM_2,4,-16,TEAM_2,False
+2011,Sweet 16,8,Butler,61,4,Wisconsin,54,TEAM_1,-4,7,TEAM_1,False
+2011,Second Round,1,Duke,73,8,Michigan,71,TEAM_2,7,2,TEAM_1,True
+2011,Second Round,7,Washington,83,2,North Carolina,86,TEAM_1,-5,-3,TEAM_2,True
+2011,Second Round,1,Kansas,73,9,Illinois,59,TEAM_2,8,14,TEAM_1,True
+2011,Second Round,11,Marquette,66,3,Syracuse,62,TEAM_1,-8,4,TEAM_1,False
+2011,Second Round,1,Ohio State,98,8,George Mason,66,TEAM_2,7,32,TEAM_1,True
+2011,Second Round,11,Virginia Commonwealth,94,3,Purdue,76,TEAM_1,-8,18,TEAM_1,False
+2011,Second Round,5,Arizona,70,4,Texas,69,TEAM_1,-1,1,TEAM_1,False
+2011,Second Round,10,Florida State,71,2,Notre Dame,57,TEAM_1,-8,14,TEAM_1,False
+2011,Second Round,5,West Virginia,63,4,Kentucky,71,TEAM_1,-1,-8,TEAM_2,True
+2011,Second Round,7,UCLA,65,2,Florida,73,TEAM_1,-5,-8,TEAM_2,True
+2011,Second Round,12,Richmond,65,13,Morehead State,48,TEAM_2,1,17,TEAM_1,True
+2011,Second Round,7,Temple,64,2,San Diego State,71,TEAM_1,-5,-7,TEAM_2,True
+2011,Second Round,11,Gonzaga,67,3,Brigham Young,89,TEAM_1,-8,-22,TEAM_2,True
+2011,Second Round,6,Cincinnati,58,3,Connecticut,69,TEAM_1,-3,-11,TEAM_2,True
+2011,Second Round,5,Kansas State,65,4,Wisconsin,70,TEAM_1,-1,-5,TEAM_2,True
+2011,Second Round,1,Pittsburgh,70,8,Butler,71,TEAM_2,7,-1,TEAM_2,False
+2011,First Round,4,Texas,85,13,Oakland,81,TEAM_2,9,4,TEAM_1,True
+2011,First Round,2,Notre Dame,69,15,Akron,56,TEAM_2,13,13,TEAM_1,True
+2011,First Round,1,Duke,87,16,Hampton,45,TEAM_2,15,42,TEAM_1,True
+2011,First Round,5,Arizona,77,12,Memphis,75,TEAM_2,7,2,TEAM_1,True
+2011,First Round,7,Texas A&M,50,10,Florida State,57,TEAM_2,3,-7,TEAM_2,False
+2011,First Round,8,George Mason,61,9,Villanova,57,TEAM_2,1,4,TEAM_1,True
+2011,First Round,8,Michigan,75,9,Tennessee,45,TEAM_2,1,30,TEAM_1,True
+2011,First Round,3,Purdue,65,14,St. Peter's,43,TEAM_2,11,22,TEAM_1,True
+2011,First Round,2,North Carolina,102,15,Long Island,87,TEAM_2,13,15,TEAM_1,True
+2011,First Round,6,Xavier,55,11,Marquette,66,TEAM_2,5,-11,TEAM_2,False
+2011,First Round,1,Kansas,72,16,Boston University,53,TEAM_2,15,19,TEAM_1,True
+2011,First Round,8,UNLV,62,9,Illinois,73,TEAM_2,1,-11,TEAM_2,False
+2011,First Round,3,Syracuse,77,14,Indiana State,60,TEAM_2,11,17,TEAM_1,True
+2011,First Round,1,Ohio State,75,16,Texas-San Antonio,46,TEAM_2,15,29,TEAM_1,True
+2011,First Round,7,Washington,68,10,Georgia,65,TEAM_2,3,3,TEAM_1,True
+2011,First Round,6,Georgetown,56,11,Virginia Commonwealth,74,TEAM_2,5,-18,TEAM_2,False
+2011,First Round,5,West Virginia,84,12,Clemson,76,TEAM_2,7,8,TEAM_1,True
+2011,First Round,4,Louisville,61,13,Morehead State,62,TEAM_2,9,-1,TEAM_2,False
+2011,First Round,4,Kentucky,59,13,Princeton,57,TEAM_2,9,2,TEAM_1,True
+2011,First Round,7,Temple,66,10,Penn State,64,TEAM_2,3,2,TEAM_1,True
+2011,First Round,5,Vanderbilt,66,12,Richmond,69,TEAM_2,7,-3,TEAM_2,False
+2011,First Round,2,San Diego State,68,15,Northern Colorado,50,TEAM_2,13,18,TEAM_1,True
+2011,First Round,6,St. John's,71,11,Gonzaga,86,TEAM_2,5,-15,TEAM_2,False
+2011,First Round,5,Kansas State,73,12,Utah State,68,TEAM_2,7,5,TEAM_1,True
+2011,First Round,4,Wisconsin,72,13,Belmont,58,TEAM_2,9,14,TEAM_1,True
+2011,First Round,3,Brigham Young,74,14,Wofford,66,TEAM_2,11,8,TEAM_1,True
+2011,First Round,2,Florida,79,15,UC Santa Barbara,51,TEAM_2,13,28,TEAM_1,True
+2011,First Round,7,UCLA,78,10,Michigan State,76,TEAM_2,3,2,TEAM_1,True
+2011,First Round,8,Butler,60,9,Old Dominion,58,TEAM_2,1,2,TEAM_1,True
+2011,First Round,1,Pittsburgh,74,16,UNC Asheville,51,TEAM_2,15,23,TEAM_1,True
+2011,First Round,3,Connecticut,81,14,Bucknell,52,TEAM_2,11,29,TEAM_1,True
+2011,First Round,6,Cincinnati,78,11,Missouri,63,TEAM_2,5,15,TEAM_1,True
+2011,Play-In,16,Texas-San Antonio,70,16,Alabama State,61,EQUAL,0,9,TEAM_1,True
+2011,Play-In,11,Southern California,46,11,Virginia Commonwealth,59,EQUAL,0,-13,TEAM_2,True
+2011,Play-In,16,UNC Asheville,81,16,Arkansas-Little Rock,77,EQUAL,0,4,TEAM_1,True
+2011,Play-In,12,Alabama-Birmingham,52,12,Clemson,70,EQUAL,0,-18,TEAM_2,True
+2010,National Championship,5,Butler,59,1,Duke,61,TEAM_1,-4,-2,TEAM_2,True
+2010,Final Four,5,Michigan State,50,5,Butler,52,EQUAL,0,-2,TEAM_2,True
+2010,Final Four,2,West Virginia,57,1,Duke,78,TEAM_1,-1,-21,TEAM_2,True
+2010,Elite Eight,1,Duke,78,3,Baylor,71,TEAM_2,2,7,TEAM_1,True
+2010,Elite Eight,5,Michigan State,70,6,Tennessee,69,TEAM_2,1,1,TEAM_1,True
+2010,Elite Eight,1,Kentucky,66,2,West Virginia,73,TEAM_2,1,-7,TEAM_2,False
+2010,Elite Eight,5,Butler,63,2,Kansas State,56,TEAM_1,-3,7,TEAM_1,False
+2010,Sweet 16,9,Northern Iowa,52,5,Michigan State,59,TEAM_1,-4,-7,TEAM_2,True
+2010,Sweet 16,1,Duke,70,4,Purdue,57,TEAM_2,3,13,TEAM_1,True
+2010,Sweet 16,3,Baylor,72,10,St. Mary's (Cal.),49,TEAM_2,7,23,TEAM_1,True
+2010,Sweet 16,6,Tennessee,76,2,Ohio State,73,TEAM_1,-4,3,TEAM_1,False
+2010,Sweet 16,11,Washington,56,2,West Virginia,69,TEAM_1,-9,-13,TEAM_2,True
+2010,Sweet 16,1,Syracuse,59,5,Butler,63,TEAM_2,4,-4,TEAM_2,False
+2010,Sweet 16,1,Kentucky,62,12,Cornell,45,TEAM_2,11,17,TEAM_1,True
+2010,Sweet 16,6,Xavier,96,2,Kansas State,101,TEAM_1,-4,-5,TEAM_2,True
+2010,Second Round,10,Missouri,59,2,West Virginia,68,TEAM_1,-8,-9,TEAM_2,True
+2010,Second Round,12,Cornell,87,4,Wisconsin,69,TEAM_1,-8,18,TEAM_1,False
+2010,Second Round,6,Xavier,71,3,Pittsburgh,68,TEAM_1,-3,3,TEAM_1,False
+2010,Second Round,1,Syracuse,87,8,Gonzaga,65,TEAM_2,7,22,TEAM_1,True
+2010,Second Round,10,Georgia Tech,66,2,Ohio State,75,TEAM_1,-8,-9,TEAM_2,True
+2010,Second Round,5,Michigan State,85,4,Maryland,83,TEAM_1,-1,2,TEAM_1,False
+2010,Second Round,5,Texas A&M,61,4,Purdue,63,TEAM_1,-1,-2,TEAM_2,True
+2010,Second Round,1,Duke,68,8,California,53,TEAM_2,7,15,TEAM_1,True
+2010,Second Round,10,St. Mary's (Cal.),75,2,Villanova,68,TEAM_1,-8,7,TEAM_1,False
+2010,Second Round,7,Brigham Young,72,2,Kansas State,84,TEAM_1,-5,-12,TEAM_2,True
+2010,Second Round,5,Butler,54,13,Murray St.,52,TEAM_2,8,2,TEAM_1,True
+2010,Second Round,1,Kansas,67,9,Northern Iowa,69,TEAM_2,8,-2,TEAM_2,False
+2010,Second Round,1,Kentucky,90,9,Wake Forest,60,TEAM_2,8,30,TEAM_1,True
+2010,Second Round,11,Washington,82,3,New Mexico,64,TEAM_1,-8,18,TEAM_1,False
+2010,Second Round,11,Old Dominion,68,3,Baylor,76,TEAM_1,-8,-8,TEAM_2,True
+2010,Second Round,6,Tennessee,83,14,Ohio,68,TEAM_2,8,15,TEAM_1,True
+2010,First Round,5,Michigan State,70,12,New Mexico State,67,TEAM_2,7,3,TEAM_1,True
+2010,First Round,4,Maryland,89,13,Houston,77,TEAM_2,9,12,TEAM_1,True
+2010,First Round,1,Syracuse,79,16,Vermont,56,TEAM_2,15,23,TEAM_1,True
+2010,First Round,2,Ohio State,68,15,UC Santa Barbara,51,TEAM_2,13,17,TEAM_1,True
+2010,First Round,7,Clemson,78,10,Missouri,86,TEAM_2,3,-8,TEAM_2,False
+2010,First Round,4,Purdue,72,13,Siena,64,TEAM_2,9,8,TEAM_1,True
+2010,First Round,7,Oklahoma State,59,10,Georgia Tech,64,TEAM_2,3,-5,TEAM_2,False
+2010,First Round,8,Gonzaga,67,9,Florida State,60,TEAM_2,1,7,TEAM_1,True
+2010,First Round,4,Wisconsin,53,13,Wofford,49,TEAM_2,9,4,TEAM_1,True
+2010,First Round,5,Texas A&M,69,12,Utah State,53,TEAM_2,7,16,TEAM_1,True
+2010,First Round,5,Temple,65,12,Cornell,78,TEAM_2,7,-13,TEAM_2,False
+2010,First Round,8,California,77,9,Louisville,62,TEAM_2,1,15,TEAM_1,True
+2010,First Round,3,Pittsburgh,89,14,Oakland,66,TEAM_2,11,23,TEAM_1,True
+2010,First Round,1,Duke,73,16,Arkansas-Pine Bluff,44,TEAM_2,15,29,TEAM_1,True
+2010,First Round,6,Xavier,65,11,Minnesota,54,TEAM_2,5,11,TEAM_1,True
+2010,First Round,2,West Virginia,77,15,Morgan State,50,TEAM_2,13,27,TEAM_1,True
+2010,First Round,2,Kansas State,82,15,North Texas,62,TEAM_2,13,20,TEAM_1,True
+2010,First Round,4,Vanderbilt,65,13,Murray St.,66,TEAM_2,9,-1,TEAM_2,False
+2010,First Round,7,Brigham Young,99,10,Florida,92,TEAM_2,3,7,TEAM_1,True
+2010,First Round,5,Butler,77,12,UTEP,59,TEAM_2,7,18,TEAM_1,True
+2010,First Round,3,New Mexico,62,14,Montana,57,TEAM_2,11,5,TEAM_1,True
+2010,First Round,1,Kentucky,100,16,East Tennessee State,71,TEAM_2,15,29,TEAM_1,True
+2010,First Round,8,Texas,80,9,Wake Forest,81,TEAM_2,1,-1,TEAM_2,False
+2010,First Round,6,Notre Dame,50,11,Old Dominion,51,TEAM_2,5,-1,TEAM_2,False
+2010,First Round,3,Baylor,68,14,Sam Houston State,59,TEAM_2,11,9,TEAM_1,True
+2010,First Round,7,Richmond,71,10,St. Mary's (Cal.),80,TEAM_2,3,-9,TEAM_2,False
+2010,First Round,2,Villanova,73,15,Robert Morris,70,TEAM_2,13,3,TEAM_1,True
+2010,First Round,6,Marquette,78,11,Washington,80,TEAM_2,5,-2,TEAM_2,False
+2010,First Round,1,Kansas,90,16,Lehigh,74,TEAM_2,15,16,TEAM_1,True
+2010,First Round,8,UNLV,66,9,Northern Iowa,69,TEAM_2,1,-3,TEAM_2,False
+2010,First Round,3,Georgetown,83,14,Ohio,97,TEAM_2,11,-14,TEAM_2,False
+2010,First Round,6,Tennessee,62,11,San Diego State,59,TEAM_2,5,3,TEAM_1,True
+2010,Play-In,16,Arkansas-Pine Bluff,61,16,Winthrop,44,EQUAL,0,17,TEAM_1,True
+2009,National Championship,2,Michigan State,72,1,North Carolina,89,TEAM_1,-1,-17,TEAM_2,True
+2009,Final Four,2,Michigan State,82,1,Connecticut,73,TEAM_1,-1,9,TEAM_1,False
+2009,Final Four,3,Villanova,69,1,North Carolina,83,TEAM_1,-2,-14,TEAM_2,True
+2009,Elite Eight,1,North Carolina,72,2,Oklahoma,60,TEAM_2,1,12,TEAM_1,True
+2009,Elite Eight,1,Louisville,52,2,Michigan State,64,TEAM_2,1,-12,TEAM_2,False
+2009,Elite Eight,1,Connecticut,82,3,Missouri,75,TEAM_2,2,7,TEAM_1,True
+2009,Elite Eight,1,Pittsburgh,76,3,Villanova,78,TEAM_2,2,-2,TEAM_2,False
+2009,Sweet 16,1,Louisville,103,12,Arizona,64,TEAM_2,11,39,TEAM_1,True
+2009,Sweet 16,3,Kansas,62,2,Michigan State,67,TEAM_1,-1,-5,TEAM_2,True
+2009,Sweet 16,1,North Carolina,98,4,Gonzaga,77,TEAM_2,3,21,TEAM_1,True
+2009,Sweet 16,3,Syracuse,71,2,Oklahoma,84,TEAM_1,-1,-13,TEAM_2,True
+2009,Sweet 16,1,Connecticut,72,5,Purdue,60,TEAM_2,4,12,TEAM_1,True
+2009,Sweet 16,3,Missouri,102,2,Memphis,91,TEAM_1,-1,11,TEAM_1,False
+2009,Sweet 16,1,Pittsburgh,60,4,Xavier,55,TEAM_2,3,5,TEAM_1,True
+2009,Sweet 16,3,Villanova,77,2,Duke,54,TEAM_1,-1,23,TEAM_1,False
+2009,Second Round,1,Louisville,79,9,Siena,62,TEAM_2,8,17,TEAM_1,True
+2009,Second Round,10,Southern California,69,2,Michigan State,74,TEAM_1,-8,-5,TEAM_2,True
+2009,Second Round,12,Arizona,71,13,Cleveland State,57,TEAM_2,1,14,TEAM_1,True
+2009,Second Round,12,Wisconsin,49,4,Xavier,60,TEAM_1,-8,-11,TEAM_2,True
+2009,Second Round,6,Arizona State,67,3,Syracuse,78,TEAM_1,-3,-11,TEAM_2,True
+2009,Second Round,11,Dayton,43,3,Kansas,60,TEAM_1,-8,-17,TEAM_2,True
+2009,Second Round,1,Pittsburgh,84,8,Oklahoma State,76,TEAM_2,7,8,TEAM_1,True
+2009,Second Round,6,Marquette,79,3,Missouri,83,TEAM_1,-3,-4,TEAM_2,True
+2009,Second Round,6,UCLA,69,3,Villanova,89,TEAM_1,-3,-20,TEAM_2,True
+2009,Second Round,1,Connecticut,92,9,Texas A&M,66,TEAM_2,8,26,TEAM_1,True
+2009,Second Round,1,North Carolina,84,8,LSU,70,TEAM_2,7,14,TEAM_1,True
+2009,Second Round,5,Purdue,76,4,Washington,74,TEAM_1,-1,2,TEAM_1,False
+2009,Second Round,10,Michigan,63,2,Oklahoma,73,TEAM_1,-8,-10,TEAM_2,True
+2009,Second Round,12,Western Kentucky,81,4,Gonzaga,83,TEAM_1,-8,-2,TEAM_2,True
+2009,Second Round,7,Texas,69,2,Duke,74,TEAM_1,-5,-5,TEAM_2,True
+2009,Second Round,10,Maryland,70,2,Memphis,89,TEAM_1,-8,-19,TEAM_2,True
+2009,First Round,5,Florida State,59,12,Wisconsin,61,TEAM_2,7,-2,TEAM_2,False
+2009,First Round,6,West Virginia,60,11,Dayton,68,TEAM_2,5,-8,TEAM_2,False
+2009,First Round,4,Wake Forest,69,13,Cleveland State,84,TEAM_2,9,-15,TEAM_2,False
+2009,First Round,7,Boston College,55,10,Southern California,72,TEAM_2,3,-17,TEAM_2,False
+2009,First Round,3,Missouri,78,14,Cornell,59,TEAM_2,11,19,TEAM_1,True
+2009,First Round,3,Syracuse,59,14,Stephen F. Austin,44,TEAM_2,11,15,TEAM_1,True
+2009,First Round,6,Arizona State,66,11,Temple,57,TEAM_2,5,9,TEAM_1,True
+2009,First Round,4,Xavier,77,13,Portland State,59,TEAM_2,9,18,TEAM_1,True
+2009,First Round,3,Kansas,84,14,North Dakota State,74,TEAM_2,11,10,TEAM_1,True
+2009,First Round,1,Louisville,74,16,Morehead State,54,TEAM_2,15,20,TEAM_1,True
+2009,First Round,6,Marquette,58,11,Utah State,57,TEAM_2,5,1,TEAM_1,True
+2009,First Round,8,Ohio State,72,9,Siena,74,TEAM_2,1,-2,TEAM_2,False
+2009,First Round,5,Utah,71,12,Arizona,84,TEAM_2,7,-13,TEAM_2,False
+2009,First Round,1,Pittsburgh,72,16,East Tennessee State,62,TEAM_2,15,10,TEAM_1,True
+2009,First Round,8,Oklahoma State,77,9,Tennessee,75,TEAM_2,1,2,TEAM_1,True
+2009,First Round,2,Michigan State,77,15,Robert Morris,62,TEAM_2,13,15,TEAM_1,True
+2009,First Round,5,Illinois,72,12,Western Kentucky,76,TEAM_2,7,-4,TEAM_2,False
+2009,First Round,2,Oklahoma,82,15,Morgan State,54,TEAM_2,13,28,TEAM_1,True
+2009,First Round,4,Gonzaga,77,13,Akron,64,TEAM_2,9,13,TEAM_1,True
+2009,First Round,8,LSU,75,9,Butler,71,TEAM_2,1,4,TEAM_1,True
+2009,First Round,1,North Carolina,101,16,Radford,58,TEAM_2,15,43,TEAM_1,True
+2009,First Round,7,Clemson,59,10,Michigan,62,TEAM_2,3,-3,TEAM_2,False
+2009,First Round,2,Duke,86,15,Binghamton,62,TEAM_2,13,24,TEAM_1,True
+2009,First Round,7,Texas,76,10,Minnesota,62,TEAM_2,3,14,TEAM_1,True
+2009,First Round,6,UCLA,65,11,Virginia Commonwealth,64,TEAM_2,5,1,TEAM_1,True
+2009,First Round,2,Memphis,81,15,Cal State Northridge,70,TEAM_2,13,11,TEAM_1,True
+2009,First Round,7,California,71,10,Maryland,84,TEAM_2,3,-13,TEAM_2,False
+2009,First Round,4,Washington,71,13,Mississippi State,58,TEAM_2,9,13,TEAM_1,True
+2009,First Round,5,Purdue,61,12,Northern Iowa,56,TEAM_2,7,5,TEAM_1,True
+2009,First Round,8,Brigham Young,66,9,Texas A&M,79,TEAM_2,1,-13,TEAM_2,False
+2009,First Round,1,Connecticut,103,16,Chattanooga,47,TEAM_2,15,56,TEAM_1,True
+2009,First Round,3,Villanova,80,14,American,67,TEAM_2,11,13,TEAM_1,True
+2009,Play-In,16,Morehead State,58,16,Alabama State,43,EQUAL,0,15,TEAM_1,True
+2008,National Championship,1,Kansas,75,1,Memphis,68,EQUAL,0,7,TEAM_1,True
+2008,Final Four,1,Memphis,78,1,UCLA,63,EQUAL,0,15,TEAM_1,True
+2008,Final Four,1,North Carolina,66,1,Kansas,84,EQUAL,0,-18,TEAM_2,True
+2008,Elite Eight,1,Memphis,85,2,Texas,67,TEAM_2,1,18,TEAM_1,True
+2008,Elite Eight,1,Kansas,59,10,Davidson,57,TEAM_2,9,2,TEAM_1,True
+2008,Elite Eight,1,North Carolina,83,3,Louisville,73,TEAM_2,2,10,TEAM_1,True
+2008,Elite Eight,1,UCLA,76,3,Xavier,57,TEAM_2,2,19,TEAM_1,True
+2008,Sweet 16,3,Stanford,62,2,Texas,82,TEAM_1,-1,-20,TEAM_2,True
+2008,Sweet 16,1,Kansas,72,12,Villanova,57,TEAM_2,11,15,TEAM_1,True
+2008,Sweet 16,3,Wisconsin,56,10,Davidson,73,TEAM_2,7,-17,TEAM_2,False
+2008,Sweet 16,1,Memphis,92,5,Michigan State,74,TEAM_2,4,18,TEAM_1,True
+2008,Sweet 16,1,North Carolina,68,4,Washington State,47,TEAM_2,3,21,TEAM_1,True
+2008,Sweet 16,3,Xavier,79,7,West Virginia,75,TEAM_2,4,4,TEAM_1,True
+2008,Sweet 16,3,Louisville,79,2,Tennessee,60,TEAM_1,-1,19,TEAM_1,False
+2008,Sweet 16,1,UCLA,88,12,Western Kentucky,78,TEAM_2,11,10,TEAM_1,True
+2008,Second Round,12,Villanova,84,13,Siena,72,TEAM_2,1,12,TEAM_1,True
+2008,Second Round,12,Western Kentucky,72,13,San Diego,63,TEAM_2,1,9,TEAM_1,True
+2008,Second Round,6,Oklahoma,48,3,Louisville,78,TEAM_1,-3,-30,TEAM_2,True
+2008,Second Round,7,Miami (Fla.),72,2,Texas,75,TEAM_1,-5,-3,TEAM_2,True
+2008,Second Round,10,Davidson,74,2,Georgetown,70,TEAM_1,-8,4,TEAM_1,False
+2008,Second Round,1,North Carolina,108,9,Arkansas,77,TEAM_2,8,31,TEAM_1,True
+2008,Second Round,1,Memphis,77,8,Mississippi State,74,TEAM_2,7,3,TEAM_1,True
+2008,Second Round,7,Butler,71,2,Tennessee,76,TEAM_1,-5,-5,TEAM_2,True
+2008,Second Round,6,Marquette,81,3,Stanford,82,TEAM_1,-3,-1,TEAM_2,True
+2008,Second Round,11,Kansas State,55,3,Wisconsin,72,TEAM_1,-8,-17,TEAM_2,True
+2008,Second Round,5,Notre Dame,41,4,Washington State,61,TEAM_1,-1,-20,TEAM_2,True
+2008,Second Round,1,Kansas,75,8,UNLV,56,TEAM_2,7,19,TEAM_1,True
+2008,Second Round,7,West Virginia,73,2,Duke,67,TEAM_1,-5,6,TEAM_1,False
+2008,Second Round,1,UCLA,51,9,Texas A&M,49,TEAM_2,8,2,TEAM_1,True
+2008,Second Round,6,Purdue,78,3,Xavier,85,TEAM_1,-3,-7,TEAM_2,True
+2008,Second Round,5,Michigan State,65,4,Pittsburgh,54,TEAM_1,-1,11,TEAM_1,False
+2008,First Round,1,Memphis,87,16,Texas-Arlington,63,TEAM_2,15,24,TEAM_1,True
+2008,First Round,2,Tennessee,72,15,American,57,TEAM_2,13,15,TEAM_1,True
+2008,First Round,2,Texas,74,15,Austin Peay,54,TEAM_2,13,20,TEAM_1,True
+2008,First Round,2,Georgetown,66,15,Maryland-Baltimore County,47,TEAM_2,13,19,TEAM_1,True
+2008,First Round,3,Louisville,79,14,Boise State,61,TEAM_2,11,18,TEAM_1,True
+2008,First Round,1,North Carolina,113,16,Mount St. Mary's,74,TEAM_2,15,39,TEAM_1,True
+2008,First Round,4,Vanderbilt,62,13,Siena,83,TEAM_2,9,-21,TEAM_2,False
+2008,First Round,4,Connecticut,69,13,San Diego,70,TEAM_2,9,-1,TEAM_2,False
+2008,First Round,6,Oklahoma,72,11,St. Joseph's,64,TEAM_2,5,8,TEAM_1,True
+2008,First Round,8,Mississippi State,76,9,Oregon,69,TEAM_2,1,7,TEAM_1,True
+2008,First Round,8,Indiana,72,9,Arkansas,86,TEAM_2,1,-14,TEAM_2,False
+2008,First Round,7,Gonzaga,76,10,Davidson,82,TEAM_2,3,-6,TEAM_2,False
+2008,First Round,7,Butler,81,10,South Alabama,61,TEAM_2,3,20,TEAM_1,True
+2008,First Round,5,Drake,99,12,Western Kentucky,101,TEAM_2,7,-2,TEAM_2,False
+2008,First Round,5,Clemson,69,12,Villanova,75,TEAM_2,7,-6,TEAM_2,False
+2008,First Round,7,Miami (Fla.),78,10,St. Mary's (Cal.),64,TEAM_2,3,14,TEAM_1,True
+2008,First Round,3,Stanford,77,14,Cornell,53,TEAM_2,11,24,TEAM_1,True
+2008,First Round,3,Wisconsin,71,14,Cal State Fullerton,56,TEAM_2,11,15,TEAM_1,True
+2008,First Round,8,Brigham Young,62,9,Texas A&M,67,TEAM_2,1,-5,TEAM_2,False
+2008,First Round,7,West Virginia,75,10,Arizona,65,TEAM_2,3,10,TEAM_1,True
+2008,First Round,4,Washington State,71,13,Winthrop,40,TEAM_2,9,31,TEAM_1,True
+2008,First Round,3,Xavier,73,14,Georgia,61,TEAM_2,11,12,TEAM_1,True
+2008,First Round,4,Pittsburgh,82,13,Oral Roberts,63,TEAM_2,9,19,TEAM_1,True
+2008,First Round,2,Duke,71,15,Belmont,70,TEAM_2,13,1,TEAM_1,True
+2008,First Round,1,Kansas,85,16,Portland State,61,TEAM_2,15,24,TEAM_1,True
+2008,First Round,5,Michigan State,72,12,Temple,61,TEAM_2,7,11,TEAM_1,True
+2008,First Round,5,Notre Dame,68,12,George Mason,50,TEAM_2,7,18,TEAM_1,True
+2008,First Round,1,UCLA,70,16,Mississippi Valley State,29,TEAM_2,15,41,TEAM_1,True
+2008,First Round,8,UNLV,71,9,Kent State,58,TEAM_2,1,13,TEAM_1,True
+2008,First Round,6,Marquette,74,11,Kentucky,66,TEAM_2,5,8,TEAM_1,True
+2008,First Round,6,Purdue,90,11,Baylor,79,TEAM_2,5,11,TEAM_1,True
+2008,First Round,6,Southern California,67,11,Kansas State,80,TEAM_2,5,-13,TEAM_2,False
+2008,Play-In,16,Mount St. Mary's,69,16,Coppin State,60,EQUAL,0,9,TEAM_1,True
+2007,National Championship,1,Florida,84,1,Ohio State,75,EQUAL,0,9,TEAM_1,True
+2007,Final Four,2,Georgetown,60,1,Ohio State,67,TEAM_1,-1,-7,TEAM_2,True
+2007,Final Four,1,Florida,76,2,UCLA,66,TEAM_2,1,10,TEAM_1,True
+2007,Elite Eight,1,North Carolina,84,2,Georgetown,96,TEAM_2,1,-12,TEAM_2,False
+2007,Elite Eight,1,Florida,85,3,Oregon,77,TEAM_2,2,8,TEAM_1,True
+2007,Elite Eight,1,Ohio State,92,2,Memphis,76,TEAM_2,1,16,TEAM_1,True
+2007,Elite Eight,1,Kansas,55,2,UCLA,68,TEAM_2,1,-13,TEAM_2,False
+2007,Sweet 16,6,Vanderbilt,65,2,Georgetown,66,TEAM_1,-4,-1,TEAM_2,True
+2007,Sweet 16,1,North Carolina,74,5,Southern California,64,TEAM_2,4,10,TEAM_1,True
+2007,Sweet 16,3,Oregon,76,7,UNLV,72,TEAM_2,4,4,TEAM_1,True
+2007,Sweet 16,1,Florida,65,5,Butler,57,TEAM_2,4,8,TEAM_1,True
+2007,Sweet 16,1,Kansas,61,4,Southern Illinois,58,TEAM_2,3,3,TEAM_1,True
+2007,Sweet 16,3,Texas A&M,64,2,Memphis,65,TEAM_1,-1,-1,TEAM_2,True
+2007,Sweet 16,1,Ohio State,85,5,Tennessee,84,TEAM_2,4,1,TEAM_1,True
+2007,Sweet 16,3,Pittsburgh,55,2,UCLA,64,TEAM_1,-1,-9,TEAM_2,True
+2007,Second Round,7,UNLV,74,2,Wisconsin,68,TEAM_1,-5,6,TEAM_1,False
+2007,Second Round,5,Southern California,87,4,Texas,68,TEAM_1,-1,19,TEAM_1,False
+2007,Second Round,5,Tennessee,77,4,Virginia,74,TEAM_1,-1,3,TEAM_1,False
+2007,Second Round,11,Winthrop,61,3,Oregon,75,TEAM_1,-8,-14,TEAM_2,True
+2007,Second Round,1,Kansas,88,8,Kentucky,76,TEAM_2,7,12,TEAM_1,True
+2007,Second Round,5,Virginia Tech,48,4,Southern Illinois,63,TEAM_1,-1,-15,TEAM_2,True
+2007,Second Round,1,Florida,74,9,Purdue,67,TEAM_2,8,7,TEAM_1,True
+2007,Second Round,7,Nevada,62,2,Memphis,78,TEAM_1,-5,-16,TEAM_2,True
+2007,Second Round,5,Butler,62,4,Maryland,59,TEAM_1,-1,3,TEAM_1,False
+2007,Second Round,1,Ohio State,78,9,Xavier,71,TEAM_2,8,7,TEAM_1,True
+2007,Second Round,6,Louisville,69,3,Texas A&M,72,TEAM_1,-3,-3,TEAM_2,True
+2007,Second Round,1,North Carolina,81,9,Michigan State,67,TEAM_2,8,14,TEAM_1,True
+2007,Second Round,7,Indiana,49,2,UCLA,54,TEAM_1,-5,-5,TEAM_2,True
+2007,Second Round,6,Vanderbilt,78,3,Washington State,74,TEAM_1,-3,4,TEAM_1,False
+2007,Second Round,11,Virginia Commonwealth,79,3,Pittsburgh,84,TEAM_1,-8,-5,TEAM_2,True
+2007,Second Round,7,Boston College,55,2,Georgetown,62,TEAM_1,-5,-7,TEAM_2,True
+2007,First Round,1,Florida,112,16,Jackson State,69,TEAM_2,15,43,TEAM_1,True
+2007,First Round,5,Tennessee,121,12,Long Beach State,86,TEAM_2,7,35,TEAM_1,True
+2007,First Round,4,Texas,79,13,New Mexico State,67,TEAM_2,9,12,TEAM_1,True
+2007,First Round,4,Virginia,84,13,Albany (N.Y.),57,TEAM_2,9,27,TEAM_1,True
+2007,First Round,7,Nevada,77,10,Creighton,71,TEAM_2,3,6,TEAM_1,True
+2007,First Round,2,Memphis,73,15,North Texas,58,TEAM_2,13,15,TEAM_1,True
+2007,First Round,3,Oregon,58,14,Miami (Ohio),56,TEAM_2,11,2,TEAM_1,True
+2007,First Round,7,UNLV,67,10,Georgia Tech,63,TEAM_2,3,4,TEAM_1,True
+2007,First Round,2,Wisconsin,76,15,Texas A&M-Corpus Christi,63,TEAM_2,13,13,TEAM_1,True
+2007,First Round,8,Arizona,63,9,Purdue,72,TEAM_2,1,-9,TEAM_2,False
+2007,First Round,6,Notre Dame,64,11,Winthrop,74,TEAM_2,5,-10,TEAM_2,False
+2007,First Round,1,Kansas,107,16,Niagara,67,TEAM_2,15,40,TEAM_1,True
+2007,First Round,8,Kentucky,67,9,Villanova,58,TEAM_2,1,9,TEAM_1,True
+2007,First Round,5,Virginia Tech,54,12,Illinois,52,TEAM_2,7,2,TEAM_1,True
+2007,First Round,5,Southern California,77,12,Arkansas,60,TEAM_2,7,17,TEAM_1,True
+2007,First Round,4,Southern Illinois,61,13,Holy Cross,51,TEAM_2,9,10,TEAM_1,True
+2007,First Round,2,UCLA,70,15,Weber State,42,TEAM_2,13,28,TEAM_1,True
+2007,First Round,3,Texas A&M,68,14,Penn,52,TEAM_2,11,16,TEAM_1,True
+2007,First Round,3,Pittsburgh,79,14,Wright State,58,TEAM_2,11,21,TEAM_1,True
+2007,First Round,6,Vanderbilt,77,11,George Washington,44,TEAM_2,5,33,TEAM_1,True
+2007,First Round,1,North Carolina,86,16,Eastern Kentucky,65,TEAM_2,15,21,TEAM_1,True
+2007,First Round,2,Georgetown,80,15,Belmont,55,TEAM_2,13,25,TEAM_1,True
+2007,First Round,6,Duke,77,11,Virginia Commonwealth,79,TEAM_2,5,-2,TEAM_2,False
+2007,First Round,8,Brigham Young,77,9,Xavier,79,TEAM_2,1,-2,TEAM_2,False
+2007,First Round,4,Maryland,82,13,Davidson,70,TEAM_2,9,12,TEAM_1,True
+2007,First Round,5,Butler,57,12,Old Dominion,46,TEAM_2,7,11,TEAM_1,True
+2007,First Round,3,Washington State,70,14,Oral Roberts,54,TEAM_2,11,16,TEAM_1,True
+2007,First Round,8,Marquette,49,9,Michigan State,61,TEAM_2,1,-12,TEAM_2,False
+2007,First Round,7,Boston College,84,10,Texas Tech,75,TEAM_2,3,9,TEAM_1,True
+2007,First Round,1,Ohio State,78,16,Central Connecticut State,57,TEAM_2,15,21,TEAM_1,True
+2007,First Round,7,Indiana,70,10,Gonzaga,57,TEAM_2,3,13,TEAM_1,True
+2007,First Round,6,Louisville,78,11,Stanford,58,TEAM_2,5,20,TEAM_1,True
+2007,Play-In,16,Niagara,77,16,Florida A&M,69,EQUAL,0,8,TEAM_1,True
+2006,National Championship,2,UCLA,57,3,Florida,73,TEAM_2,1,-16,TEAM_2,False
+2006,Final Four,4,LSU,45,2,UCLA,59,TEAM_1,-2,-14,TEAM_2,True
+2006,Final Four,11,George Mason,58,3,Florida,73,TEAM_1,-8,-15,TEAM_2,True
+2006,Elite Eight,1,Villanova,62,3,Florida,75,TEAM_2,2,-13,TEAM_2,False
+2006,Elite Eight,1,Connecticut,84,11,George Mason,86,TEAM_2,10,-2,TEAM_2,False
+2006,Elite Eight,1,Memphis,45,2,UCLA,50,TEAM_2,1,-5,TEAM_2,False
+2006,Elite Eight,4,LSU,70,2,Texas,60,TEAM_1,-2,10,TEAM_1,False
+2006,Sweet 16,1,Villanova,60,4,Boston College,59,TEAM_2,3,1,TEAM_1,True
+2006,Sweet 16,3,Florida,57,7,Georgetown,53,TEAM_2,4,4,TEAM_1,True
+2006,Sweet 16,11,George Mason,63,7,Wichita State,55,TEAM_1,-4,8,TEAM_1,False
+2006,Sweet 16,1,Connecticut,98,5,Washington,92,TEAM_2,4,6,TEAM_1,True
+2006,Sweet 16,3,Gonzaga,71,2,UCLA,73,TEAM_1,-1,-2,TEAM_2,True
+2006,Sweet 16,1,Duke,54,4,LSU,62,TEAM_2,3,-8,TEAM_2,False
+2006,Sweet 16,6,West Virginia,71,2,Texas,74,TEAM_1,-4,-3,TEAM_2,True
+2006,Sweet 16,1,Memphis,80,13,Bradley,64,TEAM_2,12,16,TEAM_1,True
+2006,Second Round,1,Memphis,72,9,Bucknell,56,TEAM_2,8,16,TEAM_1,True
+2006,Second Round,6,West Virginia,67,14,Northwestern State,54,TEAM_2,8,13,TEAM_1,True
+2006,Second Round,7,Georgetown,70,2,Ohio State,52,TEAM_1,-5,18,TEAM_1,False
+2006,Second Round,1,Villanova,82,8,Arizona,78,TEAM_2,7,4,TEAM_1,True
+2006,Second Round,11,George Mason,65,3,North Carolina,60,TEAM_1,-8,5,TEAM_1,False
+2006,Second Round,1,Connecticut,87,8,Kentucky,83,TEAM_2,7,4,TEAM_1,True
+2006,Second Round,5,Pittsburgh,66,13,Bradley,72,TEAM_2,8,-6,TEAM_2,False
+2006,Second Round,10,North Carolina State,54,2,Texas,75,TEAM_1,-8,-21,TEAM_2,True
+2006,Second Round,11,Milwaukee,60,3,Florida,82,TEAM_1,-8,-22,TEAM_2,True
+2006,Second Round,12,Texas A&M,57,4,LSU,58,TEAM_1,-8,-1,TEAM_2,True
+2006,Second Round,1,Duke,70,8,George Washington,64,TEAM_2,7,6,TEAM_1,True
+2006,Second Round,12,Montana,56,4,Boston College,69,TEAM_1,-8,-13,TEAM_2,True
+2006,Second Round,5,Washington,67,4,Illinois,64,TEAM_1,-1,3,TEAM_1,False
+2006,Second Round,7,Wichita State,80,2,Tennessee,73,TEAM_1,-5,7,TEAM_1,False
+2006,Second Round,10,Alabama,59,2,UCLA,62,TEAM_1,-8,-3,TEAM_2,True
+2006,Second Round,6,Indiana,80,3,Gonzaga,90,TEAM_1,-3,-10,TEAM_2,True
+2006,First Round,3,Iowa,63,14,Northwestern State,64,TEAM_2,11,-1,TEAM_2,False
+2006,First Round,1,Connecticut,72,16,Albany (N.Y.),59,TEAM_2,15,13,TEAM_1,True
+2006,First Round,7,Georgetown,54,10,Northern Iowa,49,TEAM_2,3,5,TEAM_1,True
+2006,First Round,2,Ohio State,70,15,Davidson,62,TEAM_2,13,8,TEAM_1,True
+2006,First Round,8,Arkansas,55,9,Bucknell,59,TEAM_2,1,-4,TEAM_2,False
+2006,First Round,1,Memphis,94,16,Oral Roberts,78,TEAM_2,15,16,TEAM_1,True
+2006,First Round,2,Texas,60,15,Penn,52,TEAM_2,13,8,TEAM_1,True
+2006,First Round,6,West Virginia,64,11,Southern Illinois,46,TEAM_2,5,18,TEAM_1,True
+2006,First Round,8,Kentucky,72,9,Alabama-Birmingham,59,TEAM_2,1,13,TEAM_1,True
+2006,First Round,6,Michigan State,65,11,George Mason,75,TEAM_2,5,-10,TEAM_2,False
+2006,First Round,3,North Carolina,69,14,Murray St.,65,TEAM_2,11,4,TEAM_1,True
+2006,First Round,4,Kansas,73,13,Bradley,77,TEAM_2,9,-4,TEAM_2,False
+2006,First Round,5,Pittsburgh,79,12,Kent State,64,TEAM_2,7,15,TEAM_1,True
+2006,First Round,1,Villanova,58,16,Monmouth,45,TEAM_2,15,13,TEAM_1,True
+2006,First Round,8,Arizona,94,9,Wisconsin,75,TEAM_2,1,19,TEAM_1,True
+2006,First Round,7,California,52,10,North Carolina State,58,TEAM_2,3,-6,TEAM_2,False
+2006,First Round,4,LSU,80,13,Iona,64,TEAM_2,9,16,TEAM_1,True
+2006,First Round,2,UCLA,78,15,Belmont,44,TEAM_2,13,34,TEAM_1,True
+2006,First Round,7,Marquette,85,10,Alabama,90,TEAM_2,3,-5,TEAM_2,False
+2006,First Round,4,Illinois,78,13,Air Force,69,TEAM_2,9,9,TEAM_1,True
+2006,First Round,5,Nevada,79,12,Montana,87,TEAM_2,7,-8,TEAM_2,False
+2006,First Round,3,Gonzaga,79,14,Xavier,75,TEAM_2,11,4,TEAM_1,True
+2006,First Round,5,Syracuse,58,12,Texas A&M,66,TEAM_2,7,-8,TEAM_2,False
+2006,First Round,8,George Washington,88,9,UNC Wilmington,85,TEAM_2,1,3,TEAM_1,True
+2006,First Round,1,Duke,70,16,Southern,54,TEAM_2,15,16,TEAM_1,True
+2006,First Round,5,Washington,75,12,Utah State,61,TEAM_2,7,14,TEAM_1,True
+2006,First Round,7,Wichita State,86,10,Seton Hall,66,TEAM_2,3,20,TEAM_1,True
+2006,First Round,2,Tennessee,63,15,Winthrop,61,TEAM_2,13,2,TEAM_1,True
+2006,First Round,4,Boston College,88,13,Pacific,76,TEAM_2,9,12,TEAM_1,True
+2006,First Round,6,Oklahoma,74,11,Milwaukee,82,TEAM_2,5,-8,TEAM_2,False
+2006,First Round,3,Florida,76,14,South Alabama,50,TEAM_2,11,26,TEAM_1,True
+2006,First Round,6,Indiana,87,11,San Diego State,83,TEAM_2,5,4,TEAM_1,True
+2006,Play-In,16,Monmouth,71,16,Hampton,49,EQUAL,0,22,TEAM_1,True
+2005,National Championship,1,Illinois,70,1,North Carolina,75,EQUAL,0,-5,TEAM_2,True
+2005,Final Four,1,North Carolina,87,5,Michigan State,71,TEAM_2,4,16,TEAM_1,True
+2005,Final Four,1,Illinois,75,4,Louisville,58,TEAM_2,3,17,TEAM_1,True
+2005,Elite Eight,5,Michigan State,94,2,Kentucky,88,TEAM_1,-3,6,TEAM_1,False
+2005,Elite Eight,1,North Carolina,88,6,Wisconsin,82,TEAM_2,5,6,TEAM_1,True
+2005,Elite Eight,4,Louisville,93,7,West Virginia,85,TEAM_2,3,8,TEAM_1,True
+2005,Elite Eight,1,Illinois,90,3,Arizona,89,TEAM_2,2,1,TEAM_1,True
+2005,Sweet 16,6,Utah,52,2,Kentucky,62,TEAM_1,-4,-10,TEAM_2,True
+2005,Sweet 16,1,North Carolina,67,5,Villanova,66,TEAM_2,4,1,TEAM_1,True
+2005,Sweet 16,6,Wisconsin,65,10,North Carolina State,56,TEAM_2,4,9,TEAM_1,True
+2005,Sweet 16,1,Duke,68,5,Michigan State,78,TEAM_2,4,-10,TEAM_2,False
+2005,Sweet 16,3,Arizona,79,2,Oklahoma State,78,TEAM_1,-1,1,TEAM_1,False
+2005,Sweet 16,6,Texas Tech,60,7,West Virginia,65,TEAM_2,1,-5,TEAM_2,False
+2005,Sweet 16,1,Illinois,77,12,Milwaukee,63,TEAM_2,11,14,TEAM_1,True
+2005,Sweet 16,1,Washington,79,4,Louisville,93,TEAM_2,3,-14,TEAM_2,False
+2005,Second Round,1,North Carolina,92,9,Iowa State,65,TEAM_2,8,27,TEAM_1,True
+2005,Second Round,5,Villanova,76,4,Florida,65,TEAM_1,-1,11,TEAM_1,False
+2005,Second Round,6,Wisconsin,71,14,Bucknell,62,TEAM_2,8,9,TEAM_1,True
+2005,Second Round,5,Michigan State,72,13,Vermont,61,TEAM_2,8,11,TEAM_1,True
+2005,Second Round,10,North Carolina State,65,2,Connecticut,62,TEAM_1,-8,3,TEAM_1,False
+2005,Second Round,7,Southern Illinois,77,2,Oklahoma State,85,TEAM_1,-5,-8,TEAM_2,True
+2005,Second Round,1,Duke,63,9,Mississippi State,55,TEAM_2,8,8,TEAM_1,True
+2005,Second Round,5,Georgia Tech,54,4,Louisville,76,TEAM_1,-1,-22,TEAM_2,True
+2005,Second Round,11,Alabama-Birmingham,63,3,Arizona,85,TEAM_1,-8,-22,TEAM_2,True
+2005,Second Round,7,West Virginia,111,2,Wake Forest,105,TEAM_1,-5,6,TEAM_1,False
+2005,Second Round,12,Milwaukee,85,4,Boston College,63,TEAM_1,-8,22,TEAM_1,False
+2005,Second Round,6,Texas Tech,71,3,Gonzaga,69,TEAM_1,-3,2,TEAM_1,False
+2005,Second Round,7,Cincinnati,60,2,Kentucky,69,TEAM_1,-5,-9,TEAM_2,True
+2005,Second Round,6,Utah,67,3,Oklahoma,58,TEAM_1,-3,9,TEAM_1,False
+2005,Second Round,1,Illinois,71,9,Nevada,59,TEAM_2,8,12,TEAM_1,True
+2005,Second Round,1,Washington,97,8,Pacific,79,TEAM_2,7,18,TEAM_1,True
+2005,First Round,7,Southern Illinois,65,10,St. Mary's (Cal.),56,TEAM_2,3,9,TEAM_1,True
+2005,First Round,5,Michigan State,89,12,Old Dominion,81,TEAM_2,7,8,TEAM_1,True
+2005,First Round,8,Stanford,70,9,Mississippi State,93,TEAM_2,1,-23,TEAM_2,False
+2005,First Round,1,Duke,57,16,Delaware State,46,TEAM_2,15,11,TEAM_1,True
+2005,First Round,2,Connecticut,77,15,Central Florida,71,TEAM_2,13,6,TEAM_1,True
+2005,First Round,7,Charlotte,63,10,North Carolina State,75,TEAM_2,3,-12,TEAM_2,False
+2005,First Round,3,Kansas,63,14,Bucknell,64,TEAM_2,11,-1,TEAM_2,False
+2005,First Round,4,Syracuse,57,13,Vermont,60,TEAM_2,9,-3,TEAM_2,False
+2005,First Round,1,North Carolina,96,16,Oakland,68,TEAM_2,15,28,TEAM_1,True
+2005,First Round,2,Wake Forest,70,15,Chattanooga,54,TEAM_2,13,16,TEAM_1,True
+2005,First Round,4,Louisville,68,13,Louisiana-Lafayette,62,TEAM_2,9,6,TEAM_1,True
+2005,First Round,6,Wisconsin,57,11,Northern Iowa,52,TEAM_2,5,5,TEAM_1,True
+2005,First Round,5,Georgia Tech,80,12,George Washington,68,TEAM_2,7,12,TEAM_1,True
+2005,First Round,4,Florida,67,13,Ohio,62,TEAM_2,9,5,TEAM_1,True
+2005,First Round,5,Villanova,55,12,New Mexico,47,TEAM_2,7,8,TEAM_1,True
+2005,First Round,2,Oklahoma State,63,15,Southeastern Louisiana,50,TEAM_2,13,13,TEAM_1,True
+2005,First Round,8,Minnesota,53,9,Iowa State,64,TEAM_2,1,-11,TEAM_2,False
+2005,First Round,8,Pacific,79,9,Pittsburgh,71,TEAM_2,1,8,TEAM_1,True
+2005,First Round,8,Texas,57,9,Nevada,61,TEAM_2,1,-4,TEAM_2,False
+2005,First Round,6,Utah,60,11,UTEP,54,TEAM_2,5,6,TEAM_1,True
+2005,First Round,1,Illinois,67,16,Fairleigh Dickinson,55,TEAM_2,15,12,TEAM_1,True
+2005,First Round,6,Texas Tech,78,11,UCLA,66,TEAM_2,5,12,TEAM_1,True
+2005,First Round,4,Boston College,85,13,Penn,65,TEAM_2,9,20,TEAM_1,True
+2005,First Round,3,Gonzaga,74,14,Winthrop,64,TEAM_2,11,10,TEAM_1,True
+2005,First Round,7,West Virginia,63,10,Creighton,61,TEAM_2,3,2,TEAM_1,True
+2005,First Round,5,Alabama,73,12,Milwaukee,83,TEAM_2,7,-10,TEAM_2,False
+2005,First Round,1,Washington,88,16,Montana,77,TEAM_2,15,11,TEAM_1,True
+2005,First Round,2,Kentucky,72,15,Eastern Kentucky,64,TEAM_2,13,8,TEAM_1,True
+2005,First Round,6,LSU,68,11,Alabama-Birmingham,82,TEAM_2,5,-14,TEAM_2,False
+2005,First Round,3,Arizona,66,14,Utah State,53,TEAM_2,11,13,TEAM_1,True
+2005,First Round,7,Cincinnati,76,10,Iowa,64,TEAM_2,3,12,TEAM_1,True
+2005,First Round,3,Oklahoma,84,14,Niagara,67,TEAM_2,11,17,TEAM_1,True
+2005,Play-In,16,Oakland,79,16,Alabama A&M,69,EQUAL,0,10,TEAM_1,True
+2004,National Championship,3,Georgia Tech,73,2,Connecticut,82,TEAM_1,-1,-9,TEAM_2,True
+2004,Final Four,3,Georgia Tech,67,2,Oklahoma State,65,TEAM_1,-1,2,TEAM_1,False
+2004,Final Four,1,Duke,78,2,Connecticut,79,TEAM_2,1,-1,TEAM_2,False
+2004,Elite Eight,1,Duke,66,7,Xavier,63,TEAM_2,6,3,TEAM_1,True
+2004,Elite Eight,4,Kansas,71,3,Georgia Tech,79,TEAM_1,-1,-8,TEAM_2,True
+2004,Elite Eight,8,Alabama,71,2,Connecticut,87,TEAM_1,-6,-16,TEAM_2,True
+2004,Elite Eight,1,St. Joseph's,62,2,Oklahoma State,64,TEAM_2,1,-2,TEAM_2,False
+2004,Sweet 16,9,Alabama-Birmingham,74,4,Kansas,100,TEAM_1,-5,-26,TEAM_2,True
+2004,Sweet 16,3,Texas,71,7,Xavier,79,TEAM_2,4,-8,TEAM_2,False
+2004,Sweet 16,1,Duke,72,5,Illinois,62,TEAM_2,4,10,TEAM_1,True
+2004,Sweet 16,3,Georgia Tech,72,10,Nevada,67,TEAM_2,7,5,TEAM_1,True
+2004,Sweet 16,6,Vanderbilt,53,2,Connecticut,73,TEAM_1,-4,-20,TEAM_2,True
+2004,Sweet 16,8,Alabama,80,5,Syracuse,71,TEAM_1,-3,9,TEAM_1,False
+2004,Sweet 16,3,Pittsburgh,51,2,Oklahoma State,63,TEAM_1,-1,-12,TEAM_2,True
+2004,Sweet 16,1,St. Joseph's,84,4,Wake Forest,80,TEAM_2,3,4,TEAM_1,True
+2004,Second Round,6,Boston College,54,3,Georgia Tech,57,TEAM_1,-3,-3,TEAM_2,True
+2004,Second Round,6,Vanderbilt,75,3,North Carolina State,73,TEAM_1,-3,2,TEAM_1,False
+2004,Second Round,7,Xavier,89,2,Mississippi State,74,TEAM_1,-5,15,TEAM_1,False
+2004,Second Round,5,Illinois,92,4,Cincinnati,68,TEAM_1,-1,24,TEAM_1,False
+2004,Second Round,7,Memphis,53,2,Oklahoma State,70,TEAM_1,-5,-17,TEAM_2,True
+2004,Second Round,6,Wisconsin,55,3,Pittsburgh,59,TEAM_1,-3,-4,TEAM_2,True
+2004,Second Round,12,Pacific,63,4,Kansas,78,TEAM_1,-8,-15,TEAM_2,True
+2004,Second Round,1,Kentucky,75,9,Alabama-Birmingham,76,TEAM_2,8,-1,TEAM_2,False
+2004,Second Round,10,Nevada,91,2,Gonzaga,72,TEAM_1,-8,19,TEAM_1,False
+2004,Second Round,1,Duke,90,8,Seton Hall,62,TEAM_2,7,28,TEAM_1,True
+2004,Second Round,7,DePaul,55,2,Connecticut,72,TEAM_1,-5,-17,TEAM_2,True
+2004,Second Round,12,Manhattan,80,4,Wake Forest,84,TEAM_1,-8,-4,TEAM_2,True
+2004,Second Round,5,Syracuse,72,4,Maryland,70,TEAM_1,-1,2,TEAM_1,False
+2004,Second Round,1,Stanford,67,8,Alabama,70,TEAM_2,7,-3,TEAM_2,False
+2004,Second Round,1,St. Joseph's,70,8,Texas Tech,65,TEAM_2,7,5,TEAM_1,True
+2004,Second Round,6,North Carolina,75,3,Texas,78,TEAM_1,-3,-3,TEAM_2,True
+2004,First Round,6,Vanderbilt,71,11,Western Michigan,58,TEAM_2,5,13,TEAM_1,True
+2004,First Round,1,Kentucky,96,16,Florida A&M,76,TEAM_2,15,20,TEAM_1,True
+2004,First Round,2,Mississippi State,80,15,Monmouth,70,TEAM_2,13,10,TEAM_1,True
+2004,First Round,6,Wisconsin,76,11,Richmond,64,TEAM_2,5,12,TEAM_1,True
+2004,First Round,5,Illinois,72,12,Murray St.,53,TEAM_2,7,19,TEAM_1,True
+2004,First Round,6,Boston College,58,11,Utah,51,TEAM_2,5,7,TEAM_1,True
+2004,First Round,4,Kansas,78,13,Illinois-Chicago,53,TEAM_2,9,25,TEAM_1,True
+2004,First Round,2,Oklahoma State,75,15,Eastern Washington,56,TEAM_2,13,19,TEAM_1,True
+2004,First Round,5,Providence,58,12,Pacific,66,TEAM_2,7,-8,TEAM_2,False
+2004,First Round,8,Washington,100,9,Alabama-Birmingham,102,TEAM_2,1,-2,TEAM_2,False
+2004,First Round,3,Texas,80,14,Princeton,70,TEAM_2,11,10,TEAM_1,True
+2004,First Round,4,Cincinnati,80,13,East Tennessee State,77,TEAM_2,9,3,TEAM_1,True
+2004,First Round,7,Xavier,80,10,Louisville,70,TEAM_2,3,10,TEAM_1,True
+2004,First Round,3,Georgia Tech,65,14,Northern Iowa,60,TEAM_2,11,5,TEAM_1,True
+2004,First Round,7,Memphis,59,10,South Carolina,43,TEAM_2,3,16,TEAM_1,True
+2004,First Round,3,Pittsburgh,53,14,Central Florida,44,TEAM_2,11,9,TEAM_1,True
+2004,First Round,7,DePaul,76,10,Dayton,69,TEAM_2,3,7,TEAM_1,True
+2004,First Round,3,North Carolina State,62,14,Louisiana-Lafayette,52,TEAM_2,11,10,TEAM_1,True
+2004,First Round,6,North Carolina,63,11,Air Force,52,TEAM_2,5,11,TEAM_1,True
+2004,First Round,8,Seton Hall,80,9,Arizona,76,TEAM_2,1,4,TEAM_1,True
+2004,First Round,1,Stanford,71,16,Texas-San Antonio,45,TEAM_2,15,26,TEAM_1,True
+2004,First Round,8,Alabama,65,9,Southern Illinois,64,TEAM_2,1,1,TEAM_1,True
+2004,First Round,5,Syracuse,80,12,Brigham Young,75,TEAM_2,7,5,TEAM_1,True
+2004,First Round,1,Duke,96,16,Alabama State,61,TEAM_2,15,35,TEAM_1,True
+2004,First Round,4,Maryland,86,13,UTEP,83,TEAM_2,9,3,TEAM_1,True
+2004,First Round,4,Wake Forest,79,13,Virginia Commonwealth,78,TEAM_2,9,1,TEAM_1,True
+2004,First Round,5,Florida,60,12,Manhattan,75,TEAM_2,7,-15,TEAM_2,False
+2004,First Round,8,Texas Tech,76,9,Charlotte,73,TEAM_2,1,3,TEAM_1,True
+2004,First Round,1,St. Joseph's,82,16,Liberty,63,TEAM_2,15,19,TEAM_1,True
+2004,First Round,2,Gonzaga,76,15,Valparaiso,49,TEAM_2,13,27,TEAM_1,True
+2004,First Round,7,Michigan State,66,10,Nevada,72,TEAM_2,3,-6,TEAM_2,False
+2004,First Round,2,Connecticut,70,15,Vermont,53,TEAM_2,13,17,TEAM_1,True
+2004,Play-In,16,Florida A&M,72,16,Lehigh,57,EQUAL,0,15,TEAM_1,True
+2003,National Championship,2,Kansas,78,3,Syracuse,81,TEAM_2,1,-3,TEAM_2,False
+2003,Final Four,1,Texas,84,3,Syracuse,95,TEAM_2,2,-11,TEAM_2,False
+2003,Final Four,3,Marquette,61,2,Kansas,94,TEAM_1,-1,-33,TEAM_2,True
+2003,Elite Eight,1,Texas,85,7,Michigan State,76,TEAM_2,6,9,TEAM_1,True
+2003,Elite Eight,1,Oklahoma,47,3,Syracuse,63,TEAM_2,2,-16,TEAM_2,False
+2003,Elite Eight,1,Arizona,75,2,Kansas,78,TEAM_2,1,-3,TEAM_2,False
+2003,Elite Eight,1,Kentucky,69,3,Marquette,83,TEAM_2,2,-14,TEAM_2,False
+2003,Sweet 16,6,Maryland,58,7,Michigan State,60,TEAM_2,1,-2,TEAM_2,False
+2003,Sweet 16,3,Syracuse,79,10,Auburn,78,TEAM_2,7,1,TEAM_1,True
+2003,Sweet 16,1,Oklahoma,65,12,Butler,54,TEAM_2,11,11,TEAM_1,True
+2003,Sweet 16,1,Texas,82,5,Connecticut,78,TEAM_2,4,4,TEAM_1,True
+2003,Sweet 16,1,Arizona,88,5,Notre Dame,71,TEAM_2,4,17,TEAM_1,True
+2003,Sweet 16,1,Kentucky,63,5,Wisconsin,57,TEAM_2,4,6,TEAM_1,True
+2003,Sweet 16,3,Marquette,77,2,Pittsburgh,74,TEAM_1,-1,3,TEAM_1,False
+2003,Sweet 16,3,Duke,65,2,Kansas,69,TEAM_1,-1,-4,TEAM_2,True
+2003,Second Round,5,Wisconsin,61,13,Tulsa,60,TEAM_2,8,1,TEAM_1,True
+2003,Second Round,10,Auburn,68,2,Wake Forest,62,TEAM_1,-8,6,TEAM_1,False
+2003,Second Round,6,Oklahoma State,56,3,Syracuse,68,TEAM_1,-3,-12,TEAM_2,True
+2003,Second Round,12,Butler,79,4,Louisville,71,TEAM_1,-8,8,TEAM_1,False
+2003,Second Round,7,Michigan State,68,2,Florida,46,TEAM_1,-5,22,TEAM_1,False
+2003,Second Round,6,Maryland,77,3,Xavier,64,TEAM_1,-3,13,TEAM_1,False
+2003,Second Round,1,Texas,77,9,Purdue,67,TEAM_2,8,10,TEAM_1,True
+2003,Second Round,7,Indiana,52,2,Pittsburgh,74,TEAM_1,-5,-22,TEAM_2,True
+2003,Second Round,11,Central Michigan,80,3,Duke,86,TEAM_1,-8,-6,TEAM_2,True
+2003,Second Round,1,Kentucky,74,9,Utah,54,TEAM_2,8,20,TEAM_1,True
+2003,Second Round,1,Arizona,96,9,Gonzaga,95,TEAM_2,8,1,TEAM_1,True
+2003,Second Round,5,Notre Dame,68,4,Illinois,60,TEAM_1,-1,8,TEAM_1,False
+2003,Second Round,10,Arizona State,76,2,Kansas,108,TEAM_1,-8,-32,TEAM_2,True
+2003,Second Round,5,Connecticut,84,4,Stanford,74,TEAM_1,-1,10,TEAM_1,False
+2003,Second Round,1,Oklahoma,74,8,California,65,TEAM_2,7,9,TEAM_1,True
+2003,Second Round,6,Missouri,92,3,Marquette,101,TEAM_1,-3,-9,TEAM_2,True
+2003,First Round,2,Pittsburgh,67,15,Wagner,62,TEAM_2,13,5,TEAM_1,True
+2003,First Round,6,Maryland,75,11,UNC Wilmington,73,TEAM_2,5,2,TEAM_1,True
+2003,First Round,7,Michigan State,79,10,Colorado,64,TEAM_2,3,15,TEAM_1,True
+2003,First Round,8,Oregon,58,9,Utah,60,TEAM_2,1,-2,TEAM_2,False
+2003,First Round,1,Kentucky,95,16,IUPUI,64,TEAM_2,15,31,TEAM_1,True
+2003,First Round,7,Indiana,67,10,Alabama,62,TEAM_2,3,5,TEAM_1,True
+2003,First Round,8,LSU,56,9,Purdue,80,TEAM_2,1,-24,TEAM_2,False
+2003,First Round,5,Mississippi State,46,12,Butler,47,TEAM_2,7,-1,TEAM_2,False
+2003,First Round,1,Texas,82,16,UNC Asheville,61,TEAM_2,15,21,TEAM_1,True
+2003,First Round,6,Oklahoma State,77,11,Penn,63,TEAM_2,5,14,TEAM_1,True
+2003,First Round,3,Syracuse,77,14,Manhattan,63,TEAM_2,11,14,TEAM_1,True
+2003,First Round,7,St. Joseph's,63,10,Auburn,65,TEAM_2,3,-2,TEAM_2,False
+2003,First Round,2,Wake Forest,76,15,East Tennessee State,73,TEAM_2,13,3,TEAM_1,True
+2003,First Round,3,Xavier,71,14,Troy,59,TEAM_2,11,12,TEAM_1,True
+2003,First Round,4,Louisville,86,13,Austin Peay,64,TEAM_2,9,22,TEAM_1,True
+2003,First Round,2,Florida,85,15,Sam Houston State,55,TEAM_2,13,30,TEAM_1,True
+2003,First Round,8,California,76,9,North Carolina State,74,TEAM_2,1,2,TEAM_1,True
+2003,First Round,1,Oklahoma,71,16,South Carolina State,54,TEAM_2,15,17,TEAM_1,True
+2003,First Round,1,Arizona,80,16,Vermont,51,TEAM_2,15,29,TEAM_1,True
+2003,First Round,8,Cincinnati,69,9,Gonzaga,74,TEAM_2,1,-5,TEAM_2,False
+2003,First Round,5,Notre Dame,70,12,Milwaukee,69,TEAM_2,7,1,TEAM_1,True
+2003,First Round,4,Illinois,65,13,Western Kentucky,60,TEAM_2,9,5,TEAM_1,True
+2003,First Round,6,Creighton,73,11,Central Michigan,79,TEAM_2,5,-6,TEAM_2,False
+2003,First Round,3,Duke,67,14,Colorado State,57,TEAM_2,11,10,TEAM_1,True
+2003,First Round,7,Memphis,71,10,Arizona State,84,TEAM_2,3,-13,TEAM_2,False
+2003,First Round,2,Kansas,64,15,Utah State,61,TEAM_2,13,3,TEAM_1,True
+2003,First Round,5,Wisconsin,81,12,Weber State,74,TEAM_2,7,7,TEAM_1,True
+2003,First Round,4,Dayton,71,13,Tulsa,84,TEAM_2,9,-13,TEAM_2,False
+2003,First Round,6,Missouri,72,11,Southern Illinois,71,TEAM_2,5,1,TEAM_1,True
+2003,First Round,5,Connecticut,58,12,Brigham Young,53,TEAM_2,7,5,TEAM_1,True
+2003,First Round,3,Marquette,72,14,Holy Cross,68,TEAM_2,11,4,TEAM_1,True
+2003,First Round,4,Stanford,77,13,San Diego,69,TEAM_2,9,8,TEAM_1,True
+2003,Play-In,16,UNC Asheville,92,16,Texas Southern,84,EQUAL,0,8,TEAM_1,True
+2002,National Championship,5,Indiana,52,1,Maryland,64,TEAM_1,-4,-12,TEAM_2,True
+2002,Final Four,5,Indiana,73,2,Oklahoma,64,TEAM_1,-3,9,TEAM_1,False
+2002,Final Four,1,Maryland,97,1,Kansas,88,EQUAL,0,9,TEAM_1,True
+2002,Elite Eight,1,Kansas,104,2,Oregon,86,TEAM_2,1,18,TEAM_1,True
+2002,Elite Eight,1,Maryland,90,2,Connecticut,82,TEAM_2,1,8,TEAM_1,True
+2002,Elite Eight,5,Indiana,81,10,Kent State,69,TEAM_2,5,12,TEAM_1,True
+2002,Elite Eight,12,Missouri,75,2,Oklahoma,81,TEAM_1,-10,-6,TEAM_2,True
+2002,Sweet 16,6,Texas,70,2,Oregon,72,TEAM_1,-4,-2,TEAM_2,True
+2002,Sweet 16,1,Kansas,73,4,Illinois,69,TEAM_2,3,4,TEAM_1,True
+2002,Sweet 16,1,Maryland,78,4,Kentucky,68,TEAM_2,3,10,TEAM_1,True
+2002,Sweet 16,11,Southern Illinois,59,2,Connecticut,71,TEAM_1,-9,-12,TEAM_2,True
+2002,Sweet 16,1,Duke,73,5,Indiana,74,TEAM_2,4,-1,TEAM_2,False
+2002,Sweet 16,8,UCLA,73,12,Missouri,82,TEAM_2,4,-9,TEAM_2,False
+2002,Sweet 16,3,Arizona,67,2,Oklahoma,88,TEAM_1,-1,-21,TEAM_2,True
+2002,Sweet 16,3,Pittsburgh,73,10,Kent State,78,TEAM_2,7,-5,TEAM_2,False
+2002,Second Round,11,Wyoming,60,3,Arizona,68,TEAM_1,-8,-8,TEAM_2,True
+2002,Second Round,12,Creighton,60,4,Illinois,72,TEAM_1,-8,-12,TEAM_2,True
+2002,Second Round,6,Texas,68,3,Mississippi State,64,TEAM_1,-3,4,TEAM_1,False
+2002,Second Round,6,California,50,3,Pittsburgh,63,TEAM_1,-3,-13,TEAM_2,True
+2002,Second Round,11,Southern Illinois,77,3,Georgia,75,TEAM_1,-8,2,TEAM_1,False
+2002,Second Round,7,North Carolina State,74,2,Connecticut,77,TEAM_1,-5,-3,TEAM_2,True
+2002,Second Round,10,Kent State,71,2,Alabama,58,TEAM_1,-8,13,TEAM_1,False
+2002,Second Round,1,Cincinnati,101,8,UCLA,105,TEAM_2,7,-4,TEAM_2,False
+2002,Second Round,7,Xavier,65,2,Oklahoma,78,TEAM_1,-5,-13,TEAM_2,True
+2002,Second Round,1,Maryland,87,8,Wisconsin,57,TEAM_2,7,30,TEAM_1,True
+2002,Second Round,5,Indiana,76,13,UNC Wilmington,67,TEAM_2,8,9,TEAM_1,True
+2002,Second Round,12,Tulsa,82,4,Kentucky,87,TEAM_1,-8,-5,TEAM_2,True
+2002,Second Round,12,Missouri,83,4,Ohio State,67,TEAM_1,-8,16,TEAM_1,False
+2002,Second Round,1,Kansas,86,8,Stanford,63,TEAM_2,7,23,TEAM_1,True
+2002,Second Round,7,Wake Forest,87,2,Oregon,92,TEAM_1,-5,-5,TEAM_2,True
+2002,Second Round,1,Duke,84,8,Notre Dame,77,TEAM_2,7,7,TEAM_1,True
+2002,First Round,7,North Carolina State,69,10,Michigan State,58,TEAM_2,3,11,TEAM_1,True
+2002,First Round,4,Illinois,93,13,San Diego State,64,TEAM_2,9,29,TEAM_1,True
+2002,First Round,6,Texas,70,11,Boston College,57,TEAM_2,5,13,TEAM_1,True
+2002,First Round,1,Cincinnati,90,16,Boston University,52,TEAM_2,15,38,TEAM_1,True
+2002,First Round,3,Georgia,85,14,Murray St.,68,TEAM_2,11,17,TEAM_1,True
+2002,First Round,6,Texas Tech,68,11,Southern Illinois,76,TEAM_2,5,-8,TEAM_2,False
+2002,First Round,1,Maryland,85,16,Siena,70,TEAM_2,15,15,TEAM_1,True
+2002,First Round,2,Oklahoma,71,15,Illinois-Chicago,63,TEAM_2,13,8,TEAM_1,True
+2002,First Round,6,California,82,11,Penn,75,TEAM_2,5,7,TEAM_1,True
+2002,First Round,7,Xavier,70,10,Hawaii,58,TEAM_2,3,12,TEAM_1,True
+2002,First Round,3,Mississippi State,70,14,McNeese State,58,TEAM_2,11,12,TEAM_1,True
+2002,First Round,8,Wisconsin,80,9,St. John's,70,TEAM_2,1,10,TEAM_1,True
+2002,First Round,2,Connecticut,78,15,Hampton,67,TEAM_2,13,11,TEAM_1,True
+2002,First Round,8,UCLA,80,9,Mississippi,58,TEAM_2,1,22,TEAM_1,True
+2002,First Round,5,Florida,82,12,Creighton,83,TEAM_2,7,-1,TEAM_2,False
+2002,First Round,1,Duke,84,16,Winthrop,37,TEAM_2,15,47,TEAM_1,True
+2002,First Round,5,Indiana,75,12,Utah,56,TEAM_2,7,19,TEAM_1,True
+2002,First Round,7,Wake Forest,83,10,Pepperdine,74,TEAM_2,3,9,TEAM_1,True
+2002,First Round,2,Oregon,81,15,Montana,62,TEAM_2,13,19,TEAM_1,True
+2002,First Round,1,Kansas,70,16,Holy Cross,59,TEAM_2,15,11,TEAM_1,True
+2002,First Round,4,Kentucky,83,13,Valparaiso,68,TEAM_2,9,15,TEAM_1,True
+2002,First Round,5,Marquette,69,12,Tulsa,71,TEAM_2,7,-2,TEAM_2,False
+2002,First Round,3,Arizona,86,14,UC Santa Barbara,81,TEAM_2,11,5,TEAM_1,True
+2002,First Round,6,Gonzaga,66,11,Wyoming,73,TEAM_2,5,-7,TEAM_2,False
+2002,First Round,4,Ohio State,69,13,Davidson,64,TEAM_2,9,5,TEAM_1,True
+2002,First Round,5,Miami (Fla.),80,12,Missouri,93,TEAM_2,7,-13,TEAM_2,False
+2002,First Round,8,Stanford,84,9,Western Kentucky,68,TEAM_2,1,16,TEAM_1,True
+2002,First Round,2,Alabama,86,15,Florida Atlantic,78,TEAM_2,13,8,TEAM_1,True
+2002,First Round,7,Oklahoma State,61,10,Kent State,69,TEAM_2,3,-8,TEAM_2,False
+2002,First Round,3,Pittsburgh,71,14,Central Connecticut State,54,TEAM_2,11,17,TEAM_1,True
+2002,First Round,4,Southern California,89,13,UNC Wilmington,93,TEAM_2,9,-4,TEAM_2,False
+2002,First Round,8,Notre Dame,82,9,Charlotte,63,TEAM_2,1,19,TEAM_1,True
+2002,Play-In,16,Siena,81,16,Alcorn State,77,EQUAL,0,4,TEAM_1,True
+2001,National Championship,2,Arizona,72,1,Duke,82,TEAM_1,-1,-10,TEAM_2,True
+2001,Final Four,2,Arizona,80,1,Michigan State,61,TEAM_1,-1,19,TEAM_1,False
+2001,Final Four,1,Duke,95,3,Maryland,84,TEAM_2,2,11,TEAM_1,True
+2001,Elite Eight,1,Michigan State,69,11,Temple,62,TEAM_2,10,7,TEAM_1,True
+2001,Elite Eight,1,Illinois,81,2,Arizona,87,TEAM_2,1,-6,TEAM_2,False
+2001,Elite Eight,1,Stanford,73,3,Maryland,87,TEAM_2,2,-14,TEAM_2,False
+2001,Elite Eight,1,Duke,79,6,Southern California,69,TEAM_2,5,10,TEAM_1,True
+2001,Sweet 16,1,Illinois,80,4,Kansas,64,TEAM_2,3,16,TEAM_1,True
+2001,Sweet 16,3,Mississippi,56,2,Arizona,66,TEAM_1,-1,-10,TEAM_2,True
+2001,Sweet 16,1,Michigan State,77,12,Gonzaga,62,TEAM_2,11,15,TEAM_1,True
+2001,Sweet 16,11,Temple,84,7,Penn State,72,TEAM_1,-4,12,TEAM_1,False
+2001,Sweet 16,6,Southern California,80,2,Kentucky,76,TEAM_1,-4,4,TEAM_1,False
+2001,Sweet 16,1,Stanford,78,5,Cincinnati,65,TEAM_2,4,13,TEAM_1,True
+2001,Sweet 16,3,Maryland,76,10,Georgetown,66,TEAM_2,7,10,TEAM_1,True
+2001,Sweet 16,1,Duke,76,4,UCLA,63,TEAM_2,3,13,TEAM_1,True
+2001,Second Round,7,Penn State,82,2,North Carolina,74,TEAM_1,-5,8,TEAM_1,False
+2001,Second Round,11,Temple,75,3,Florida,54,TEAM_1,-8,21,TEAM_1,False
+2001,Second Round,12,Gonzaga,85,13,Indiana State,68,TEAM_2,1,17,TEAM_1,True
+2001,Second Round,1,Michigan State,81,9,Fresno State,65,TEAM_2,8,16,TEAM_1,True
+2001,Second Round,10,Butler,52,2,Arizona,73,TEAM_1,-8,-21,TEAM_2,True
+2001,Second Round,6,Notre Dame,56,3,Mississippi,59,TEAM_1,-3,-3,TEAM_2,True
+2001,Second Round,5,Syracuse,58,4,Kansas,87,TEAM_1,-1,-29,TEAM_2,True
+2001,Second Round,1,Illinois,79,9,Charlotte,61,TEAM_2,8,18,TEAM_1,True
+2001,Second Round,5,Cincinnati,66,13,Kent State,43,TEAM_2,8,23,TEAM_1,True
+2001,Second Round,11,Georgia State,60,3,Maryland,79,TEAM_1,-8,-19,TEAM_2,True
+2001,Second Round,1,Stanford,90,9,St. Joseph's,83,TEAM_2,8,7,TEAM_1,True
+2001,Second Round,7,Iowa,79,2,Kentucky,92,TEAM_1,-5,-13,TEAM_2,True
+2001,Second Round,1,Duke,94,9,Missouri,81,TEAM_2,8,13,TEAM_1,True
+2001,Second Round,6,Southern California,74,3,Boston College,71,TEAM_1,-3,3,TEAM_1,False
+2001,Second Round,12,Utah State,50,4,UCLA,75,TEAM_1,-8,-25,TEAM_2,True
+2001,Second Round,10,Georgetown,76,15,Hampton,57,TEAM_2,5,19,TEAM_1,True
+2001,First Round,7,Wake Forest,63,10,Butler,79,TEAM_2,3,-16,TEAM_2,False
+2001,First Round,2,Arizona,101,15,Eastern Illinois,76,TEAM_2,13,25,TEAM_1,True
+2001,First Round,1,Michigan State,69,16,Alabama State,35,TEAM_2,15,34,TEAM_1,True
+2001,First Round,1,Illinois,96,16,Northwestern State,54,TEAM_2,15,42,TEAM_1,True
+2001,First Round,6,Texas,65,11,Temple,79,TEAM_2,5,-14,TEAM_2,False
+2001,First Round,8,California,70,9,Fresno State,82,TEAM_2,1,-12,TEAM_2,False
+2001,First Round,5,Virginia,85,12,Gonzaga,86,TEAM_2,7,-1,TEAM_2,False
+2001,First Round,4,Oklahoma,68,13,Indiana State,70,TEAM_2,9,-2,TEAM_2,False
+2001,First Round,8,Tennessee,63,9,Charlotte,70,TEAM_2,1,-7,TEAM_2,False
+2001,First Round,4,Kansas,99,13,Cal State Northridge,75,TEAM_2,9,24,TEAM_1,True
+2001,First Round,7,Penn State,69,10,Providence,59,TEAM_2,3,10,TEAM_1,True
+2001,First Round,5,Syracuse,79,12,Hawaii,69,TEAM_2,7,10,TEAM_1,True
+2001,First Round,3,Florida,69,14,Western Kentucky,56,TEAM_2,11,13,TEAM_1,True
+2001,First Round,6,Notre Dame,83,11,Xavier,71,TEAM_2,5,12,TEAM_1,True
+2001,First Round,3,Mississippi,72,14,Iona,70,TEAM_2,11,2,TEAM_1,True
+2001,First Round,2,North Carolina,70,15,Princeton,48,TEAM_2,13,22,TEAM_1,True
+2001,First Round,5,Cincinnati,84,12,Brigham Young,59,TEAM_2,7,25,TEAM_1,True
+2001,First Round,2,Iowa State,57,15,Hampton,58,TEAM_2,13,-1,TEAM_2,False
+2001,First Round,1,Duke,95,16,Monmouth,52,TEAM_2,15,43,TEAM_1,True
+2001,First Round,8,Georgia,68,9,Missouri,70,TEAM_2,1,-2,TEAM_2,False
+2001,First Round,5,Ohio State,68,12,Utah State,77,TEAM_2,7,-9,TEAM_2,False
+2001,First Round,4,UCLA,61,13,Hofstra,48,TEAM_2,9,13,TEAM_1,True
+2001,First Round,6,Southern California,69,11,Oklahoma State,54,TEAM_2,5,15,TEAM_1,True
+2001,First Round,3,Boston College,68,14,Southern Utah,65,TEAM_2,11,3,TEAM_1,True
+2001,First Round,7,Iowa,69,10,Creighton,56,TEAM_2,3,13,TEAM_1,True
+2001,First Round,2,Kentucky,72,15,Holy Cross,68,TEAM_2,13,4,TEAM_1,True
+2001,First Round,1,Stanford,89,16,UNC Greensboro,60,TEAM_2,15,29,TEAM_1,True
+2001,First Round,7,Arkansas,61,10,Georgetown,63,TEAM_2,3,-2,TEAM_2,False
+2001,First Round,3,Maryland,83,14,George Mason,80,TEAM_2,11,3,TEAM_1,True
+2001,First Round,6,Wisconsin,49,11,Georgia State,50,TEAM_2,5,-1,TEAM_2,False
+2001,First Round,4,Indiana,73,13,Kent State,77,TEAM_2,9,-4,TEAM_2,False
+2001,First Round,8,Georgia Tech,62,9,St. Joseph's,66,TEAM_2,1,-4,TEAM_2,False
+2001,Play-In,16,Winthrop,67,16,Northwestern State,71,EQUAL,0,-4,TEAM_2,True
+2000,National Championship,1,Michigan State,89,5,Florida,76,TEAM_2,4,13,TEAM_1,True
+2000,Final Four,8,Wisconsin,41,1,Michigan State,53,TEAM_1,-7,-12,TEAM_2,True
+2000,Final Four,5,Florida,71,8,North Carolina,59,TEAM_2,3,12,TEAM_1,True
+2000,Elite Eight,5,Florida,77,3,Oklahoma State,65,TEAM_1,-2,12,TEAM_1,False
+2000,Elite Eight,8,North Carolina,59,7,Tulsa,55,TEAM_1,-1,4,TEAM_1,False
+2000,Elite Eight,1,Michigan State,75,2,Iowa State,64,TEAM_2,1,11,TEAM_1,True
+2000,Elite Eight,8,Wisconsin,64,6,Purdue,60,TEAM_1,-2,4,TEAM_1,False
+2000,Sweet 16,3,Oklahoma State,68,10,Seton Hall,66,TEAM_2,7,2,TEAM_1,True
+2000,Sweet 16,8,North Carolina,74,4,Tennessee,69,TEAM_1,-4,5,TEAM_1,False
+2000,Sweet 16,6,Miami (Fla.),71,7,Tulsa,80,TEAM_2,1,-9,TEAM_2,False
+2000,Sweet 16,1,Duke,78,5,Florida,87,TEAM_2,4,-9,TEAM_2,False
+2000,Sweet 16,1,Michigan State,75,4,Syracuse,58,TEAM_2,3,17,TEAM_1,True
+2000,Sweet 16,6,Purdue,75,10,Gonzaga,66,TEAM_2,4,9,TEAM_1,True
+2000,Sweet 16,8,Wisconsin,61,4,LSU,48,TEAM_1,-4,13,TEAM_1,False
+2000,Sweet 16,6,UCLA,56,2,Iowa State,80,TEAM_1,-4,-24,TEAM_2,True
+2000,Second Round,1,Duke,69,8,Kansas,64,TEAM_2,7,5,TEAM_1,True
+2000,Second Round,6,Miami (Fla.),75,3,Ohio State,62,TEAM_1,-3,13,TEAM_1,False
+2000,Second Round,5,Connecticut,61,4,Tennessee,65,TEAM_1,-1,-4,TEAM_2,True
+2000,Second Round,1,Stanford,53,8,North Carolina,60,TEAM_2,7,-7,TEAM_2,False
+2000,Second Round,10,Seton Hall,67,2,Temple,65,TEAM_1,-8,2,TEAM_1,False
+2000,Second Round,11,Pepperdine,67,3,Oklahoma State,75,TEAM_1,-8,-8,TEAM_2,True
+2000,Second Round,5,Florida,93,4,Illinois,76,TEAM_1,-1,17,TEAM_1,False
+2000,Second Round,7,Tulsa,69,2,Cincinnati,61,TEAM_1,-5,8,TEAM_1,False
+2000,Second Round,5,Kentucky,50,4,Syracuse,52,TEAM_1,-1,-2,TEAM_2,True
+2000,Second Round,10,Gonzaga,82,2,St. John's,76,TEAM_1,-8,6,TEAM_1,False
+2000,Second Round,6,Purdue,66,3,Oklahoma,62,TEAM_1,-3,4,TEAM_1,False
+2000,Second Round,5,Texas,67,4,LSU,72,TEAM_1,-1,-5,TEAM_2,True
+2000,Second Round,1,Arizona,59,8,Wisconsin,66,TEAM_2,7,-7,TEAM_2,False
+2000,Second Round,7,Auburn,60,2,Iowa State,79,TEAM_1,-5,-19,TEAM_2,True
+2000,Second Round,6,UCLA,105,3,Maryland,70,TEAM_1,-3,35,TEAM_1,False
+2000,Second Round,1,Michigan State,73,8,Utah,61,TEAM_2,7,12,TEAM_1,True
+2000,First Round,6,Indiana,57,11,Pepperdine,77,TEAM_2,5,-20,TEAM_2,False
+2000,First Round,2,Temple,73,15,Lafayette,47,TEAM_2,13,26,TEAM_1,True
+2000,First Round,1,Duke,85,16,Lamar,55,TEAM_2,15,30,TEAM_1,True
+2000,First Round,8,Kansas,81,9,DePaul,77,TEAM_2,1,4,TEAM_1,True
+2000,First Round,5,Florida,69,12,Butler,68,TEAM_2,7,1,TEAM_1,True
+2000,First Round,2,Cincinnati,64,15,UNC Wilmington,47,TEAM_2,13,17,TEAM_1,True
+2000,First Round,7,Tulsa,89,10,UNLV,62,TEAM_2,3,27,TEAM_1,True
+2000,First Round,3,Ohio State,87,14,Appalachian State,61,TEAM_2,11,26,TEAM_1,True
+2000,First Round,6,Miami (Fla.),75,11,Arkansas,71,TEAM_2,5,4,TEAM_1,True
+2000,First Round,4,Tennessee,63,13,Louisiana-Lafayette,58,TEAM_2,9,5,TEAM_1,True
+2000,First Round,5,Connecticut,75,12,Utah State,67,TEAM_2,7,8,TEAM_1,True
+2000,First Round,8,North Carolina,84,9,Missouri,70,TEAM_2,1,14,TEAM_1,True
+2000,First Round,1,Stanford,84,16,South Carolina State,65,TEAM_2,15,19,TEAM_1,True
+2000,First Round,7,Oregon,71,10,Seton Hall,72,TEAM_2,3,-1,TEAM_2,False
+2000,First Round,3,Oklahoma State,86,14,Hofstra,66,TEAM_2,11,20,TEAM_1,True
+2000,First Round,4,Illinois,68,13,Penn,58,TEAM_2,9,10,TEAM_1,True
+2000,First Round,8,Utah,48,9,St. Louis,45,TEAM_2,1,3,TEAM_1,True
+2000,First Round,2,Iowa State,88,15,Central Connecticut State,78,TEAM_2,13,10,TEAM_1,True
+2000,First Round,7,Auburn,72,10,Creighton,69,TEAM_2,3,3,TEAM_1,True
+2000,First Round,3,Maryland,74,14,Iona,59,TEAM_2,11,15,TEAM_1,True
+2000,First Round,6,UCLA,79,11,Ball State,65,TEAM_2,5,14,TEAM_1,True
+2000,First Round,4,Syracuse,79,13,Samford,65,TEAM_2,9,14,TEAM_1,True
+2000,First Round,1,Arizona,71,16,Jackson State,47,TEAM_2,15,24,TEAM_1,True
+2000,First Round,8,Wisconsin,66,9,Fresno State,56,TEAM_2,1,10,TEAM_1,True
+2000,First Round,3,Oklahoma,74,14,Winthrop,60,TEAM_2,11,14,TEAM_1,True
+2000,First Round,5,Texas,77,12,Indiana State,61,TEAM_2,7,16,TEAM_1,True
+2000,First Round,4,LSU,64,13,Southeast Missouri State,61,TEAM_2,9,3,TEAM_1,True
+2000,First Round,6,Purdue,62,11,Dayton,61,TEAM_2,5,1,TEAM_1,True
+2000,First Round,7,Louisville,66,10,Gonzaga,77,TEAM_2,3,-11,TEAM_2,False
+2000,First Round,2,St. John's,61,15,Northern Arizona,56,TEAM_2,13,5,TEAM_1,True
+2000,First Round,1,Michigan State,61,16,Valparaiso,56,TEAM_2,15,5,TEAM_1,True
+2000,First Round,5,Kentucky,85,12,St. Bonaventure,80,TEAM_2,7,5,TEAM_1,True
+1999,National Championship,1,Duke,74,1,Connecticut,77,EQUAL,0,-3,TEAM_2,True
+1999,Final Four,1,Duke,68,1,Michigan State,62,EQUAL,0,6,TEAM_1,True
+1999,Final Four,4,Ohio State,58,1,Connecticut,64,TEAM_1,-3,-6,TEAM_2,True
+1999,Elite Eight,1,Michigan State,73,3,Kentucky,66,TEAM_2,2,7,TEAM_1,True
+1999,Elite Eight,1,Duke,85,6,Temple,64,TEAM_2,5,21,TEAM_1,True
+1999,Elite Eight,4,Ohio State,77,3,St. John's,74,TEAM_1,-1,3,TEAM_1,False
+1999,Elite Eight,1,Connecticut,67,10,Gonzaga,62,TEAM_2,9,5,TEAM_1,True
+1999,Sweet 16,6,Temple,77,10,Purdue,55,TEAM_2,4,22,TEAM_1,True
+1999,Sweet 16,1,Duke,78,12,Missouri State,61,TEAM_2,11,17,TEAM_1,True
+1999,Sweet 16,1,Michigan State,54,13,Oklahoma,46,TEAM_2,12,8,TEAM_1,True
+1999,Sweet 16,3,Kentucky,58,10,Miami (Ohio),43,TEAM_2,7,15,TEAM_1,True
+1999,Sweet 16,6,Florida,72,10,Gonzaga,73,TEAM_2,4,-1,TEAM_2,False
+1999,Sweet 16,3,St. John's,76,2,Maryland,62,TEAM_1,-1,14,TEAM_1,False
+1999,Sweet 16,1,Connecticut,78,5,Iowa,68,TEAM_2,4,10,TEAM_1,True
+1999,Sweet 16,1,Auburn,64,4,Ohio State,72,TEAM_2,3,-8,TEAM_2,False
+1999,Second Round,5,Charlotte,72,13,Oklahoma,85,TEAM_2,8,-13,TEAM_2,False
+1999,Second Round,6,Temple,64,3,Cincinnati,54,TEAM_1,-3,10,TEAM_1,False
+1999,Second Round,10,Miami (Ohio),66,2,Utah,58,TEAM_1,-8,8,TEAM_1,False
+1999,Second Round,1,Michigan State,74,9,Mississippi,66,TEAM_2,8,8,TEAM_1,True
+1999,Second Round,12,Missouri State,81,4,Tennessee,51,TEAM_1,-8,30,TEAM_1,False
+1999,Second Round,1,Duke,97,9,Tulsa,56,TEAM_2,8,41,TEAM_1,True
+1999,Second Round,6,Kansas,88,3,Kentucky,92,TEAM_1,-3,-4,TEAM_2,True
+1999,Second Round,10,Purdue,73,2,Miami (Fla.),63,TEAM_1,-8,10,TEAM_1,False
+1999,Second Round,6,Florida,82,14,Weber State,74,TEAM_2,8,8,TEAM_1,True
+1999,Second Round,5,Iowa,82,4,Arkansas,72,TEAM_1,-1,10,TEAM_1,False
+1999,Second Round,1,Connecticut,78,9,New Mexico,56,TEAM_2,8,22,TEAM_1,True
+1999,Second Round,12,Detroit,44,4,Ohio State,75,TEAM_1,-8,-31,TEAM_2,True
+1999,Second Round,10,Gonzaga,82,2,Stanford,74,TEAM_1,-8,8,TEAM_1,False
+1999,Second Round,6,Indiana,61,3,St. John's,86,TEAM_1,-3,-25,TEAM_2,True
+1999,Second Round,1,Auburn,81,9,Oklahoma State,74,TEAM_2,8,7,TEAM_1,True
+1999,Second Round,10,Creighton,63,2,Maryland,75,TEAM_1,-8,-12,TEAM_2,True
+1999,First Round,3,Cincinnati,72,14,George Mason,48,TEAM_2,11,24,TEAM_1,True
+1999,First Round,2,Utah,80,15,Arkansas State,58,TEAM_2,13,22,TEAM_1,True
+1999,First Round,7,Washington,58,10,Miami (Ohio),59,TEAM_2,3,-1,TEAM_2,False
+1999,First Round,3,Kentucky,82,14,New Mexico State,60,TEAM_2,11,22,TEAM_1,True
+1999,First Round,6,Kansas,95,11,Evansville,74,TEAM_2,5,21,TEAM_1,True
+1999,First Round,4,Arizona,60,13,Oklahoma,61,TEAM_2,9,-1,TEAM_2,False
+1999,First Round,5,Charlotte,81,12,Rhode Island,70,TEAM_2,7,11,TEAM_1,True
+1999,First Round,8,Villanova,70,9,Mississippi,72,TEAM_2,1,-2,TEAM_2,False
+1999,First Round,7,Texas,54,10,Purdue,58,TEAM_2,3,-4,TEAM_2,False
+1999,First Round,1,Michigan State,76,16,Mount St. Mary's,53,TEAM_2,15,23,TEAM_1,True
+1999,First Round,6,Temple,61,11,Kent State,54,TEAM_2,5,7,TEAM_1,True
+1999,First Round,4,Tennessee,62,13,Delaware,52,TEAM_2,9,10,TEAM_1,True
+1999,First Round,5,Wisconsin,32,12,Missouri State,43,TEAM_2,7,-11,TEAM_2,False
+1999,First Round,8,College of Charleston,53,9,Tulsa,62,TEAM_2,1,-9,TEAM_2,False
+1999,First Round,1,Duke,99,16,Florida A&M,58,TEAM_2,15,41,TEAM_1,True
+1999,First Round,2,Miami (Fla.),75,15,Lafayette,54,TEAM_2,13,21,TEAM_1,True
+1999,First Round,5,UCLA,53,12,Detroit,56,TEAM_2,7,-3,TEAM_2,False
+1999,First Round,5,Iowa,77,12,Alabama-Birmingham,64,TEAM_2,7,13,TEAM_1,True
+1999,First Round,8,Missouri,59,9,New Mexico,61,TEAM_2,1,-2,TEAM_2,False
+1999,First Round,1,Connecticut,91,16,Texas-San Antonio,66,TEAM_2,15,25,TEAM_1,True
+1999,First Round,2,Maryland,82,15,Valparaiso,60,TEAM_2,13,22,TEAM_1,True
+1999,First Round,7,Louisville,58,10,Creighton,62,TEAM_2,3,-4,TEAM_2,False
+1999,First Round,3,St. John's,69,14,Samford,43,TEAM_2,11,26,TEAM_1,True
+1999,First Round,4,Arkansas,94,13,Siena,80,TEAM_2,9,14,TEAM_1,True
+1999,First Round,1,Auburn,80,16,Winthrop,41,TEAM_2,15,39,TEAM_1,True
+1999,First Round,8,Syracuse,61,9,Oklahoma State,69,TEAM_2,1,-8,TEAM_2,False
+1999,First Round,7,Minnesota,63,10,Gonzaga,75,TEAM_2,3,-12,TEAM_2,False
+1999,First Round,6,Indiana,108,11,George Washington,88,TEAM_2,5,20,TEAM_1,True
+1999,First Round,4,Ohio State,72,13,Murray St.,58,TEAM_2,9,14,TEAM_1,True
+1999,First Round,6,Florida,75,11,Penn,61,TEAM_2,5,14,TEAM_1,True
+1999,First Round,3,North Carolina,74,14,Weber State,76,TEAM_2,11,-2,TEAM_2,False
+1999,First Round,2,Stanford,69,15,Alcorn State,57,TEAM_2,13,12,TEAM_1,True
+1998,National Championship,3,Utah,69,2,Kentucky,78,TEAM_1,-1,-9,TEAM_2,True
+1998,Final Four,3,Stanford,85,2,Kentucky,86,TEAM_1,-1,-1,TEAM_2,True
+1998,Final Four,1,North Carolina,59,3,Utah,65,TEAM_2,2,-6,TEAM_2,False
+1998,Elite Eight,1,Duke,84,2,Kentucky,86,TEAM_2,1,-2,TEAM_2,False
+1998,Elite Eight,8,Rhode Island,77,3,Stanford,79,TEAM_1,-5,-2,TEAM_2,True
+1998,Elite Eight,1,Arizona,51,3,Utah,76,TEAM_2,2,-25,TEAM_2,False
+1998,Elite Eight,1,North Carolina,75,2,Connecticut,64,TEAM_2,1,11,TEAM_1,True
+1998,Sweet 16,3,Stanford,67,2,Purdue,59,TEAM_1,-1,8,TEAM_1,False
+1998,Sweet 16,1,Duke,80,5,Syracuse,67,TEAM_2,4,13,TEAM_1,True
+1998,Sweet 16,8,Rhode Island,74,13,Valparaiso,68,TEAM_2,5,6,TEAM_1,True
+1998,Sweet 16,6,UCLA,68,2,Kentucky,94,TEAM_1,-4,-26,TEAM_2,True
+1998,Sweet 16,1,North Carolina,73,4,Michigan State,58,TEAM_2,3,15,TEAM_1,True
+1998,Sweet 16,11,Washington,74,2,Connecticut,75,TEAM_1,-9,-1,TEAM_2,True
+1998,Sweet 16,1,Arizona,87,4,Maryland,79,TEAM_2,3,8,TEAM_1,True
+1998,Sweet 16,3,Utah,65,10,West Virginia,62,TEAM_2,7,3,TEAM_1,True
+1998,Second Round,12,Florida State,77,13,Valparaiso,83,TEAM_2,1,-6,TEAM_2,False
+1998,Second Round,5,Syracuse,56,4,New Mexico,46,TEAM_1,-1,10,TEAM_1,False
+1998,Second Round,1,Duke,79,8,Oklahoma State,73,TEAM_2,7,6,TEAM_1,True
+1998,Second Round,10,Detroit,65,2,Purdue,80,TEAM_1,-8,-15,TEAM_2,True
+1998,Second Round,1,Kansas,75,8,Rhode Island,80,TEAM_2,7,-5,TEAM_2,False
+1998,Second Round,11,Western Michigan,65,3,Stanford,83,TEAM_1,-8,-18,TEAM_2,True
+1998,Second Round,10,St. Louis,61,2,Kentucky,88,TEAM_1,-8,-27,TEAM_2,True
+1998,Second Round,6,UCLA,85,3,Michigan,82,TEAM_1,-3,3,TEAM_1,False
+1998,Second Round,6,Arkansas,69,3,Utah,75,TEAM_1,-3,-6,TEAM_2,True
+1998,Second Round,10,West Virginia,75,2,Cincinnati,74,TEAM_1,-8,1,TEAM_1,False
+1998,Second Round,1,North Carolina,93,8,Charlotte,83,TEAM_2,7,10,TEAM_1,True
+1998,Second Round,7,Indiana,61,2,Connecticut,78,TEAM_1,-5,-17,TEAM_2,True
+1998,Second Round,5,Princeton,51,4,Michigan State,63,TEAM_1,-1,-12,TEAM_2,True
+1998,Second Round,11,Washington,81,14,Richmond,66,TEAM_2,3,15,TEAM_1,True
+1998,Second Round,1,Arizona,82,9,Illinois State,49,TEAM_2,8,33,TEAM_1,True
+1998,Second Round,5,Illinois,61,4,Maryland,67,TEAM_1,-1,-6,TEAM_2,True
+1998,First Round,1,Duke,99,16,Radford,63,TEAM_2,15,36,TEAM_1,True
+1998,First Round,7,St. John's,64,10,Detroit,66,TEAM_2,3,-2,TEAM_2,False
+1998,First Round,1,Kansas,110,16,Prairie View,52,TEAM_2,15,58,TEAM_1,True
+1998,First Round,8,Rhode Island,97,9,Murray St.,74,TEAM_2,1,23,TEAM_1,True
+1998,First Round,5,TCU,87,12,Florida State,96,TEAM_2,7,-9,TEAM_2,False
+1998,First Round,4,Mississippi,69,13,Valparaiso,70,TEAM_2,9,-1,TEAM_2,False
+1998,First Round,6,Clemson,72,11,Western Michigan,75,TEAM_2,5,-3,TEAM_2,False
+1998,First Round,3,Stanford,67,14,College of Charleston,57,TEAM_2,11,10,TEAM_1,True
+1998,First Round,2,Purdue,95,15,Delaware,56,TEAM_2,13,39,TEAM_1,True
+1998,First Round,8,Oklahoma State,74,9,George Washington,59,TEAM_2,1,15,TEAM_1,True
+1998,First Round,5,Syracuse,63,12,Iona,61,TEAM_2,7,2,TEAM_1,True
+1998,First Round,4,New Mexico,79,13,Butler,62,TEAM_2,9,17,TEAM_1,True
+1998,First Round,6,UCLA,65,11,Miami (Fla.),62,TEAM_2,5,3,TEAM_1,True
+1998,First Round,3,Michigan,80,14,Davidson,61,TEAM_2,11,19,TEAM_1,True
+1998,First Round,7,Massachusetts,46,10,St. Louis,51,TEAM_2,3,-5,TEAM_2,False
+1998,First Round,2,Kentucky,82,15,South Carolina State,67,TEAM_2,13,15,TEAM_1,True
+1998,First Round,6,Xavier,68,11,Washington,69,TEAM_2,5,-1,TEAM_2,False
+1998,First Round,2,Cincinnati,65,15,Northern Arizona,62,TEAM_2,13,3,TEAM_1,True
+1998,First Round,7,Temple,52,10,West Virginia,82,TEAM_2,3,-30,TEAM_2,False
+1998,First Round,3,Utah,85,14,San Francisco,68,TEAM_2,11,17,TEAM_1,True
+1998,First Round,1,North Carolina,88,16,Navy,52,TEAM_2,15,36,TEAM_1,True
+1998,First Round,8,Charlotte,77,9,Illinois-Chicago,62,TEAM_2,1,15,TEAM_1,True
+1998,First Round,5,Princeton,69,12,UNLV,57,TEAM_2,7,12,TEAM_1,True
+1998,First Round,3,South Carolina,61,14,Richmond,62,TEAM_2,11,-1,TEAM_2,False
+1998,First Round,7,Indiana,94,10,Oklahoma,87,TEAM_2,3,7,TEAM_1,True
+1998,First Round,2,Connecticut,93,15,Fairleigh Dickinson,85,TEAM_2,13,8,TEAM_1,True
+1998,First Round,1,Arizona,99,16,Nicholls State,60,TEAM_2,15,39,TEAM_1,True
+1998,First Round,8,Tennessee,81,9,Illinois State,82,TEAM_2,1,-1,TEAM_2,False
+1998,First Round,5,Illinois,64,12,South Alabama,51,TEAM_2,7,13,TEAM_1,True
+1998,First Round,4,Michigan State,83,13,Eastern Michigan,71,TEAM_2,9,12,TEAM_1,True
+1998,First Round,4,Maryland,82,13,Utah State,68,TEAM_2,9,14,TEAM_1,True
+1998,First Round,6,Arkansas,74,11,Nebraska,65,TEAM_2,5,9,TEAM_1,True
+1997,National Championship,1,Kentucky,79,4,Arizona,84,TEAM_2,3,-5,TEAM_2,False
+1997,Final Four,1,Kentucky,78,1,Minnesota,69,EQUAL,0,9,TEAM_1,True
+1997,Final Four,1,North Carolina,58,4,Arizona,66,TEAM_2,3,-8,TEAM_2,False
+1997,Elite Eight,4,Arizona,96,10,Providence,92,TEAM_2,6,4,TEAM_1,True
+1997,Elite Eight,1,North Carolina,97,6,Louisville,74,TEAM_2,5,23,TEAM_1,True
+1997,Elite Eight,1,Kentucky,72,2,Utah,59,TEAM_2,1,13,TEAM_1,True
+1997,Elite Eight,1,Minnesota,80,2,UCLA,72,TEAM_2,1,8,TEAM_1,True
+1997,Sweet 16,14,Chattanooga,65,10,Providence,71,TEAM_1,-4,-6,TEAM_2,True
+1997,Sweet 16,1,North Carolina,63,5,California,57,TEAM_2,4,6,TEAM_1,True
+1997,Sweet 16,6,Louisville,78,10,Texas,63,TEAM_2,4,15,TEAM_1,True
+1997,Sweet 16,1,Kansas,82,4,Arizona,85,TEAM_2,3,-3,TEAM_2,False
+1997,Sweet 16,1,Minnesota,90,4,Clemson,84,TEAM_2,3,6,TEAM_1,True
+1997,Sweet 16,1,Kentucky,83,4,St. Joseph's,68,TEAM_2,3,15,TEAM_1,True
+1997,Sweet 16,6,Iowa State,73,2,UCLA,74,TEAM_1,-4,-1,TEAM_2,True
+1997,Sweet 16,6,Stanford,77,2,Utah,82,TEAM_1,-4,-5,TEAM_2,True
+1997,Second Round,10,Providence,98,2,Duke,87,TEAM_1,-8,11,TEAM_1,False
+1997,Second Round,6,Stanford,72,3,Wake Forest,66,TEAM_1,-3,6,TEAM_1,False
+1997,Second Round,7,Charlotte,58,2,Utah,77,TEAM_1,-5,-19,TEAM_2,True
+1997,Second Round,1,Minnesota,76,9,Temple,57,TEAM_2,8,19,TEAM_1,True
+1997,Second Round,5,Tulsa,59,4,Clemson,65,TEAM_1,-1,-6,TEAM_2,True
+1997,Second Round,6,Louisville,64,3,New Mexico,63,TEAM_1,-3,1,TEAM_1,False
+1997,Second Round,10,Texas,82,15,Coppin State,81,TEAM_2,5,1,TEAM_1,True
+1997,Second Round,6,Illinois,63,14,Chattanooga,75,TEAM_2,8,-12,TEAM_2,False
+1997,Second Round,5,California,75,4,Villanova,68,TEAM_1,-1,7,TEAM_1,False
+1997,Second Round,6,Iowa State,67,3,Cincinnati,66,TEAM_1,-3,1,TEAM_1,False
+1997,Second Round,7,Xavier,83,2,UCLA,96,TEAM_1,-5,-13,TEAM_2,True
+1997,Second Round,1,Kentucky,75,8,Iowa,69,TEAM_2,7,6,TEAM_1,True
+1997,Second Round,5,Boston College,77,4,St. Joseph's,81,TEAM_1,-1,-4,TEAM_2,True
+1997,Second Round,1,Kansas,75,8,Purdue,61,TEAM_2,7,14,TEAM_1,True
+1997,Second Round,12,College of Charleston,69,4,Arizona,73,TEAM_1,-8,-4,TEAM_2,True
+1997,Second Round,1,North Carolina,73,9,Colorado,56,TEAM_2,8,17,TEAM_1,True
+1997,First Round,3,New Mexico,59,14,Old Dominion,55,TEAM_2,11,4,TEAM_1,True
+1997,First Round,6,Louisville,65,11,Massachusetts,57,TEAM_2,5,8,TEAM_1,True
+1997,First Round,7,Charlotte,79,10,Georgetown,67,TEAM_2,3,12,TEAM_1,True
+1997,First Round,7,Marquette,59,10,Providence,81,TEAM_2,3,-22,TEAM_2,False
+1997,First Round,2,Duke,71,15,Murray St.,68,TEAM_2,13,3,TEAM_1,True
+1997,First Round,3,Georgia,70,14,Chattanooga,73,TEAM_2,11,-3,TEAM_2,False
+1997,First Round,3,Wake Forest,68,14,St. Mary's (Cal.),46,TEAM_2,11,22,TEAM_1,True
+1997,First Round,1,Minnesota,78,16,Texas State,46,TEAM_2,15,32,TEAM_1,True
+1997,First Round,6,Stanford,80,11,Oklahoma,67,TEAM_2,5,13,TEAM_1,True
+1997,First Round,8,Mississippi,40,9,Temple,62,TEAM_2,1,-22,TEAM_2,False
+1997,First Round,6,Illinois,90,11,Southern California,77,TEAM_2,5,13,TEAM_1,True
+1997,First Round,5,Tulsa,81,12,Boston University,52,TEAM_2,7,29,TEAM_1,True
+1997,First Round,7,Wisconsin,58,10,Texas,71,TEAM_2,3,-13,TEAM_2,False
+1997,First Round,2,Utah,75,15,Navy,61,TEAM_2,13,14,TEAM_1,True
+1997,First Round,4,Clemson,68,13,Miami (Ohio),56,TEAM_2,9,12,TEAM_1,True
+1997,First Round,2,South Carolina,65,15,Coppin State,78,TEAM_2,13,-13,TEAM_2,False
+1997,First Round,7,Xavier,80,10,Vanderbilt,68,TEAM_2,3,12,TEAM_1,True
+1997,First Round,4,Villanova,101,13,Long Island,91,TEAM_2,9,10,TEAM_1,True
+1997,First Round,4,St. Joseph's,75,13,Pacific,65,TEAM_2,9,10,TEAM_1,True
+1997,First Round,5,Boston College,73,12,Valparaiso,66,TEAM_2,7,7,TEAM_1,True
+1997,First Round,8,Iowa,73,9,Virginia,60,TEAM_2,1,13,TEAM_1,True
+1997,First Round,1,Kentucky,92,16,Montana,54,TEAM_2,15,38,TEAM_1,True
+1997,First Round,4,Arizona,65,13,South Alabama,57,TEAM_2,9,8,TEAM_1,True
+1997,First Round,5,Maryland,66,12,College of Charleston,75,TEAM_2,7,-9,TEAM_2,False
+1997,First Round,8,Purdue,83,9,Rhode Island,76,TEAM_2,1,7,TEAM_1,True
+1997,First Round,1,Kansas,78,16,Jackson State,64,TEAM_2,15,14,TEAM_1,True
+1997,First Round,1,North Carolina,82,16,Fairfield,74,TEAM_2,15,8,TEAM_1,True
+1997,First Round,2,UCLA,109,15,Charleston Southern,75,TEAM_2,13,34,TEAM_1,True
+1997,First Round,3,Cincinnati,86,14,Butler,69,TEAM_2,11,17,TEAM_1,True
+1997,First Round,6,Iowa State,69,11,Illinois State,57,TEAM_2,5,12,TEAM_1,True
+1997,First Round,5,California,55,12,Princeton,52,TEAM_2,7,3,TEAM_1,True
+1997,First Round,8,Indiana,62,9,Colorado,80,TEAM_2,1,-18,TEAM_2,False
+1996,National Championship,4,Syracuse,67,1,Kentucky,76,TEAM_1,-3,-9,TEAM_2,True
+1996,Final Four,1,Massachusetts,74,1,Kentucky,81,EQUAL,0,-7,TEAM_2,True
+1996,Final Four,5,Mississippi State,69,4,Syracuse,77,TEAM_1,-1,-8,TEAM_2,True
+1996,Elite Eight,4,Syracuse,60,2,Kansas,57,TEAM_1,-2,3,TEAM_1,False
+1996,Elite Eight,5,Mississippi State,73,2,Cincinnati,63,TEAM_1,-3,10,TEAM_1,False
+1996,Elite Eight,1,Kentucky,83,2,Wake Forest,63,TEAM_2,1,20,TEAM_1,True
+1996,Elite Eight,1,Massachusetts,86,2,Georgetown,62,TEAM_2,1,24,TEAM_1,True
+1996,Sweet 16,1,Connecticut,55,5,Mississippi State,60,TEAM_2,4,-5,TEAM_2,False
+1996,Sweet 16,3,Arizona,80,2,Kansas,83,TEAM_1,-1,-3,TEAM_2,True
+1996,Sweet 16,8,Georgia,81,4,Syracuse,83,TEAM_1,-4,-2,TEAM_2,True
+1996,Sweet 16,3,Georgia Tech,70,2,Cincinnati,87,TEAM_1,-1,-17,TEAM_2,True
+1996,Sweet 16,1,Kentucky,101,4,Utah,70,TEAM_2,3,31,TEAM_1,True
+1996,Sweet 16,6,Louisville,59,2,Wake Forest,60,TEAM_1,-4,-1,TEAM_2,True
+1996,Sweet 16,1,Massachusetts,79,12,Arkansas,63,TEAM_2,11,16,TEAM_1,True
+1996,Sweet 16,3,Texas Tech,90,2,Georgetown,98,TEAM_1,-1,-8,TEAM_2,True
+1996,Second Round,7,Temple,65,2,Cincinnati,78,TEAM_1,-5,-13,TEAM_2,True
+1996,Second Round,10,Santa Clara,51,2,Kansas,76,TEAM_1,-8,-25,TEAM_2,True
+1996,Second Round,6,Iowa,73,3,Arizona,87,TEAM_1,-3,-14,TEAM_2,True
+1996,Second Round,10,Texas,62,2,Wake Forest,65,TEAM_1,-8,-3,TEAM_2,True
+1996,Second Round,11,Boston College,89,3,Georgia Tech,103,TEAM_1,-8,-14,TEAM_2,True
+1996,Second Round,6,Louisville,68,3,Villanova,64,TEAM_1,-3,4,TEAM_1,False
+1996,Second Round,7,New Mexico,62,2,Georgetown,73,TEAM_1,-5,-11,TEAM_2,True
+1996,Second Round,6,North Carolina,73,3,Texas Tech,92,TEAM_1,-3,-19,TEAM_2,True
+1996,Second Round,1,Purdue,69,8,Georgia,76,TEAM_2,7,-7,TEAM_2,False
+1996,Second Round,5,Iowa State,67,4,Utah,73,TEAM_1,-1,-6,TEAM_2,True
+1996,Second Round,1,Kentucky,84,9,Virginia Tech,60,TEAM_2,8,24,TEAM_1,True
+1996,Second Round,12,Drexel,58,4,Syracuse,69,TEAM_1,-8,-11,TEAM_2,True
+1996,Second Round,1,Massachusetts,79,9,Stanford,74,TEAM_2,8,5,TEAM_1,True
+1996,Second Round,12,Arkansas,65,4,Marquette,56,TEAM_1,-8,9,TEAM_1,False
+1996,Second Round,5,Mississippi State,63,13,Princeton,41,TEAM_2,8,22,TEAM_1,True
+1996,Second Round,1,Connecticut,95,9,Eastern Michigan,81,TEAM_2,8,14,TEAM_1,True
+1996,First Round,7,Michigan,76,10,Texas,80,TEAM_2,3,-4,TEAM_2,False
+1996,First Round,6,Indiana,51,11,Boston College,64,TEAM_2,5,-13,TEAM_2,False
+1996,First Round,3,Georgia Tech,90,14,Austin Peay,79,TEAM_2,11,11,TEAM_1,True
+1996,First Round,7,Temple,61,10,Oklahoma,43,TEAM_2,3,18,TEAM_1,True
+1996,First Round,2,Cincinnati,66,15,UNC Greensboro,61,TEAM_2,13,5,TEAM_1,True
+1996,First Round,6,Iowa,81,11,George Washington,79,TEAM_2,5,2,TEAM_1,True
+1996,First Round,3,Arizona,90,14,Valparaiso,51,TEAM_2,11,39,TEAM_1,True
+1996,First Round,7,Maryland,79,10,Santa Clara,91,TEAM_2,3,-12,TEAM_2,False
+1996,First Round,2,Kansas,92,15,South Carolina State,54,TEAM_2,13,38,TEAM_1,True
+1996,First Round,2,Georgetown,93,15,Mississippi Valley State,56,TEAM_2,13,37,TEAM_1,True
+1996,First Round,6,North Carolina,83,11,New Orleans,62,TEAM_2,5,21,TEAM_1,True
+1996,First Round,3,Texas Tech,74,14,Northern Illinois,73,TEAM_2,11,1,TEAM_1,True
+1996,First Round,7,New Mexico,69,10,Kansas State,48,TEAM_2,3,21,TEAM_1,True
+1996,First Round,2,Wake Forest,62,15,Louisiana-Monroe,50,TEAM_2,13,12,TEAM_1,True
+1996,First Round,6,Louisville,82,11,Tulsa,80,TEAM_2,5,2,TEAM_1,True
+1996,First Round,3,Villanova,92,14,Portland,58,TEAM_2,11,34,TEAM_1,True
+1996,First Round,8,Duke,51,9,Eastern Michigan,58,TEAM_2,1,-7,TEAM_2,False
+1996,First Round,4,Syracuse,88,13,Montana State,55,TEAM_2,9,33,TEAM_1,True
+1996,First Round,5,Memphis,63,12,Drexel,75,TEAM_2,7,-12,TEAM_2,False
+1996,First Round,8,Georgia,81,9,Clemson,74,TEAM_2,1,7,TEAM_1,True
+1996,First Round,1,Purdue,73,16,Western Carolina,71,TEAM_2,15,2,TEAM_1,True
+1996,First Round,4,UCLA,41,13,Princeton,43,TEAM_2,9,-2,TEAM_2,False
+1996,First Round,5,Mississippi State,58,12,Virginia Commonwealth,51,TEAM_2,7,7,TEAM_1,True
+1996,First Round,1,Connecticut,68,16,Colgate,59,TEAM_2,15,9,TEAM_1,True
+1996,First Round,1,Kentucky,110,16,San Jose State,72,TEAM_2,15,38,TEAM_1,True
+1996,First Round,4,Marquette,68,13,Monmouth,44,TEAM_2,9,24,TEAM_1,True
+1996,First Round,8,Green Bay,48,9,Virginia Tech,61,TEAM_2,1,-13,TEAM_2,False
+1996,First Round,5,Iowa State,74,12,California,64,TEAM_2,7,10,TEAM_1,True
+1996,First Round,5,Penn State,80,12,Arkansas,86,TEAM_2,7,-6,TEAM_2,False
+1996,First Round,8,Bradley,58,9,Stanford,66,TEAM_2,1,-8,TEAM_2,False
+1996,First Round,4,Utah,72,13,Canisius,43,TEAM_2,9,29,TEAM_1,True
+1996,First Round,1,Massachusetts,92,16,Central Florida,70,TEAM_2,15,22,TEAM_1,True
+1995,National Championship,2,Arkansas,78,1,UCLA,89,TEAM_1,-1,-11,TEAM_2,True
+1995,Final Four,4,Oklahoma State,61,1,UCLA,74,TEAM_1,-3,-13,TEAM_2,True
+1995,Final Four,2,Arkansas,75,2,North Carolina,68,EQUAL,0,7,TEAM_1,True
+1995,Elite Eight,4,Oklahoma State,68,2,Massachusetts,54,TEAM_1,-2,14,TEAM_1,False
+1995,Elite Eight,4,Virginia,61,2,Arkansas,68,TEAM_1,-2,-7,TEAM_2,True
+1995,Elite Eight,1,Kentucky,61,2,North Carolina,74,TEAM_2,1,-13,TEAM_2,False
+1995,Elite Eight,1,UCLA,102,2,Connecticut,96,TEAM_2,1,6,TEAM_1,True
+1995,Sweet 16,1,Kansas,58,4,Virginia,67,TEAM_2,3,-9,TEAM_2,False
+1995,Sweet 16,1,Wake Forest,66,4,Oklahoma State,71,TEAM_2,3,-5,TEAM_2,False
+1995,Sweet 16,6,Memphis,91,2,Arkansas,96,TEAM_1,-4,-5,TEAM_2,True
+1995,Sweet 16,6,Tulsa,51,2,Massachusetts,76,TEAM_1,-4,-25,TEAM_2,True
+1995,Sweet 16,3,Maryland,89,2,Connecticut,99,TEAM_1,-1,-10,TEAM_2,True
+1995,Sweet 16,6,Georgetown,64,2,North Carolina,74,TEAM_1,-4,-10,TEAM_2,True
+1995,Sweet 16,1,UCLA,86,5,Mississippi State,67,TEAM_2,4,19,TEAM_1,True
+1995,Sweet 16,1,Kentucky,97,5,Arizona State,73,TEAM_2,4,24,TEAM_1,True
+1995,Second Round,1,UCLA,75,8,Missouri,74,TEAM_2,7,1,TEAM_1,True
+1995,Second Round,6,Georgetown,53,14,Weber State,51,TEAM_2,8,2,TEAM_1,True
+1995,Second Round,6,Memphis,75,3,Purdue,73,TEAM_1,-3,2,TEAM_1,False
+1995,Second Round,10,Stanford,53,2,Massachusetts,75,TEAM_1,-8,-22,TEAM_2,True
+1995,Second Round,7,Syracuse,94,2,Arkansas,96,TEAM_1,-5,-2,TEAM_2,True
+1995,Second Round,5,Mississippi State,78,4,Utah,64,TEAM_1,-1,14,TEAM_1,False
+1995,Second Round,6,Tulsa,64,14,Old Dominion,52,TEAM_2,8,12,TEAM_1,True
+1995,Second Round,7,Iowa State,51,2,North Carolina,73,TEAM_1,-5,-22,TEAM_2,True
+1995,Second Round,5,Alabama,52,4,Oklahoma State,66,TEAM_1,-1,-14,TEAM_2,True
+1995,Second Round,1,Kentucky,82,9,Tulane,60,TEAM_2,8,22,TEAM_1,True
+1995,Second Round,1,Kansas,75,8,Western Kentucky,70,TEAM_2,7,5,TEAM_1,True
+1995,Second Round,12,Miami (Ohio),54,4,Virginia,60,TEAM_1,-8,-6,TEAM_2,True
+1995,Second Round,1,Wake Forest,64,9,St. Louis,59,TEAM_2,8,5,TEAM_1,True
+1995,Second Round,5,Arizona State,64,13,Manhattan,54,TEAM_2,8,10,TEAM_1,True
+1995,Second Round,7,Cincinnati,91,2,Connecticut,96,TEAM_1,-5,-5,TEAM_2,True
+1995,Second Round,11,Texas,68,3,Maryland,82,TEAM_1,-8,-14,TEAM_2,True
+1995,First Round,3,Michigan State,72,14,Weber State,79,TEAM_2,11,-7,TEAM_2,False
+1995,First Round,6,Georgetown,68,11,Xavier,63,TEAM_2,5,5,TEAM_1,True
+1995,First Round,2,Arkansas,79,15,Texas Southern,78,TEAM_2,13,1,TEAM_1,True
+1995,First Round,7,Syracuse,96,10,Southern Illinois,92,TEAM_2,3,4,TEAM_1,True
+1995,First Round,3,Purdue,49,14,Green Bay,48,TEAM_2,11,1,TEAM_1,True
+1995,First Round,6,Memphis,77,11,Louisville,56,TEAM_2,5,21,TEAM_1,True
+1995,First Round,4,Utah,76,13,Long Beach State,64,TEAM_2,9,12,TEAM_1,True
+1995,First Round,5,Mississippi State,65,12,Santa Clara,60,TEAM_2,7,5,TEAM_1,True
+1995,First Round,8,Missouri,65,9,Indiana,60,TEAM_2,1,5,TEAM_1,True
+1995,First Round,1,UCLA,92,16,Florida International,56,TEAM_2,15,36,TEAM_1,True
+1995,First Round,2,Massachusetts,68,15,St. Peter's,51,TEAM_2,13,17,TEAM_1,True
+1995,First Round,7,Charlotte,68,10,Stanford,70,TEAM_2,3,-2,TEAM_2,False
+1995,First Round,3,Villanova,81,14,Old Dominion,89,TEAM_2,11,-8,TEAM_2,False
+1995,First Round,6,Tulsa,68,11,Illinois,62,TEAM_2,5,6,TEAM_1,True
+1995,First Round,2,North Carolina,80,15,Murray St.,70,TEAM_2,13,10,TEAM_1,True
+1995,First Round,7,Iowa State,64,10,Florida,61,TEAM_2,3,3,TEAM_1,True
+1995,First Round,5,Alabama,91,12,Penn,85,TEAM_2,7,6,TEAM_1,True
+1995,First Round,8,Minnesota,61,9,St. Louis,64,TEAM_2,1,-3,TEAM_2,False
+1995,First Round,5,Arizona,62,12,Miami (Ohio),71,TEAM_2,7,-9,TEAM_2,False
+1995,First Round,4,Virginia,96,13,Nicholls State,72,TEAM_2,9,24,TEAM_1,True
+1995,First Round,4,Oklahoma,67,13,Manhattan,77,TEAM_2,9,-10,TEAM_2,False
+1995,First Round,5,Arizona State,81,12,Ball State,66,TEAM_2,7,15,TEAM_1,True
+1995,First Round,8,Brigham Young,70,9,Tulane,76,TEAM_2,1,-6,TEAM_2,False
+1995,First Round,1,Kentucky,113,16,Mount St. Mary's,67,TEAM_2,15,46,TEAM_1,True
+1995,First Round,1,Wake Forest,79,16,North Carolina A&T,47,TEAM_2,15,32,TEAM_1,True
+1995,First Round,4,Oklahoma State,73,13,Drexel,49,TEAM_2,9,24,TEAM_1,True
+1995,First Round,6,Oregon,73,11,Texas,90,TEAM_2,5,-17,TEAM_2,False
+1995,First Round,1,Kansas,82,16,Colgate,68,TEAM_2,15,14,TEAM_1,True
+1995,First Round,8,Western Kentucky,82,9,Michigan,76,TEAM_2,1,6,TEAM_1,True
+1995,First Round,3,Maryland,87,14,Gonzaga,63,TEAM_2,11,24,TEAM_1,True
+1995,First Round,7,Cincinnati,77,10,Temple,71,TEAM_2,3,6,TEAM_1,True
+1995,First Round,2,Connecticut,100,15,Chattanooga,71,TEAM_2,13,29,TEAM_1,True
+1994,National Championship,1,Arkansas,76,2,Duke,72,TEAM_2,1,4,TEAM_1,True
+1994,Final Four,2,Arizona,82,1,Arkansas,91,TEAM_1,-1,-9,TEAM_2,True
+1994,Final Four,3,Florida,65,2,Duke,70,TEAM_1,-1,-5,TEAM_2,True
+1994,Elite Eight,1,Arkansas,76,3,Michigan,68,TEAM_2,2,8,TEAM_1,True
+1994,Elite Eight,9,Boston College,66,3,Florida,74,TEAM_1,-6,-8,TEAM_2,True
+1994,Elite Eight,1,Missouri,72,2,Arizona,92,TEAM_2,1,-20,TEAM_2,False
+1994,Elite Eight,1,Purdue,60,2,Duke,69,TEAM_2,1,-9,TEAM_2,False
+1994,Sweet 16,9,Boston College,77,5,Indiana,68,TEAM_1,-4,9,TEAM_1,False
+1994,Sweet 16,3,Florida,69,2,Connecticut,60,TEAM_1,-1,9,TEAM_1,False
+1994,Sweet 16,1,Arkansas,103,12,Tulsa,84,TEAM_2,11,19,TEAM_1,True
+1994,Sweet 16,3,Michigan,78,10,Maryland,71,TEAM_2,7,7,TEAM_1,True
+1994,Sweet 16,1,Purdue,83,4,Kansas,78,TEAM_2,3,5,TEAM_1,True
+1994,Sweet 16,3,Louisville,70,2,Arizona,82,TEAM_1,-1,-12,TEAM_2,True
+1994,Sweet 16,1,Missouri,98,4,Syracuse,88,TEAM_2,3,10,TEAM_1,True
+1994,Sweet 16,6,Marquette,49,2,Duke,59,TEAM_1,-4,-10,TEAM_2,True
+1994,Second Round,12,Tulsa,82,4,Oklahoma State,80,TEAM_1,-8,2,TEAM_1,False
+1994,Second Round,7,Michigan State,74,2,Duke,85,TEAM_1,-5,-11,TEAM_2,True
+1994,Second Round,6,Minnesota,55,3,Louisville,60,TEAM_1,-3,-5,TEAM_2,True
+1994,Second Round,5,Indiana,67,4,Temple,58,TEAM_1,-1,9,TEAM_1,False
+1994,Second Round,1,North Carolina,72,9,Boston College,75,TEAM_2,8,-3,TEAM_2,False
+1994,Second Round,1,Arkansas,85,9,Georgetown,73,TEAM_2,8,12,TEAM_1,True
+1994,Second Round,7,Virginia,58,2,Arizona,71,TEAM_1,-5,-13,TEAM_2,True
+1994,Second Round,6,Marquette,75,3,Kentucky,63,TEAM_1,-3,12,TEAM_1,False
+1994,Second Round,6,Texas,79,3,Michigan,84,TEAM_1,-3,-5,TEAM_2,True
+1994,Second Round,12,Green Bay,59,4,Syracuse,64,TEAM_1,-8,-5,TEAM_2,True
+1994,Second Round,10,Maryland,95,2,Massachusetts,87,TEAM_1,-8,8,TEAM_1,False
+1994,Second Round,1,Missouri,109,9,Wisconsin,96,TEAM_2,8,13,TEAM_1,True
+1994,Second Round,11,Penn,58,3,Florida,70,TEAM_1,-8,-12,TEAM_2,True
+1994,Second Round,10,George Washington,63,2,Connecticut,75,TEAM_1,-8,-12,TEAM_2,True
+1994,Second Round,1,Purdue,83,9,Alabama,73,TEAM_2,8,10,TEAM_1,True
+1994,Second Round,5,Wake Forest,58,4,Kansas,69,TEAM_1,-1,-11,TEAM_2,True
+1994,First Round,4,Temple,61,13,Drexel,39,TEAM_2,9,22,TEAM_1,True
+1994,First Round,7,Virginia,57,10,New Mexico,54,TEAM_2,3,3,TEAM_1,True
+1994,First Round,4,Oklahoma State,65,13,New Mexico State,55,TEAM_2,9,10,TEAM_1,True
+1994,First Round,2,Arizona,81,15,Loyola (Md.),55,TEAM_2,13,26,TEAM_1,True
+1994,First Round,1,Arkansas,94,16,North Carolina A&T,79,TEAM_2,15,15,TEAM_1,True
+1994,First Round,8,Illinois,77,9,Georgetown,84,TEAM_2,1,-7,TEAM_2,False
+1994,First Round,5,UCLA,102,12,Tulsa,112,TEAM_2,7,-10,TEAM_2,False
+1994,First Round,6,Minnesota,74,11,Southern Illinois,60,TEAM_2,5,14,TEAM_1,True
+1994,First Round,1,North Carolina,71,16,Liberty,51,TEAM_2,15,20,TEAM_1,True
+1994,First Round,8,Washington State,64,9,Boston College,67,TEAM_2,1,-3,TEAM_2,False
+1994,First Round,5,Indiana,84,12,Ohio,72,TEAM_2,7,12,TEAM_1,True
+1994,First Round,6,Marquette,81,11,Louisiana-Lafayette,59,TEAM_2,5,22,TEAM_1,True
+1994,First Round,3,Kentucky,83,14,Tennessee State,70,TEAM_2,11,13,TEAM_1,True
+1994,First Round,7,Michigan State,84,10,Seton Hall,73,TEAM_2,3,11,TEAM_1,True
+1994,First Round,2,Duke,82,15,Texas Southern,70,TEAM_2,13,12,TEAM_1,True
+1994,First Round,3,Louisville,67,14,Boise State,58,TEAM_2,11,9,TEAM_1,True
+1994,First Round,8,Providence,70,9,Alabama,76,TEAM_2,1,-6,TEAM_2,False
+1994,First Round,1,Missouri,76,16,Navy,53,TEAM_2,15,23,TEAM_1,True
+1994,First Round,6,Texas,91,11,Western Kentucky,77,TEAM_2,5,14,TEAM_1,True
+1994,First Round,4,Kansas,102,13,Chattanooga,73,TEAM_2,9,29,TEAM_1,True
+1994,First Round,5,California,57,12,Green Bay,61,TEAM_2,7,-4,TEAM_2,False
+1994,First Round,3,Michigan,78,14,Pepperdine,74,TEAM_2,11,4,TEAM_1,True
+1994,First Round,7,St. Louis,66,10,Maryland,74,TEAM_2,3,-8,TEAM_2,False
+1994,First Round,2,Massachusetts,78,15,Texas State,60,TEAM_2,13,18,TEAM_1,True
+1994,First Round,4,Syracuse,57,13,Hawaii,61,TEAM_2,9,-4,TEAM_2,False
+1994,First Round,6,Nebraska,80,11,Penn,90,TEAM_2,5,-10,TEAM_2,False
+1994,First Round,3,Florida,64,14,James Madison,62,TEAM_2,11,2,TEAM_1,True
+1994,First Round,7,Alabama-Birmingham,46,10,George Washington,51,TEAM_2,3,-5,TEAM_2,False
+1994,First Round,2,Connecticut,64,15,Rider,46,TEAM_2,13,18,TEAM_1,True
+1994,First Round,8,Cincinnati,72,9,Wisconsin,80,TEAM_2,1,-8,TEAM_2,False
+1994,First Round,5,Wake Forest,68,12,College of Charleston,58,TEAM_2,7,10,TEAM_1,True
+1994,First Round,1,Purdue,98,16,Central Florida,67,TEAM_2,15,31,TEAM_1,True
+1993,National Championship,1,Michigan,71,1,North Carolina,77,EQUAL,0,-6,TEAM_2,True
+1993,Final Four,1,North Carolina,78,2,Kansas,68,TEAM_2,1,10,TEAM_1,True
+1993,Final Four,1,Kentucky,78,1,Michigan,81,EQUAL,0,-3,TEAM_2,True
+1993,Elite Eight,1,North Carolina,75,2,Cincinnati,68,TEAM_2,1,7,TEAM_1,True
+1993,Elite Eight,1,Michigan,77,7,Temple,72,TEAM_2,6,5,TEAM_1,True
+1993,Elite Eight,1,Indiana,77,2,Kansas,83,TEAM_2,1,-6,TEAM_2,False
+1993,Elite Eight,1,Kentucky,106,3,Florida State,81,TEAM_2,2,25,TEAM_1,True
+1993,Sweet 16,1,Michigan,72,12,George Washington,64,TEAM_2,11,8,TEAM_1,True
+1993,Sweet 16,3,Vanderbilt,59,7,Temple,67,TEAM_2,4,-8,TEAM_2,False
+1993,Sweet 16,1,North Carolina,80,4,Arkansas,74,TEAM_2,3,6,TEAM_1,True
+1993,Sweet 16,6,Virginia,54,2,Cincinnati,71,TEAM_1,-4,-17,TEAM_2,True
+1993,Sweet 16,6,California,76,2,Kansas,93,TEAM_1,-4,-17,TEAM_2,True
+1993,Sweet 16,1,Indiana,82,4,Louisville,69,TEAM_2,3,13,TEAM_1,True
+1993,Sweet 16,3,Florida State,81,7,Western Kentucky,78,TEAM_2,4,3,TEAM_1,True
+1993,Sweet 16,1,Kentucky,103,5,Wake Forest,69,TEAM_2,4,34,TEAM_1,True
+1993,Second Round,1,Kentucky,83,8,Utah,62,TEAM_2,7,21,TEAM_1,True
+1993,Second Round,5,Oklahoma State,63,4,Louisville,78,TEAM_1,-1,-15,TEAM_2,True
+1993,Second Round,1,Indiana,73,9,Xavier,70,TEAM_2,8,3,TEAM_1,True
+1993,Second Round,7,New Mexico State,55,2,Cincinnati,92,TEAM_1,-5,-37,TEAM_2,True
+1993,Second Round,6,Virginia,71,3,Massachusetts,56,TEAM_1,-3,15,TEAM_1,False
+1993,Second Round,12,George Washington,90,13,Southern,80,TEAM_2,1,10,TEAM_1,True
+1993,Second Round,1,Michigan,86,9,UCLA,84,TEAM_2,8,2,TEAM_1,True
+1993,Second Round,5,Wake Forest,84,4,Iowa,78,TEAM_1,-1,6,TEAM_1,False
+1993,Second Round,7,Temple,68,15,Santa Clara,57,TEAM_2,8,11,TEAM_1,True
+1993,Second Round,6,California,82,3,Duke,77,TEAM_1,-3,5,TEAM_1,False
+1993,Second Round,6,Illinois,68,3,Vanderbilt,85,TEAM_1,-3,-17,TEAM_2,True
+1993,Second Round,11,Tulane,63,3,Florida State,94,TEAM_1,-8,-31,TEAM_2,True
+1993,Second Round,7,Brigham Young,76,2,Kansas,90,TEAM_1,-5,-14,TEAM_2,True
+1993,Second Round,7,Western Kentucky,72,2,Seton Hall,68,TEAM_1,-5,4,TEAM_1,False
+1993,Second Round,5,St. John's,74,4,Arkansas,80,TEAM_1,-1,-6,TEAM_2,True
+1993,Second Round,1,North Carolina,112,8,Rhode Island,67,TEAM_2,7,45,TEAM_1,True
+1993,First Round,7,New Mexico State,93,10,Nebraska,79,TEAM_2,3,14,TEAM_1,True
+1993,First Round,3,Massachusetts,54,14,Penn,50,TEAM_2,11,4,TEAM_1,True
+1993,First Round,6,Virginia,78,11,Manhattan,66,TEAM_2,5,12,TEAM_1,True
+1993,First Round,4,Georgia Tech,78,13,Southern,93,TEAM_2,9,-15,TEAM_2,False
+1993,First Round,5,New Mexico,68,12,George Washington,82,TEAM_2,7,-14,TEAM_2,False
+1993,First Round,8,Iowa State,70,9,UCLA,81,TEAM_2,1,-11,TEAM_2,False
+1993,First Round,1,Michigan,84,16,Coastal Carolina,53,TEAM_2,15,31,TEAM_1,True
+1993,First Round,4,Iowa,82,13,Louisiana-Monroe,69,TEAM_2,9,13,TEAM_1,True
+1993,First Round,5,Wake Forest,81,12,Chattanooga,58,TEAM_2,7,23,TEAM_1,True
+1993,First Round,8,Utah,86,9,Pittsburgh,85,TEAM_2,1,1,TEAM_1,True
+1993,First Round,1,Kentucky,96,16,Rider,52,TEAM_2,15,44,TEAM_1,True
+1993,First Round,8,New Orleans,55,9,Xavier,73,TEAM_2,1,-18,TEAM_2,False
+1993,First Round,5,Oklahoma State,74,12,Marquette,62,TEAM_2,7,12,TEAM_1,True
+1993,First Round,4,Louisville,76,13,Delaware,70,TEAM_2,9,6,TEAM_1,True
+1993,First Round,1,Indiana,97,16,Wright State,54,TEAM_2,15,43,TEAM_1,True
+1993,First Round,2,Cincinnati,93,15,Coppin State,66,TEAM_2,13,27,TEAM_1,True
+1993,First Round,7,Temple,75,10,Missouri,61,TEAM_2,3,14,TEAM_1,True
+1993,First Round,3,Florida State,82,14,Evansville,70,TEAM_2,11,12,TEAM_1,True
+1993,First Round,7,Western Kentucky,55,10,Memphis,52,TEAM_2,3,3,TEAM_1,True
+1993,First Round,1,North Carolina,85,16,East Carolina,65,TEAM_2,15,20,TEAM_1,True
+1993,First Round,2,Arizona,61,15,Santa Clara,64,TEAM_2,13,-3,TEAM_2,False
+1993,First Round,3,Vanderbilt,92,14,Boise State,72,TEAM_2,11,20,TEAM_1,True
+1993,First Round,7,Brigham Young,80,10,Southern Methodist,71,TEAM_2,3,9,TEAM_1,True
+1993,First Round,2,Kansas,94,15,Ball State,72,TEAM_2,13,22,TEAM_1,True
+1993,First Round,6,Kansas State,53,11,Tulane,55,TEAM_2,5,-2,TEAM_2,False
+1993,First Round,2,Seton Hall,81,15,Tennessee State,59,TEAM_2,13,22,TEAM_1,True
+1993,First Round,5,St. John's,85,12,Texas Tech,67,TEAM_2,7,18,TEAM_1,True
+1993,First Round,4,Arkansas,94,13,Holy Cross,64,TEAM_2,9,30,TEAM_1,True
+1993,First Round,6,California,66,11,LSU,64,TEAM_2,5,2,TEAM_1,True
+1993,First Round,3,Duke,105,14,Southern Illinois,70,TEAM_2,11,35,TEAM_1,True
+1993,First Round,8,Rhode Island,74,9,Purdue,68,TEAM_2,1,6,TEAM_1,True
+1993,First Round,6,Illinois,75,11,Long Beach State,72,TEAM_2,5,3,TEAM_1,True
+1992,National Championship,6,Michigan,51,1,Duke,71,TEAM_1,-5,-20,TEAM_2,True
+1992,Final Four,4,Cincinnati,72,6,Michigan,76,TEAM_2,2,-4,TEAM_2,False
+1992,Final Four,1,Duke,81,2,Indiana,78,TEAM_2,1,3,TEAM_1,True
+1992,Elite Eight,1,Ohio State,71,6,Michigan,75,TEAM_2,5,-4,TEAM_2,False
+1992,Elite Eight,4,Cincinnati,88,6,Memphis,57,TEAM_2,2,31,TEAM_1,True
+1992,Elite Eight,1,UCLA,79,2,Indiana,106,TEAM_2,1,-27,TEAM_2,False
+1992,Elite Eight,1,Duke,104,2,Kentucky,103,TEAM_2,1,1,TEAM_1,True
+1992,Sweet 16,9,UTEP,67,4,Cincinnati,69,TEAM_1,-5,-2,TEAM_2,True
+1992,Sweet 16,1,Ohio State,80,4,North Carolina,73,TEAM_2,3,7,TEAM_1,True
+1992,Sweet 16,6,Memphis,83,7,Georgia Tech,79,TEAM_2,1,4,TEAM_1,True
+1992,Sweet 16,6,Michigan,75,2,Oklahoma State,72,TEAM_1,-4,3,TEAM_1,False
+1992,Sweet 16,1,Duke,81,4,Seton Hall,69,TEAM_2,3,12,TEAM_1,True
+1992,Sweet 16,1,UCLA,85,12,New Mexico State,78,TEAM_2,11,7,TEAM_1,True
+1992,Sweet 16,3,Florida State,74,2,Indiana,85,TEAM_1,-1,-11,TEAM_2,True
+1992,Sweet 16,3,Massachusetts,77,2,Kentucky,87,TEAM_1,-1,-10,TEAM_2,True
+1992,Second Round,6,Michigan,102,14,East Tennessee State,90,TEAM_2,8,12,TEAM_1,True
+1992,Second Round,6,Syracuse,71,3,Massachusetts,77,TEAM_1,-3,-6,TEAM_2,True
+1992,Second Round,10,Iowa State,98,2,Kentucky,106,TEAM_1,-8,-8,TEAM_2,True
+1992,Second Round,1,UCLA,85,8,Louisville,69,TEAM_2,7,16,TEAM_1,True
+1992,Second Round,12,New Mexico State,81,13,Louisiana-Lafayette,73,TEAM_2,1,8,TEAM_1,True
+1992,Second Round,1,Kansas,60,9,UTEP,66,TEAM_2,8,-6,TEAM_2,False
+1992,Second Round,5,Michigan State,65,4,Cincinnati,77,TEAM_1,-1,-12,TEAM_2,True
+1992,Second Round,10,Tulane,71,2,Oklahoma State,87,TEAM_1,-8,-16,TEAM_2,True
+1992,Second Round,5,Missouri,71,4,Seton Hall,88,TEAM_1,-1,-17,TEAM_2,True
+1992,Second Round,1,Ohio State,78,9,Connecticut,55,TEAM_2,8,23,TEAM_1,True
+1992,Second Round,5,Alabama,55,4,North Carolina,64,TEAM_1,-1,-9,TEAM_2,True
+1992,Second Round,6,Memphis,82,3,Arkansas,80,TEAM_1,-3,2,TEAM_1,False
+1992,Second Round,7,Georgia Tech,79,2,Southern California,78,TEAM_1,-5,1,TEAM_1,False
+1992,Second Round,7,LSU,79,2,Indiana,89,TEAM_1,-5,-10,TEAM_2,True
+1992,Second Round,1,Duke,75,9,Iowa,62,TEAM_2,8,13,TEAM_1,True
+1992,Second Round,6,Georgetown,68,3,Florida State,78,TEAM_1,-3,-10,TEAM_2,True
+1992,First Round,1,Kansas,100,16,Howard,67,TEAM_2,15,33,TEAM_1,True
+1992,First Round,6,Michigan,73,11,Temple,66,TEAM_2,5,7,TEAM_1,True
+1992,First Round,3,Arizona,80,14,East Tennessee State,87,TEAM_2,11,-7,TEAM_2,False
+1992,First Round,7,St. John's,57,10,Tulane,61,TEAM_2,3,-4,TEAM_2,False
+1992,First Round,2,Oklahoma State,100,15,Georgia Southern,73,TEAM_2,13,27,TEAM_1,True
+1992,First Round,6,Syracuse,51,11,Princeton,43,TEAM_2,5,8,TEAM_1,True
+1992,First Round,3,Massachusetts,85,14,Fordham,58,TEAM_2,11,27,TEAM_1,True
+1992,First Round,7,Charlotte,74,10,Iowa State,76,TEAM_2,3,-2,TEAM_2,False
+1992,First Round,2,Kentucky,88,15,Old Dominion,69,TEAM_2,13,19,TEAM_1,True
+1992,First Round,1,UCLA,73,16,Robert Morris,53,TEAM_2,15,20,TEAM_1,True
+1992,First Round,8,Louisville,81,9,Wake Forest,58,TEAM_2,1,23,TEAM_1,True
+1992,First Round,5,DePaul,73,12,New Mexico State,81,TEAM_2,7,-8,TEAM_2,False
+1992,First Round,4,Oklahoma,87,13,Louisiana-Lafayette,83,TEAM_2,9,4,TEAM_1,True
+1992,First Round,8,Evansville,50,9,UTEP,55,TEAM_2,1,-5,TEAM_2,False
+1992,First Round,5,Michigan State,61,12,Missouri State,54,TEAM_2,7,7,TEAM_1,True
+1992,First Round,4,Cincinnati,85,13,Delaware,47,TEAM_2,9,38,TEAM_1,True
+1992,First Round,2,Southern California,84,15,Louisiana-Monroe,54,TEAM_2,13,30,TEAM_1,True
+1992,First Round,2,Indiana,94,15,Eastern Illinois,55,TEAM_2,13,39,TEAM_1,True
+1992,First Round,7,LSU,94,10,Brigham Young,83,TEAM_2,3,11,TEAM_1,True
+1992,First Round,8,Nebraska,65,9,Connecticut,86,TEAM_2,1,-21,TEAM_2,False
+1992,First Round,1,Ohio State,83,16,Mississippi Valley State,56,TEAM_2,15,27,TEAM_1,True
+1992,First Round,3,Florida State,78,14,Montana,68,TEAM_2,11,10,TEAM_1,True
+1992,First Round,6,Memphis,80,11,Pepperdine,70,TEAM_2,5,10,TEAM_1,True
+1992,First Round,3,Arkansas,80,14,Murray St.,69,TEAM_2,11,11,TEAM_1,True
+1992,First Round,7,Georgia Tech,65,10,Houston,60,TEAM_2,3,5,TEAM_1,True
+1992,First Round,6,Georgetown,75,11,South Florida,60,TEAM_2,5,15,TEAM_1,True
+1992,First Round,4,Seton Hall,78,13,La Salle,76,TEAM_2,9,2,TEAM_1,True
+1992,First Round,5,Missouri,89,12,West Virginia,78,TEAM_2,7,11,TEAM_1,True
+1992,First Round,1,Duke,82,16,Campbell,56,TEAM_2,15,26,TEAM_1,True
+1992,First Round,4,North Carolina,68,13,Miami (Ohio),63,TEAM_2,9,5,TEAM_1,True
+1992,First Round,8,Texas,92,9,Iowa,98,TEAM_2,1,-6,TEAM_2,False
+1992,First Round,5,Alabama,80,12,Stanford,75,TEAM_2,7,5,TEAM_1,True
+1991,National Championship,2,Duke,72,3,Kansas,65,TEAM_2,1,7,TEAM_1,True
+1991,Final Four,1,North Carolina,73,3,Kansas,79,TEAM_2,2,-6,TEAM_2,False
+1991,Final Four,1,UNLV,77,2,Duke,79,TEAM_2,1,-2,TEAM_2,False
+1991,Elite Eight,4,St. John's,61,2,Duke,78,TEAM_1,-2,-17,TEAM_2,True
+1991,Elite Eight,1,North Carolina,75,10,Temple,72,TEAM_2,9,3,TEAM_1,True
+1991,Elite Eight,1,Arkansas,81,3,Kansas,93,TEAM_2,2,-12,TEAM_2,False
+1991,Elite Eight,1,UNLV,77,3,Seton Hall,65,TEAM_2,2,12,TEAM_1,True
+1991,Sweet 16,1,Ohio State,74,4,St. John's,91,TEAM_2,3,-17,TEAM_2,False
+1991,Sweet 16,1,North Carolina,93,12,Eastern Michigan,67,TEAM_2,11,26,TEAM_1,True
+1991,Sweet 16,11,Connecticut,67,2,Duke,81,TEAM_1,-9,-14,TEAM_2,True
+1991,Sweet 16,3,Oklahoma State,63,10,Temple,72,TEAM_2,7,-9,TEAM_2,False
+1991,Sweet 16,3,Kansas,83,2,Indiana,65,TEAM_1,-1,18,TEAM_1,False
+1991,Sweet 16,1,Arkansas,93,4,Alabama,70,TEAM_2,3,23,TEAM_1,True
+1991,Sweet 16,1,UNLV,83,4,Utah,66,TEAM_2,3,17,TEAM_1,True
+1991,Sweet 16,3,Seton Hall,81,2,Arizona,77,TEAM_1,-1,4,TEAM_1,False
+1991,Second Round,5,Michigan State,84,4,Utah,85,TEAM_1,-1,-1,TEAM_2,True
+1991,Second Round,1,Arkansas,97,8,Arizona State,90,TEAM_2,7,7,TEAM_1,True
+1991,Second Round,12,Eastern Michigan,71,13,Penn State,68,TEAM_2,1,3,TEAM_1,True
+1991,Second Round,1,North Carolina,84,9,Villanova,69,TEAM_2,8,15,TEAM_1,True
+1991,Second Round,5,Texas,76,4,St. John's,84,TEAM_1,-1,-8,TEAM_2,True
+1991,Second Round,1,Ohio State,65,8,Georgia Tech,61,TEAM_2,7,4,TEAM_1,True
+1991,Second Round,5,Wake Forest,88,4,Alabama,96,TEAM_1,-1,-8,TEAM_2,True
+1991,Second Round,1,UNLV,62,8,Georgetown,54,TEAM_2,7,8,TEAM_1,True
+1991,Second Round,11,Creighton,69,3,Seton Hall,81,TEAM_1,-8,-12,TEAM_2,True
+1991,Second Round,6,Pittsburgh,66,3,Kansas,77,TEAM_1,-3,-11,TEAM_2,True
+1991,Second Round,7,Florida State,60,2,Indiana,82,TEAM_1,-5,-22,TEAM_2,True
+1991,Second Round,6,North Carolina State,64,3,Oklahoma State,73,TEAM_1,-3,-9,TEAM_2,True
+1991,Second Round,10,Temple,77,15,Richmond,64,TEAM_2,5,13,TEAM_1,True
+1991,Second Round,11,Connecticut,66,14,Xavier,50,TEAM_2,3,16,TEAM_1,True
+1991,Second Round,7,Iowa,70,2,Duke,85,TEAM_1,-5,-15,TEAM_2,True
+1991,Second Round,10,Brigham Young,69,2,Arizona,81,TEAM_1,-8,-12,TEAM_2,True
+1991,First Round,8,Princeton,48,9,Villanova,50,TEAM_2,1,-2,TEAM_2,False
+1991,First Round,5,Mississippi State,56,12,Eastern Michigan,76,TEAM_2,7,-20,TEAM_2,False
+1991,First Round,4,UCLA,69,13,Penn State,74,TEAM_2,9,-5,TEAM_2,False
+1991,First Round,5,Texas,73,12,St. Peter's,65,TEAM_2,7,8,TEAM_1,True
+1991,First Round,8,Georgetown,70,9,Vanderbilt,60,TEAM_2,1,10,TEAM_1,True
+1991,First Round,5,Michigan State,60,12,Green Bay,58,TEAM_2,7,2,TEAM_1,True
+1991,First Round,1,Ohio State,97,16,Towson,86,TEAM_2,15,11,TEAM_1,True
+1991,First Round,1,Arkansas,117,16,Georgia State,76,TEAM_2,15,41,TEAM_1,True
+1991,First Round,8,Arizona State,79,9,Rutgers,76,TEAM_2,1,3,TEAM_1,True
+1991,First Round,5,Wake Forest,71,12,Louisiana Tech,65,TEAM_2,7,6,TEAM_1,True
+1991,First Round,4,Alabama,89,13,Murray St.,79,TEAM_2,9,10,TEAM_1,True
+1991,First Round,4,Utah,82,13,South Alabama,72,TEAM_2,9,10,TEAM_1,True
+1991,First Round,8,Georgia Tech,87,9,DePaul,70,TEAM_2,1,17,TEAM_1,True
+1991,First Round,4,St. John's,75,13,Northern Illinois,68,TEAM_2,9,7,TEAM_1,True
+1991,First Round,1,UNLV,99,16,Montana,65,TEAM_2,15,34,TEAM_1,True
+1991,First Round,1,North Carolina,101,16,Northeastern,66,TEAM_2,15,35,TEAM_1,True
+1991,First Round,2,Duke,102,15,Louisiana-Monroe,73,TEAM_2,13,29,TEAM_1,True
+1991,First Round,6,New Mexico State,56,11,Creighton,64,TEAM_2,5,-8,TEAM_2,False
+1991,First Round,3,Seton Hall,71,14,Pepperdine,51,TEAM_2,11,20,TEAM_1,True
+1991,First Round,7,Virginia,48,10,Brigham Young,61,TEAM_2,3,-13,TEAM_2,False
+1991,First Round,2,Arizona,93,15,St. Francis (Pa.),80,TEAM_2,13,13,TEAM_1,True
+1991,First Round,6,LSU,62,11,Connecticut,79,TEAM_2,5,-17,TEAM_2,False
+1991,First Round,3,Nebraska,84,14,Xavier,89,TEAM_2,11,-5,TEAM_2,False
+1991,First Round,7,Iowa,76,10,East Tennessee State,73,TEAM_2,3,3,TEAM_1,True
+1991,First Round,6,North Carolina State,114,11,Southern Mississippi,85,TEAM_2,5,29,TEAM_1,True
+1991,First Round,3,Oklahoma State,67,14,New Mexico,54,TEAM_2,11,13,TEAM_1,True
+1991,First Round,7,Purdue,63,10,Temple,80,TEAM_2,3,-17,TEAM_2,False
+1991,First Round,2,Syracuse,69,15,Richmond,73,TEAM_2,13,-4,TEAM_2,False
+1991,First Round,6,Pittsburgh,76,11,Georgia,68,TEAM_2,5,8,TEAM_1,True
+1991,First Round,3,Kansas,55,14,New Orleans,49,TEAM_2,11,6,TEAM_1,True
+1991,First Round,7,Florida State,75,10,Southern California,72,TEAM_2,3,3,TEAM_1,True
+1991,First Round,2,Indiana,79,15,Coastal Carolina,69,TEAM_2,13,10,TEAM_1,True
+1990,National Championship,1,UNLV,103,3,Duke,73,TEAM_2,2,30,TEAM_1,True
+1990,Final Four,3,Duke,97,4,Arkansas,83,TEAM_2,1,14,TEAM_1,True
+1990,Final Four,4,Georgia Tech,81,1,UNLV,90,TEAM_1,-3,-9,TEAM_2,True
+1990,Elite Eight,1,UNLV,131,11,Loyola Marymount,101,TEAM_2,10,30,TEAM_1,True
+1990,Elite Eight,4,Georgia Tech,93,6,Minnesota,91,TEAM_2,2,2,TEAM_1,True
+1990,Elite Eight,1,Connecticut,78,3,Duke,79,TEAM_2,2,-1,TEAM_2,False
+1990,Elite Eight,4,Arkansas,88,10,Texas,85,TEAM_2,6,3,TEAM_1,True
+1990,Sweet 16,1,UNLV,69,12,Ball State,67,TEAM_2,11,2,TEAM_1,True
+1990,Sweet 16,11,Loyola Marymount,62,7,Alabama,60,TEAM_1,-4,2,TEAM_1,False
+1990,Sweet 16,6,Minnesota,82,2,Syracuse,75,TEAM_1,-4,7,TEAM_1,False
+1990,Sweet 16,1,Michigan State,80,4,Georgia Tech,81,TEAM_2,3,-1,TEAM_2,False
+1990,Sweet 16,6,Xavier,89,10,Texas,102,TEAM_2,4,-13,TEAM_2,False
+1990,Sweet 16,3,Duke,90,7,UCLA,81,TEAM_2,4,9,TEAM_1,True
+1990,Sweet 16,1,Connecticut,71,5,Clemson,70,TEAM_2,4,1,TEAM_1,True
+1990,Sweet 16,8,North Carolina,73,4,Arkansas,96,TEAM_1,-4,-23,TEAM_2,True
+1990,Second Round,10,Texas,73,2,Purdue,72,TEAM_1,-8,1,TEAM_1,False
+1990,Second Round,6,Xavier,74,3,Georgetown,71,TEAM_1,-3,3,TEAM_1,False
+1990,Second Round,7,UCLA,71,2,Kansas,70,TEAM_1,-5,1,TEAM_1,False
+1990,Second Round,6,St. John's,72,3,Duke,76,TEAM_1,-3,-4,TEAM_2,True
+1990,Second Round,7,Alabama,77,2,Arizona,55,TEAM_1,-5,22,TEAM_1,False
+1990,Second Round,7,Virginia,61,2,Syracuse,63,TEAM_1,-5,-2,TEAM_2,True
+1990,Second Round,11,Loyola Marymount,149,3,Michigan,115,TEAM_1,-8,34,TEAM_1,False
+1990,Second Round,1,UNLV,76,8,Ohio State,65,TEAM_2,7,11,TEAM_1,True
+1990,Second Round,6,Minnesota,81,14,Northern Iowa,78,TEAM_2,8,3,TEAM_1,True
+1990,Second Round,5,LSU,91,4,Georgia Tech,94,TEAM_1,-1,-3,TEAM_2,True
+1990,Second Round,12,Ball State,62,4,Louisville,60,TEAM_1,-8,2,TEAM_1,False
+1990,Second Round,1,Connecticut,74,9,California,54,TEAM_2,8,20,TEAM_1,True
+1990,Second Round,5,Clemson,79,4,La Salle,75,TEAM_1,-1,4,TEAM_1,False
+1990,Second Round,1,Oklahoma,77,8,North Carolina,79,TEAM_2,7,-2,TEAM_2,False
+1990,Second Round,12,Dayton,84,4,Arkansas,86,TEAM_1,-8,-2,TEAM_2,True
+1990,Second Round,1,Michigan State,62,9,UC Santa Barbara,58,TEAM_2,8,4,TEAM_1,True
+1990,First Round,3,Michigan,76,14,Illinois State,70,TEAM_2,11,6,TEAM_1,True
+1990,First Round,7,Alabama,71,10,Colorado State,54,TEAM_2,3,17,TEAM_1,True
+1990,First Round,2,Kansas,79,15,Robert Morris,71,TEAM_2,13,8,TEAM_1,True
+1990,First Round,6,Xavier,87,11,Kansas State,79,TEAM_2,5,8,TEAM_1,True
+1990,First Round,6,New Mexico State,92,11,Loyola Marymount,111,TEAM_2,5,-19,TEAM_2,False
+1990,First Round,3,Georgetown,70,14,Texas Southern,52,TEAM_2,11,18,TEAM_1,True
+1990,First Round,7,Georgia,88,10,Texas,100,TEAM_2,3,-12,TEAM_2,False
+1990,First Round,2,Arizona,79,15,South Florida,67,TEAM_2,13,12,TEAM_1,True
+1990,First Round,2,Syracuse,70,15,Coppin State,48,TEAM_2,13,22,TEAM_1,True
+1990,First Round,7,Virginia,75,10,Notre Dame,67,TEAM_2,3,8,TEAM_1,True
+1990,First Round,3,Missouri,71,14,Northern Iowa,74,TEAM_2,11,-3,TEAM_2,False
+1990,First Round,6,Minnesota,64,11,UTEP,61,TEAM_2,5,3,TEAM_1,True
+1990,First Round,6,St. John's,81,11,Temple,65,TEAM_2,5,16,TEAM_1,True
+1990,First Round,3,Duke,81,14,Richmond,46,TEAM_2,11,35,TEAM_1,True
+1990,First Round,7,UCLA,68,10,Alabama-Birmingham,56,TEAM_2,3,12,TEAM_1,True
+1990,First Round,2,Purdue,75,15,Louisiana-Monroe,63,TEAM_2,13,12,TEAM_1,True
+1990,First Round,8,Ohio State,84,9,Providence,83,TEAM_2,1,1,TEAM_1,True
+1990,First Round,4,Louisville,78,13,Idaho,59,TEAM_2,9,19,TEAM_1,True
+1990,First Round,8,Houston,66,9,UC Santa Barbara,70,TEAM_2,1,-4,TEAM_2,False
+1990,First Round,5,Illinois,86,12,Dayton,88,TEAM_2,7,-2,TEAM_2,False
+1990,First Round,4,Arkansas,68,13,Princeton,64,TEAM_2,9,4,TEAM_1,True
+1990,First Round,8,North Carolina,83,9,Missouri State,70,TEAM_2,1,13,TEAM_1,True
+1990,First Round,1,Oklahoma,77,16,Towson,68,TEAM_2,15,9,TEAM_1,True
+1990,First Round,4,La Salle,79,13,Southern Mississippi,63,TEAM_2,9,16,TEAM_1,True
+1990,First Round,5,Clemson,49,12,Brigham Young,47,TEAM_2,7,2,TEAM_1,True
+1990,First Round,8,Indiana,63,9,California,65,TEAM_2,1,-2,TEAM_2,False
+1990,First Round,1,Michigan State,75,16,Murray St.,71,TEAM_2,15,4,TEAM_1,True
+1990,First Round,5,LSU,70,12,Villanova,63,TEAM_2,7,7,TEAM_1,True
+1990,First Round,4,Georgia Tech,99,13,East Tennessee State,83,TEAM_2,9,16,TEAM_1,True
+1990,First Round,1,Connecticut,76,16,Boston University,52,TEAM_2,15,24,TEAM_1,True
+1990,First Round,1,UNLV,102,16,Arkansas-Little Rock,72,TEAM_2,15,30,TEAM_1,True
+1990,First Round,5,Oregon State,53,12,Ball State,54,TEAM_2,7,-1,TEAM_2,False
+1989,National Championship,3,Michigan,80,3,Seton Hall,79,EQUAL,0,1,TEAM_1,True
+1989,Final Four,1,Illinois,81,3,Michigan,83,TEAM_2,2,-2,TEAM_2,False
+1989,Final Four,2,Duke,78,3,Seton Hall,95,TEAM_2,1,-17,TEAM_2,False
+1989,Elite Eight,1,Georgetown,77,2,Duke,85,TEAM_2,1,-8,TEAM_2,False
+1989,Elite Eight,1,Illinois,89,2,Syracuse,86,TEAM_2,1,3,TEAM_1,True
+1989,Elite Eight,4,UNLV,61,3,Seton Hall,84,TEAM_1,-1,-23,TEAM_2,True
+1989,Elite Eight,5,Virginia,65,3,Michigan,102,TEAM_1,-2,-37,TEAM_2,True
+1989,Sweet 16,11,Minnesota,70,2,Duke,87,TEAM_1,-9,-17,TEAM_2,True
+1989,Sweet 16,3,Missouri,80,2,Syracuse,83,TEAM_1,-1,-3,TEAM_2,True
+1989,Sweet 16,1,Illinois,83,4,Louisville,69,TEAM_2,3,14,TEAM_1,True
+1989,Sweet 16,1,Georgetown,69,5,North Carolina State,61,TEAM_2,4,8,TEAM_1,True
+1989,Sweet 16,1,Arizona,67,4,UNLV,68,TEAM_2,3,-1,TEAM_2,False
+1989,Sweet 16,3,Michigan,92,2,North Carolina,87,TEAM_1,-1,5,TEAM_1,False
+1989,Sweet 16,1,Oklahoma,80,5,Virginia,86,TEAM_2,4,-6,TEAM_2,False
+1989,Sweet 16,3,Seton Hall,78,2,Indiana,65,TEAM_1,-1,13,TEAM_1,False
+1989,Second Round,7,UCLA,81,2,North Carolina,88,TEAM_1,-5,-7,TEAM_2,True
+1989,Second Round,11,Texas,89,3,Missouri,108,TEAM_1,-8,-19,TEAM_2,True
+1989,Second Round,11,South Alabama,82,3,Michigan,91,TEAM_1,-8,-9,TEAM_2,True
+1989,Second Round,5,North Carolina State,102,4,Iowa,96,TEAM_1,-1,6,TEAM_1,False
+1989,Second Round,10,Colorado State,50,2,Syracuse,65,TEAM_1,-8,-15,TEAM_2,True
+1989,Second Round,1,Georgetown,81,9,Notre Dame,74,TEAM_2,8,7,TEAM_1,True
+1989,Second Round,11,Evansville,73,3,Seton Hall,87,TEAM_1,-8,-14,TEAM_2,True
+1989,Second Round,7,UTEP,69,2,Indiana,92,TEAM_1,-5,-23,TEAM_2,True
+1989,Second Round,1,Illinois,72,9,Ball State,60,TEAM_2,8,12,TEAM_1,True
+1989,Second Round,12,DePaul,70,4,UNLV,85,TEAM_1,-8,-15,TEAM_2,True
+1989,Second Round,1,Arizona,94,9,Clemson,68,TEAM_2,8,26,TEAM_1,True
+1989,Second Round,7,West Virginia,63,2,Duke,70,TEAM_1,-5,-7,TEAM_2,True
+1989,Second Round,11,Minnesota,80,14,Siena,67,TEAM_2,3,13,TEAM_1,True
+1989,Second Round,5,Virginia,104,13,Middle Tennessee State,88,TEAM_2,8,16,TEAM_1,True
+1989,Second Round,1,Oklahoma,124,9,Louisiana Tech,81,TEAM_2,8,43,TEAM_1,True
+1989,Second Round,5,Arkansas,84,4,Louisville,93,TEAM_1,-1,-9,TEAM_2,True
+1989,First Round,3,Michigan,92,14,Xavier,87,TEAM_2,11,5,TEAM_1,True
+1989,First Round,6,Georgia Tech,70,11,Texas,76,TEAM_2,5,-6,TEAM_2,False
+1989,First Round,3,Missouri,85,14,Creighton,69,TEAM_2,11,16,TEAM_1,True
+1989,First Round,7,Florida,46,10,Colorado State,68,TEAM_2,3,-22,TEAM_2,False
+1989,First Round,5,North Carolina State,81,12,South Carolina,66,TEAM_2,7,15,TEAM_1,True
+1989,First Round,2,Syracuse,104,15,Bucknell,81,TEAM_2,13,23,TEAM_1,True
+1989,First Round,6,Alabama,84,11,South Alabama,86,TEAM_2,5,-2,TEAM_2,False
+1989,First Round,2,Indiana,99,15,George Mason,85,TEAM_2,13,14,TEAM_1,True
+1989,First Round,6,Oregon State,90,11,Evansville,94,TEAM_2,5,-4,TEAM_2,False
+1989,First Round,7,UTEP,85,10,LSU,74,TEAM_2,3,11,TEAM_1,True
+1989,First Round,3,Seton Hall,60,14,Missouri State,51,TEAM_2,11,9,TEAM_1,True
+1989,First Round,4,Iowa,87,13,Rutgers,73,TEAM_2,9,14,TEAM_1,True
+1989,First Round,8,Vanderbilt,65,9,Notre Dame,81,TEAM_2,1,-16,TEAM_2,False
+1989,First Round,1,Georgetown,50,16,Princeton,49,TEAM_2,15,1,TEAM_1,True
+1989,First Round,2,North Carolina,93,15,Southern,79,TEAM_2,13,14,TEAM_1,True
+1989,First Round,7,UCLA,84,10,Iowa State,74,TEAM_2,3,10,TEAM_1,True
+1989,First Round,6,Kansas State,75,11,Minnesota,86,TEAM_2,5,-11,TEAM_2,False
+1989,First Round,4,UNLV,68,13,Idaho,56,TEAM_2,9,12,TEAM_1,True
+1989,First Round,5,Memphis,63,12,DePaul,66,TEAM_2,7,-3,TEAM_2,False
+1989,First Round,8,St. Mary's (Cal.),70,9,Clemson,83,TEAM_2,1,-13,TEAM_2,False
+1989,First Round,1,Arizona,94,16,Robert Morris,60,TEAM_2,15,34,TEAM_1,True
+1989,First Round,2,Duke,90,15,South Carolina State,69,TEAM_2,13,21,TEAM_1,True
+1989,First Round,7,West Virginia,84,10,Tennessee,68,TEAM_2,3,16,TEAM_1,True
+1989,First Round,3,Stanford,78,14,Siena,80,TEAM_2,11,-2,TEAM_2,False
+1989,First Round,4,Florida State,83,13,Middle Tennessee State,97,TEAM_2,9,-14,TEAM_2,False
+1989,First Round,5,Virginia,100,12,Providence,97,TEAM_2,7,3,TEAM_1,True
+1989,First Round,8,La Salle,74,9,Louisiana Tech,83,TEAM_2,1,-9,TEAM_2,False
+1989,First Round,1,Oklahoma,72,16,East Tennessee State,71,TEAM_2,15,1,TEAM_1,True
+1989,First Round,4,Louisville,76,13,Arkansas-Little Rock,71,TEAM_2,9,5,TEAM_1,True
+1989,First Round,5,Arkansas,120,12,Loyola Marymount,101,TEAM_2,7,19,TEAM_1,True
+1989,First Round,8,Pittsburgh,64,9,Ball State,68,TEAM_2,1,-4,TEAM_2,False
+1989,First Round,1,Illinois,77,16,McNeese State,71,TEAM_2,15,6,TEAM_1,True
+1988,National Championship,6,Kansas,83,1,Oklahoma,79,TEAM_1,-5,4,TEAM_1,False
+1988,Final Four,1,Arizona,78,1,Oklahoma,86,EQUAL,0,-8,TEAM_2,True
+1988,Final Four,6,Kansas,66,2,Duke,59,TEAM_1,-4,7,TEAM_1,False
+1988,Elite Eight,1,Arizona,70,2,North Carolina,52,TEAM_2,1,18,TEAM_1,True
+1988,Elite Eight,4,Kansas State,58,6,Kansas,71,TEAM_2,2,-13,TEAM_2,False
+1988,Elite Eight,1,Oklahoma,78,6,Villanova,59,TEAM_2,5,19,TEAM_1,True
+1988,Elite Eight,1,Temple,53,2,Duke,63,TEAM_2,1,-10,TEAM_2,False
+1988,Sweet 16,1,Arizona,99,5,Iowa,79,TEAM_2,4,20,TEAM_1,True
+1988,Sweet 16,1,Purdue,70,4,Kansas State,73,TEAM_2,3,-3,TEAM_2,False
+1988,Sweet 16,3,Michigan,69,2,North Carolina,78,TEAM_1,-1,-9,TEAM_2,True
+1988,Sweet 16,6,Kansas,77,7,Vanderbilt,64,TEAM_2,1,13,TEAM_1,True
+1988,Sweet 16,6,Villanova,80,2,Kentucky,74,TEAM_1,-4,6,TEAM_1,False
+1988,Sweet 16,1,Temple,69,13,Richmond,47,TEAM_2,12,22,TEAM_1,True
+1988,Sweet 16,1,Oklahoma,108,5,Louisville,98,TEAM_2,4,10,TEAM_1,True
+1988,Sweet 16,11,Rhode Island,72,2,Duke,73,TEAM_1,-9,-1,TEAM_2,True
+1988,Second Round,5,Iowa,104,4,UNLV,86,TEAM_1,-1,18,TEAM_1,False
+1988,Second Round,5,Georgia Tech,55,13,Richmond,59,TEAM_2,8,-4,TEAM_2,False
+1988,Second Round,7,Maryland,81,2,Kentucky,90,TEAM_1,-5,-9,TEAM_2,True
+1988,Second Round,1,Arizona,84,8,Seton Hall,55,TEAM_2,7,29,TEAM_1,True
+1988,Second Round,6,Villanova,66,3,Illinois,63,TEAM_1,-3,3,TEAM_1,False
+1988,Second Round,1,Temple,74,8,Georgetown,53,TEAM_2,7,21,TEAM_1,True
+1988,Second Round,6,Kansas,61,14,Murray St.,58,TEAM_2,8,3,TEAM_1,True
+1988,Second Round,5,DePaul,58,4,Kansas State,66,TEAM_1,-1,-8,TEAM_2,True
+1988,Second Round,1,Purdue,100,9,Memphis,73,TEAM_2,8,27,TEAM_1,True
+1988,Second Round,5,Louisville,97,4,Brigham Young,76,TEAM_1,-1,21,TEAM_1,False
+1988,Second Round,6,Florida,85,3,Michigan,108,TEAM_1,-3,-23,TEAM_2,True
+1988,Second Round,1,Oklahoma,107,8,Auburn,87,TEAM_2,7,20,TEAM_1,True
+1988,Second Round,11,Rhode Island,97,3,Syracuse,94,TEAM_1,-8,3,TEAM_1,False
+1988,Second Round,10,Loyola Marymount,97,2,North Carolina,123,TEAM_1,-8,-26,TEAM_2,True
+1988,Second Round,7,Southern Methodist,79,2,Duke,94,TEAM_1,-5,-15,TEAM_2,True
+1988,Second Round,7,Vanderbilt,80,2,Pittsburgh,74,TEAM_1,-5,6,TEAM_1,False
+1988,First Round,7,Maryland,92,10,UC Santa Barbara,82,TEAM_2,3,10,TEAM_1,True
+1988,First Round,8,Seton Hall,80,9,UTEP,64,TEAM_2,1,16,TEAM_1,True
+1988,First Round,4,UNLV,54,13,Missouri State,50,TEAM_2,9,4,TEAM_1,True
+1988,First Round,7,Vanderbilt,80,10,Utah State,77,TEAM_2,3,3,TEAM_1,True
+1988,First Round,2,Pittsburgh,108,15,Eastern Michigan,90,TEAM_2,13,18,TEAM_1,True
+1988,First Round,8,Georgetown,66,9,LSU,63,TEAM_2,1,3,TEAM_1,True
+1988,First Round,5,Georgia Tech,90,12,Iowa State,78,TEAM_2,7,12,TEAM_1,True
+1988,First Round,1,Temple,87,16,Lehigh,73,TEAM_2,15,14,TEAM_1,True
+1988,First Round,6,Villanova,82,11,Arkansas,74,TEAM_2,5,8,TEAM_1,True
+1988,First Round,4,Indiana,69,13,Richmond,72,TEAM_2,9,-3,TEAM_2,False
+1988,First Round,3,Illinois,81,14,Texas-San Antonio,72,TEAM_2,11,9,TEAM_1,True
+1988,First Round,3,North Carolina State,75,14,Murray St.,78,TEAM_2,11,-3,TEAM_2,False
+1988,First Round,6,Kansas,85,11,Xavier,72,TEAM_2,5,13,TEAM_1,True
+1988,First Round,1,Arizona,90,16,Cornell,50,TEAM_2,15,40,TEAM_1,True
+1988,First Round,5,Iowa,102,12,Florida State,98,TEAM_2,7,4,TEAM_1,True
+1988,First Round,2,Kentucky,99,15,Southern,84,TEAM_2,13,15,TEAM_1,True
+1988,First Round,4,Brigham Young,98,13,Charlotte,92,TEAM_2,9,6,TEAM_1,True
+1988,First Round,7,Wyoming,115,10,Loyola Marymount,119,TEAM_2,3,-4,TEAM_2,False
+1988,First Round,8,Baylor,60,9,Memphis,75,TEAM_2,1,-15,TEAM_2,False
+1988,First Round,3,Syracuse,69,14,North Carolina A&T,55,TEAM_2,11,14,TEAM_1,True
+1988,First Round,7,Southern Methodist,83,10,Notre Dame,75,TEAM_2,3,8,TEAM_1,True
+1988,First Round,2,Duke,85,15,Boston University,69,TEAM_2,13,16,TEAM_1,True
+1988,First Round,6,Florida,62,11,St. John's,59,TEAM_2,5,3,TEAM_1,True
+1988,First Round,3,Michigan,63,14,Boise State,58,TEAM_2,11,5,TEAM_1,True
+1988,First Round,2,North Carolina,83,15,North Texas,65,TEAM_2,13,18,TEAM_1,True
+1988,First Round,1,Oklahoma,94,16,Chattanooga,66,TEAM_2,15,28,TEAM_1,True
+1988,First Round,1,Purdue,94,16,Fairleigh Dickinson,79,TEAM_2,15,15,TEAM_1,True
+1988,First Round,5,DePaul,83,12,Wichita State,62,TEAM_2,7,21,TEAM_1,True
+1988,First Round,4,Kansas State,66,13,La Salle,53,TEAM_2,9,13,TEAM_1,True
+1988,First Round,8,Auburn,90,9,Bradley,86,TEAM_2,1,4,TEAM_1,True
+1988,First Round,5,Louisville,70,12,Oregon State,61,TEAM_2,7,9,TEAM_1,True
+1988,First Round,6,Missouri,80,11,Rhode Island,87,TEAM_2,5,-7,TEAM_2,False
+1987,National Championship,1,Indiana,74,2,Syracuse,73,TEAM_2,1,1,TEAM_1,True
+1987,Final Four,1,UNLV,93,1,Indiana,97,EQUAL,0,-4,TEAM_2,True
+1987,Final Four,6,Providence,63,2,Syracuse,77,TEAM_1,-4,-14,TEAM_2,True
+1987,Elite Eight,1,UNLV,84,2,Iowa,81,TEAM_2,1,3,TEAM_1,True
+1987,Elite Eight,1,Indiana,77,10,LSU,76,TEAM_2,9,1,TEAM_1,True
+1987,Elite Eight,1,North Carolina,75,2,Syracuse,79,TEAM_2,1,-4,TEAM_2,False
+1987,Elite Eight,1,Georgetown,73,6,Providence,88,TEAM_2,5,-15,TEAM_2,False
+1987,Sweet 16,3,DePaul,58,10,LSU,63,TEAM_2,7,-5,TEAM_2,False
+1987,Sweet 16,1,UNLV,92,12,Wyoming,78,TEAM_2,11,14,TEAM_1,True
+1987,Sweet 16,6,Oklahoma,91,2,Iowa,93,TEAM_1,-4,-2,TEAM_2,True
+1987,Sweet 16,1,Indiana,88,5,Duke,82,TEAM_2,4,6,TEAM_1,True
+1987,Sweet 16,1,North Carolina,74,5,Notre Dame,68,TEAM_2,4,6,TEAM_1,True
+1987,Sweet 16,1,Georgetown,70,5,Kansas,57,TEAM_2,4,13,TEAM_1,True
+1987,Sweet 16,6,Providence,103,2,Alabama,82,TEAM_1,-4,21,TEAM_1,False
+1987,Sweet 16,6,Florida,81,2,Syracuse,87,TEAM_1,-4,-6,TEAM_2,True
+1987,Second Round,6,St. John's,75,3,DePaul,83,TEAM_1,-3,-8,TEAM_2,True
+1987,Second Round,7,UTEP,82,2,Iowa,84,TEAM_1,-5,-2,TEAM_2,True
+1987,Second Round,10,Western Kentucky,86,2,Syracuse,104,TEAM_1,-8,-18,TEAM_2,True
+1987,Second Round,6,Oklahoma,96,3,Pittsburgh,93,TEAM_1,-3,3,TEAM_1,False
+1987,Second Round,10,LSU,72,2,Temple,62,TEAM_1,-8,10,TEAM_1,False
+1987,Second Round,1,Georgetown,82,9,Ohio State,79,TEAM_2,8,3,TEAM_1,True
+1987,Second Round,6,Florida,85,3,Purdue,66,TEAM_1,-3,19,TEAM_1,False
+1987,Second Round,5,Kansas,67,13,Missouri State,63,TEAM_2,8,4,TEAM_1,True
+1987,Second Round,6,Providence,90,14,Austin Peay,87,TEAM_2,8,3,TEAM_1,True
+1987,Second Round,12,Wyoming,78,4,UCLA,68,TEAM_1,-8,10,TEAM_1,False
+1987,Second Round,1,UNLV,80,9,Kansas State,61,TEAM_2,8,19,TEAM_1,True
+1987,Second Round,1,North Carolina,109,9,Michigan,97,TEAM_2,8,12,TEAM_1,True
+1987,Second Round,7,New Orleans,76,2,Alabama,101,TEAM_1,-5,-25,TEAM_2,True
+1987,Second Round,5,Notre Dame,58,4,TCU,57,TEAM_1,-1,1,TEAM_1,False
+1987,Second Round,5,Duke,65,13,Xavier,60,TEAM_2,8,5,TEAM_1,True
+1987,Second Round,1,Indiana,107,8,Auburn,90,TEAM_2,7,17,TEAM_1,True
+1987,First Round,5,Kansas,66,12,Houston,55,TEAM_2,7,11,TEAM_1,True
+1987,First Round,6,Florida,82,11,North Carolina State,70,TEAM_2,5,12,TEAM_1,True
+1987,First Round,3,Purdue,104,14,Northeastern,95,TEAM_2,11,9,TEAM_1,True
+1987,First Round,2,Syracuse,79,15,Georgia Southern,73,TEAM_2,13,6,TEAM_1,True
+1987,First Round,2,Iowa,99,15,Santa Clara,76,TEAM_2,13,23,TEAM_1,True
+1987,First Round,7,UTEP,98,10,Arizona,91,TEAM_2,3,7,TEAM_1,True
+1987,First Round,8,Kentucky,77,9,Ohio State,91,TEAM_2,1,-14,TEAM_2,False
+1987,First Round,3,Pittsburgh,93,14,Marist,68,TEAM_2,11,25,TEAM_1,True
+1987,First Round,6,Oklahoma,74,11,Tulsa,69,TEAM_2,5,5,TEAM_1,True
+1987,First Round,4,Clemson,60,13,Missouri State,65,TEAM_2,9,-5,TEAM_2,False
+1987,First Round,7,Georgia Tech,79,10,LSU,85,TEAM_2,3,-6,TEAM_2,False
+1987,First Round,7,West Virginia,62,10,Western Kentucky,64,TEAM_2,3,-2,TEAM_2,False
+1987,First Round,6,St. John's,57,11,Wichita State,55,TEAM_2,5,2,TEAM_1,True
+1987,First Round,3,DePaul,76,14,Louisiana Tech,62,TEAM_2,11,14,TEAM_1,True
+1987,First Round,2,Temple,75,15,Southern,56,TEAM_2,13,19,TEAM_1,True
+1987,First Round,1,Georgetown,75,16,Bucknell,53,TEAM_2,15,22,TEAM_1,True
+1987,First Round,7,New Orleans,83,10,Brigham Young,79,TEAM_2,3,4,TEAM_1,True
+1987,First Round,4,UCLA,92,13,Central Michigan,73,TEAM_2,9,19,TEAM_1,True
+1987,First Round,3,Illinois,67,14,Austin Peay,68,TEAM_2,11,-1,TEAM_2,False
+1987,First Round,1,UNLV,95,16,Idaho State,70,TEAM_2,15,25,TEAM_1,True
+1987,First Round,8,Auburn,62,9,San Diego,61,TEAM_2,1,1,TEAM_1,True
+1987,First Round,4,Missouri,69,13,Xavier,70,TEAM_2,9,-1,TEAM_2,False
+1987,First Round,8,Navy,82,9,Michigan,97,TEAM_2,1,-15,TEAM_2,False
+1987,First Round,8,Georgia,79,9,Kansas State,82,TEAM_2,1,-3,TEAM_2,False
+1987,First Round,5,Virginia,60,12,Wyoming,64,TEAM_2,7,-4,TEAM_2,False
+1987,First Round,1,Indiana,92,16,Fairfield,58,TEAM_2,15,34,TEAM_1,True
+1987,First Round,5,Duke,58,12,Texas A&M,51,TEAM_2,7,7,TEAM_1,True
+1987,First Round,4,TCU,76,13,Marshall,60,TEAM_2,9,16,TEAM_1,True
+1987,First Round,5,Notre Dame,84,12,Middle Tennessee State,71,TEAM_2,7,13,TEAM_1,True
+1987,First Round,1,North Carolina,113,16,Penn,82,TEAM_2,15,31,TEAM_1,True
+1987,First Round,6,Providence,90,11,Alabama-Birmingham,68,TEAM_2,5,22,TEAM_1,True
+1987,First Round,2,Alabama,88,15,North Carolina A&T,71,TEAM_2,13,17,TEAM_1,True
+1986,National Championship,2,Louisville,72,1,Duke,69,TEAM_1,-1,3,TEAM_1,False
+1986,Final Four,11,LSU,77,2,Louisville,88,TEAM_1,-9,-11,TEAM_2,True
+1986,Final Four,1,Duke,71,1,Kansas,67,EQUAL,0,4,TEAM_1,True
+1986,Elite Eight,1,Duke,71,7,Navy,50,TEAM_2,6,21,TEAM_1,True
+1986,Elite Eight,1,Kansas,75,6,North Carolina State,67,TEAM_2,5,8,TEAM_1,True
+1986,Elite Eight,1,Kentucky,57,11,LSU,59,TEAM_2,10,-2,TEAM_2,False
+1986,Elite Eight,8,Auburn,76,2,Louisville,84,TEAM_1,-6,-8,TEAM_2,True
+1986,Sweet 16,1,Kansas,96,5,Michigan State,86,TEAM_2,4,10,TEAM_1,True
+1986,Sweet 16,6,North Carolina State,70,7,Iowa State,66,TEAM_2,1,4,TEAM_1,True
+1986,Sweet 16,1,Duke,74,12,DePaul,67,TEAM_2,11,7,TEAM_1,True
+1986,Sweet 16,14,Cleveland State,70,7,Navy,71,TEAM_1,-7,-1,TEAM_2,True
+1986,Sweet 16,3,North Carolina,79,2,Louisville,94,TEAM_1,-1,-15,TEAM_2,True
+1986,Sweet 16,1,Kentucky,68,5,Alabama,63,TEAM_2,4,5,TEAM_1,True
+1986,Sweet 16,11,LSU,70,2,Georgia Tech,64,TEAM_1,-9,6,TEAM_1,False
+1986,Sweet 16,8,Auburn,70,4,UNLV,63,TEAM_1,-4,7,TEAM_1,False
+1986,Second Round,1,St. John's,65,8,Auburn,81,TEAM_2,7,-16,TEAM_2,False
+1986,Second Round,7,Navy,97,2,Syracuse,85,TEAM_1,-5,12,TEAM_1,False
+1986,Second Round,5,Alabama,58,4,Illinois,56,TEAM_1,-1,2,TEAM_1,False
+1986,Second Round,1,Kentucky,71,8,Western Kentucky,64,TEAM_2,7,7,TEAM_1,True
+1986,Second Round,6,North Carolina State,80,14,Arkansas-Little Rock,66,TEAM_2,8,14,TEAM_1,True
+1986,Second Round,7,Iowa State,72,2,Michigan,69,TEAM_1,-5,3,TEAM_1,False
+1986,Second Round,6,St. Joseph's,69,14,Cleveland State,75,TEAM_2,8,-6,TEAM_2,False
+1986,Second Round,5,Maryland,64,4,UNLV,70,TEAM_1,-1,-6,TEAM_2,True
+1986,Second Round,6,Alabama-Birmingham,59,3,North Carolina,77,TEAM_1,-3,-18,TEAM_2,True
+1986,Second Round,11,LSU,83,3,Memphis,81,TEAM_1,-8,2,TEAM_1,False
+1986,Second Round,1,Duke,89,8,Old Dominion,61,TEAM_2,7,28,TEAM_1,True
+1986,Second Round,12,DePaul,74,4,Oklahoma,69,TEAM_1,-8,5,TEAM_1,False
+1986,Second Round,1,Kansas,65,9,Temple,43,TEAM_2,8,22,TEAM_1,True
+1986,Second Round,5,Michigan State,80,4,Georgetown,68,TEAM_1,-1,12,TEAM_1,False
+1986,Second Round,10,Villanova,61,2,Georgia Tech,66,TEAM_1,-8,-5,TEAM_2,True
+1986,Second Round,7,Bradley,68,2,Louisville,82,TEAM_1,-5,-14,TEAM_2,True
+1986,First Round,2,Syracuse,101,15,Brown,52,TEAM_2,13,49,TEAM_1,True
+1986,First Round,1,St. John's,83,16,Montana State,74,TEAM_2,15,9,TEAM_1,True
+1986,First Round,8,Auburn,73,9,Arizona,63,TEAM_2,1,10,TEAM_1,True
+1986,First Round,8,Western Kentucky,67,9,Nebraska,59,TEAM_2,1,8,TEAM_1,True
+1986,First Round,5,Maryland,69,12,Pepperdine,64,TEAM_2,7,5,TEAM_1,True
+1986,First Round,6,North Carolina State,66,11,Iowa,64,TEAM_2,5,2,TEAM_1,True
+1986,First Round,2,Michigan,70,15,Akron,64,TEAM_2,13,6,TEAM_1,True
+1986,First Round,4,UNLV,74,13,Louisiana-Monroe,51,TEAM_2,9,23,TEAM_1,True
+1986,First Round,1,Kentucky,75,16,Davidson,55,TEAM_2,15,20,TEAM_1,True
+1986,First Round,7,Navy,87,10,Tulsa,68,TEAM_2,3,19,TEAM_1,True
+1986,First Round,3,Notre Dame,83,14,Arkansas-Little Rock,90,TEAM_2,11,-7,TEAM_2,False
+1986,First Round,6,St. Joseph's,60,11,Richmond,59,TEAM_2,5,1,TEAM_1,True
+1986,First Round,3,Indiana,79,14,Cleveland State,83,TEAM_2,11,-4,TEAM_2,False
+1986,First Round,4,Illinois,75,13,Fairfield,51,TEAM_2,9,24,TEAM_1,True
+1986,First Round,8,Old Dominion,72,9,West Virginia,64,TEAM_2,1,8,TEAM_1,True
+1986,First Round,7,Iowa State,81,10,Miami (Ohio),79,TEAM_2,3,2,TEAM_1,True
+1986,First Round,5,Alabama,97,12,Xavier,80,TEAM_2,7,17,TEAM_1,True
+1986,First Round,2,Georgia Tech,68,15,Marist,53,TEAM_2,13,15,TEAM_1,True
+1986,First Round,1,Duke,85,16,Mississippi Valley State,78,TEAM_2,15,7,TEAM_1,True
+1986,First Round,5,Virginia,68,12,DePaul,72,TEAM_2,7,-4,TEAM_2,False
+1986,First Round,4,Oklahoma,80,13,Northeastern,74,TEAM_2,9,6,TEAM_1,True
+1986,First Round,1,Kansas,71,16,North Carolina A&T,46,TEAM_2,15,25,TEAM_1,True
+1986,First Round,5,Michigan State,72,12,Washington,70,TEAM_2,7,2,TEAM_1,True
+1986,First Round,7,Virginia Tech,62,10,Villanova,71,TEAM_2,3,-9,TEAM_2,False
+1986,First Round,2,Louisville,93,15,Drexel,73,TEAM_2,13,20,TEAM_1,True
+1986,First Round,8,Jacksonville,50,9,Temple,61,TEAM_2,1,-11,TEAM_2,False
+1986,First Round,4,Georgetown,70,13,Texas Tech,64,TEAM_2,9,6,TEAM_1,True
+1986,First Round,7,Bradley,83,10,UTEP,65,TEAM_2,3,18,TEAM_1,True
+1986,First Round,6,Purdue,87,11,LSU,94,TEAM_2,5,-7,TEAM_2,False
+1986,First Round,3,North Carolina,84,14,Utah,72,TEAM_2,11,12,TEAM_1,True
+1986,First Round,6,Alabama-Birmingham,66,11,Missouri,64,TEAM_2,5,2,TEAM_1,True
+1986,First Round,3,Memphis,95,14,Ball State,63,TEAM_2,11,32,TEAM_1,True
+1985,National Championship,1,Georgetown,64,8,Villanova,66,TEAM_2,7,-2,TEAM_2,False
+1985,Final Four,1,St. John's,59,1,Georgetown,77,EQUAL,0,-18,TEAM_2,True
+1985,Final Four,2,Memphis,45,8,Villanova,52,TEAM_2,6,-7,TEAM_2,False
+1985,Elite Eight,1,St. John's,69,3,North Carolina State,60,TEAM_2,2,9,TEAM_1,True
+1985,Elite Eight,8,Villanova,56,2,North Carolina,44,TEAM_1,-6,12,TEAM_1,False
+1985,Elite Eight,1,Georgetown,60,2,Georgia Tech,54,TEAM_2,1,6,TEAM_1,True
+1985,Elite Eight,1,Oklahoma,61,2,Memphis,63,TEAM_2,1,-2,TEAM_2,False
+1985,Sweet 16,3,North Carolina State,61,7,Alabama,55,TEAM_2,4,6,TEAM_1,True
+1985,Sweet 16,11,Auburn,56,2,North Carolina,62,TEAM_1,-9,-6,TEAM_2,True
+1985,Sweet 16,1,St. John's,86,12,Kentucky,70,TEAM_2,11,16,TEAM_1,True
+1985,Sweet 16,8,Villanova,46,5,Maryland,43,TEAM_1,-3,3,TEAM_1,False
+1985,Sweet 16,3,Illinois,53,2,Georgia Tech,61,TEAM_1,-1,-8,TEAM_2,True
+1985,Sweet 16,11,Boston College,57,2,Memphis,59,TEAM_1,-9,-2,TEAM_2,True
+1985,Sweet 16,1,Oklahoma,86,5,Louisiana Tech,84,TEAM_2,4,2,TEAM_1,True
+1985,Sweet 16,1,Georgetown,65,4,Loyola (Ill.),53,TEAM_2,3,12,TEAM_1,True
+1985,Second Round,11,UTEP,73,3,North Carolina State,86,TEAM_1,-8,-13,TEAM_2,True
+1985,Second Round,7,Syracuse,53,2,Georgia Tech,70,TEAM_1,-5,-17,TEAM_2,True
+1985,Second Round,7,Alabama-Birmingham,66,2,Memphis,67,TEAM_1,-5,-1,TEAM_2,True
+1985,Second Round,7,Alabama,63,2,Virginia Commonwealth,59,TEAM_1,-5,4,TEAM_1,False
+1985,Second Round,6,Georgia,58,3,Illinois,74,TEAM_1,-3,-16,TEAM_2,True
+1985,Second Round,11,Boston College,74,3,Duke,73,TEAM_1,-8,1,TEAM_1,False
+1985,Second Round,1,Michigan,55,8,Villanova,59,TEAM_2,7,-4,TEAM_2,False
+1985,Second Round,5,Maryland,64,13,Navy,59,TEAM_2,8,5,TEAM_1,True
+1985,Second Round,1,Oklahoma,75,9,Illinois State,69,TEAM_2,8,6,TEAM_1,True
+1985,Second Round,1,Georgetown,63,8,Temple,46,TEAM_2,7,17,TEAM_1,True
+1985,Second Round,7,Notre Dame,58,2,North Carolina,60,TEAM_1,-5,-2,TEAM_2,True
+1985,Second Round,5,Southern Methodist,57,4,Loyola (Ill.),70,TEAM_1,-1,-13,TEAM_2,True
+1985,Second Round,12,Kentucky,64,4,UNLV,61,TEAM_1,-8,3,TEAM_1,False
+1985,Second Round,1,St. John's,68,9,Arkansas,65,TEAM_2,8,3,TEAM_1,True
+1985,Second Round,11,Auburn,66,3,Kansas,64,TEAM_1,-8,2,TEAM_1,False
+1985,Second Round,5,Louisiana Tech,79,4,Ohio State,67,TEAM_1,-1,12,TEAM_1,False
+1985,First Round,6,Texas Tech,53,11,Boston College,55,TEAM_2,5,-2,TEAM_2,False
+1985,First Round,7,Alabama,50,10,Arizona,41,TEAM_2,3,9,TEAM_1,True
+1985,First Round,2,Virginia Commonwealth,81,15,Marshall,65,TEAM_2,13,16,TEAM_1,True
+1985,First Round,3,Illinois,76,14,Northeastern,57,TEAM_2,11,19,TEAM_1,True
+1985,First Round,6,Georgia,67,11,Wichita State,59,TEAM_2,5,8,TEAM_1,True
+1985,First Round,7,Syracuse,70,10,DePaul,65,TEAM_2,3,5,TEAM_1,True
+1985,First Round,2,Georgia Tech,65,15,Mercer,58,TEAM_2,13,7,TEAM_1,True
+1985,First Round,3,Duke,75,14,Pepperdine,62,TEAM_2,11,13,TEAM_1,True
+1985,First Round,7,Alabama-Birmingham,70,10,Michigan State,68,TEAM_2,3,2,TEAM_1,True
+1985,First Round,1,Michigan,59,16,Fairleigh Dickinson,55,TEAM_2,15,4,TEAM_1,True
+1985,First Round,8,Villanova,51,9,Dayton,49,TEAM_2,1,2,TEAM_1,True
+1985,First Round,6,Tulsa,75,11,UTEP,79,TEAM_2,5,-4,TEAM_2,False
+1985,First Round,4,LSU,55,13,Navy,78,TEAM_2,9,-23,TEAM_2,False
+1985,First Round,5,Maryland,69,12,Miami (Ohio),68,TEAM_2,7,1,TEAM_1,True
+1985,First Round,2,Memphis,67,15,Penn,55,TEAM_2,13,12,TEAM_1,True
+1985,First Round,3,North Carolina State,65,14,Nevada,56,TEAM_2,11,9,TEAM_1,True
+1985,First Round,8,Southern California,55,9,Illinois State,58,TEAM_2,1,-3,TEAM_2,False
+1985,First Round,6,Purdue,58,11,Auburn,59,TEAM_2,5,-1,TEAM_2,False
+1985,First Round,7,Notre Dame,79,10,Oregon State,70,TEAM_2,3,9,TEAM_1,True
+1985,First Round,2,North Carolina,76,15,Middle Tennessee State,57,TEAM_2,13,19,TEAM_1,True
+1985,First Round,4,Ohio State,75,13,Iowa State,64,TEAM_2,9,11,TEAM_1,True
+1985,First Round,1,Georgetown,68,16,Lehigh,43,TEAM_2,15,25,TEAM_1,True
+1985,First Round,5,Louisiana Tech,78,12,Pittsburgh,54,TEAM_2,7,24,TEAM_1,True
+1985,First Round,1,Oklahoma,96,16,North Carolina A&T,83,TEAM_2,15,13,TEAM_1,True
+1985,First Round,5,Washington,58,12,Kentucky,66,TEAM_2,7,-8,TEAM_2,False
+1985,First Round,4,Loyola (Ill.),59,13,Iona,58,TEAM_2,9,1,TEAM_1,True
+1985,First Round,5,Southern Methodist,85,12,Old Dominion,68,TEAM_2,7,17,TEAM_1,True
+1985,First Round,4,UNLV,85,13,San Diego State,80,TEAM_2,9,5,TEAM_1,True
+1985,First Round,8,Temple,60,9,Virginia Tech,57,TEAM_2,1,3,TEAM_1,True
+1985,First Round,1,St. John's,83,16,Southern,59,TEAM_2,15,24,TEAM_1,True
+1985,First Round,3,Kansas,49,14,Ohio,38,TEAM_2,11,11,TEAM_1,True
+1985,First Round,8,Iowa,54,9,Arkansas,63,TEAM_2,1,-9,TEAM_2,False
