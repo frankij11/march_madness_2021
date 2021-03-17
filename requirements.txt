@@ -1,5 +1,4 @@
 # local package
--e .
 -e git+https://github.com/frankij11/PyCostTools.git#egg=pycost
 pycaret
 sportsreference
