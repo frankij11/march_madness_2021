@@ -1,6 +1,7 @@
 # local package
 -e .
 -e git+https://github.com/frankij11/PyCostTools.git#egg=pycost
+pycaret
 sportsreference
 pandas
 sklearn
@@ -11,7 +12,8 @@ requests
 tabulate
 colorama >= 0.3.8
 future
--f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html h2o
+
+
 
 # external requirements
 click

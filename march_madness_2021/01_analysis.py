@@ -9,11 +9,11 @@ from sklearn.linear_model import LogisticRegression, LogisticRegressionCV, Linea
 from sklearn import metrics
 
 # %%
-teams = pd.read_csv('src/data/season.csv')
-tourny = pd.read_csv('src/data/tournament.csv')
+teams = pd.read_csv('data/season.csv')
+tourny = pd.read_csv('data/tournament.csv')
 
 #%%
-df = pd.read_csv("src/data/march_madness_history.csv")
+df = pd.read_csv("data/march_madness_history.csv")
 df['Winner'] =np.where(df['Winner'] =="TEAM_1", 1,0)
 df.head()
 # %%
@@ -71,13 +71,25 @@ results.sort_values('Test_Score', ascending=False)
 #model.db.Model[10].model_show_transformation()
 
 # %%
-df_2015 = df.query('Year >=2015')
-big_formula = 'Winner~`- Team - Team_1 - Score - Score_1'
-big_model = ct.Model(df_2015, big_formula, model=RandomForestClassifier(), test_split=.1)
+from pycost import process
+big_formula = 'Winner~`- Team - Team_1 - Score - Score_1 - Upset'
+df_2015 = process.MakeFormula("` -1 - Team - Team_1 - Score - Score_1 - Upset - Spread", handle_na=True).fit_transform(df.query('Year >=2015'))
+big_model = ct.Models(df_2015, 'Winner ~ ` ', models=[LogisticRegression(), LogisticRegressionCV(cv=5), RandomForestClassifier(), AdaBoostClassifier()], test_split=.5)
 big_model.fit()
-pd.DataFrame(dict(
-Test_Score = [metrics.accuracy_score(big_model.y_test,big_model.predict(big_model.X_test))],
-Train_Score = [metrics.accuracy_score(big_model.y_train,big_model.predict(big_model.X_train))],
-All_Score = [metrics.accuracy_score(big_model.y,row.Model.predict(big_model.X))]
-))
+# %%
+
+for index,row in big_model.db.iterrows():
+    row.Model.fit()
+    tmp_df = pd.DataFrame(
+        dict(
+            Model = [row.ModelType],
+            Formula = [row.Formula],
+            Test_Score = [metrics.accuracy_score(row.Model.y_test,row.Model.predict(row.Model.X_test))],
+            Train_Score = [metrics.accuracy_score(row.Model.y_train,row.Model.predict(row.Model.X_train))],
+            All_Score = [metrics.accuracy_score(row.Model.y,row.Model.predict(row.Model.X))]
+        )
+    )
+    results = pd.concat([results, tmp_df], ignore_index=True)
+
+results.sort_values('Test_Score', ascending=False)
 # %%
