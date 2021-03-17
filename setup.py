@@ -6,7 +6,7 @@ with open("requirements.txt", "r") as fh:
 
 
 setup(
-    name='march_madness_2021',
+    name='march_madness_2021-kjoy11',
     packages=find_packages(),
     version='0.1.0',
     description='Bracketology like prediction algoirthm for 2021 NCAA Basketall Tournament',
